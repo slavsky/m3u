@@ -8,10 +8,24 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0096/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0100/Stream(01)/index.m3u8
 #EXTINF:-1,Viasat Sport HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0125/Stream(01)/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0121/Stream(01)/index.m3u8
 #EXTINF:-1,Viasat History
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0101/Stream(01)/index.m3u8
 #EXTINF:-1,Viasat Explore
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0102/Stream(01)/index.m3u8
+#EXTINF:-1,Nick HD
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0116/Stream(01)/index.m3u8
+#EXTINF:-1,Discovery Showcase HD
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0117/Stream(01)/index.m3u8
+#EXTINF:-1,Discovery Science
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0110/Stream(01)/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0111/Stream(01)/index.m3u8
+#EXTINF:-1,Viasat Nature HD
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0112/Stream(01)/index.m3u8
+#EXTINF:-1,XXI
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0113/Stream(01)/index.m3u8
 #EXTINF:-1,ICTV
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0005/Stream(01)/index.m3u8
 #EXTINF:-1,1+1 HD
@@ -44,8 +58,6 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0091/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0092/Stream(01)/index.m3u8
 #EXTINF:-1,VIP Comedy
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0120/Stream(01)/index.m3u8
-#EXTINF:-1,Viasat Sport
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0121/Stream(01)/index.m3u8
 #EXTINF:-1,VIP Premier
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0122/Stream(01)/index.m3u8
 #EXTINF:-1,VIP Megahit
@@ -234,22 +246,10 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0107/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0108/Stream(01)/index.m3u8
 #EXTINF:-1,Music Box
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0109/Stream(01)/index.m3u8
-#EXTINF:-1,Discovery Science
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0110/Stream(01)/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0111/Stream(01)/index.m3u8
-#EXTINF:-1,Viasat Nature HD
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0112/Stream(01)/index.m3u8
-#EXTINF:-1,XXI
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0113/Stream(01)/index.m3u8
 #EXTINF:-1,Playboy
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0114/Stream(01)/index.m3u8
 #EXTINF:-1,Fine Living
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0115/Stream(01)/index.m3u8
-#EXTINF:-1,Nick HD
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0116/Stream(01)/index.m3u8
-#EXTINF:-1,Discovery Showcase HD
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0117/Stream(01)/index.m3u8
 #EXTINF:-1,Неизвестный 12
 http://185.102.165.10/static/kyivstar/content/LIVE/ch0118/Stream(01)/index.m3u8
 #EXTINF:-1,Неизвестный 13
