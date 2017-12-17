@@ -10,6 +10,10 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0100/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0125/Stream(01)/index.m3u8
 #EXTINF:-1,Viasat Sport
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0121/Stream(01)/index.m3u8
+#EXTINF:0,МАТЧ! АРЕНА
+http://92.253.184.48:81/udp/239.72.6.159:1234
+#EXTINF:0,МАТЧ! ИГРА
+http://81.177.208.188:4022/udp/232.0.1.34:1234
 #EXTINF:-1,Visasat History HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0140/Stream(01)/index.m3u8
 #EXTINF:-1,Viasat History
