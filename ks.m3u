@@ -1,23 +1,17 @@
 #EXTM3U
 #EXTINF:-1,~ Kyivstar TV - плейлист ~
-#EXTINF:-1,EUROSPORT1
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0095/Stream(01)/index.m3u8
 #EXTINF:-1,EUROSPORT2
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0096/Stream(01)/index.m3u8
 #EXTINF:-1,EUROSPORT1 HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0100/Stream(01)/index.m3u8
 #EXTINF:-1,Viasat Sport HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0125/Stream(01)/index.m3u8
-#EXTINF:-1,Viasat Sport
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0121/Stream(01)/index.m3u8
 #EXTINF:0,МАТЧ! АРЕНА
 http://92.253.184.48:81/udp/239.72.6.159:1234
 #EXTINF:0,МАТЧ! ИГРА
 http://81.177.208.188:4022/udp/232.0.1.34:1234
 #EXTINF:-1,Visasat History HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0140/Stream(01)/index.m3u8
-#EXTINF:-1,Viasat History
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0101/Stream(01)/index.m3u8
 #EXTINF:-1,Viasat Explore
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0102/Stream(01)/index.m3u8
 #EXTINF:-1,Discovery Showcase HD
@@ -238,12 +232,16 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0090/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0093/Stream(01)/index.m3u8
 #EXTINF:-1,France 24 HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0094/Stream(01)/index.m3u8
+#EXTINF:-1,EUROSPORT1
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0095/Stream(01)/index.m3u8
 #EXTINF:-1,Неизвестный 10
 http://185.102.165.10/static/kyivstar/content/LIVE/ch0097/Stream(01)/index.m3u8
 #EXTINF:-1,Неизвестный 11
 http://185.102.165.10/static/kyivstar/content/LIVE/ch0098/Stream(01)/index.m3u8
 #EXTINF:-1,Fashion
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0099/Stream(01)/index.m3u8
+#EXTINF:-1,Viasat History
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0101/Stream(01)/index.m3u8
 #EXTINF:-1,AMC
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0103/Stream(01)/index.m3u8
 #EXTINF:-1,Неизвестный 11
@@ -264,6 +262,8 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0115/Stream(01)/index.m3u8
 http://185.102.165.10/static/kyivstar/content/LIVE/ch0118/Stream(01)/index.m3u8
 #EXTINF:-1,Неизвестный 13
 http://185.102.165.10/static/kyivstar/content/LIVE/ch0119/Stream(01)/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0121/Stream(01)/index.m3u8
 #EXTINF:-1,TLC
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0126/Stream(01)/index.m3u8
 #EXTINF:-1,DW HD
