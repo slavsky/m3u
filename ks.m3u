@@ -36,7 +36,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0017/Stream(01)/index.m3u8
 #http://185.102.165.11/static/kyivstar/content/LIVE/ch0018/Stream(01)/index.m3u8
 #EXTINF:-1,Интер
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0019/Stream(01)/index.m3u8
-#EXTINF:0,Интер +
+#EXTINF:0,Интер+
 http://5.129.211.197:81/udp/239.72.6.123:1234
 #EXTINF:0,Интер +
 http://92.253.188.37:81/udp/239.72.6.123:1234
@@ -170,7 +170,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0050/Stream(01)/index.m3u8
 #http://185.102.165.10/static/kyivstar/content/LIVE/ch0051/Stream(01)/index.m3u8
 #EXTINF:-1,КРТ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0052/Stream(01)/index.m3u8
-#EXTINF:-1,LALE
+#EXTINF:-1,Lale
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0053/Stream(01)/index.m3u8
 #EXTINF:-1,Макси
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0054/Stream(01)/index.m3u8
@@ -224,7 +224,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0085/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0086/Stream(01)/index.m3u8
 #EXTINF:-1,travel
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0087/Stream(01)/index.m3u8
-#EXTINF:-1,Тиса
+#EXTINF:-1,Тиса 1
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0088/Stream(01)/index.m3u8
 ##EXTINF:-1,Неизвестный 9
 #http://185.102.165.10/static/kyivstar/content/LIVE/ch0089/Stream(01)/index.m3u8
@@ -270,7 +270,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0121/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0126/Stream(01)/index.m3u8
 #EXTINF:-1,ТРОФЕЙ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0128/Stream(01)/index.m3u8
-#EXTINF:-1,ДАЧА
+#EXTINF:-1,Дача HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0129/Stream(01)/index.m3u8
 ##EXTINF:-1,Неизвестный 13
 #http://185.102.165.10/static/kyivstar/content/LIVE/ch0130/Stream(01)/index.m3u8
