@@ -128,7 +128,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0032/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0033/Stream(01)/index.m3u8
 #EXTINF:-1,УНИАН
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0035/Stream(01)/index.m3u8
-#EXTINF:-1,UA|TV
+#EXTINF:-1,UA
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0036/Stream(01)/index.m3u8
 #EXTINF:-1,Квартал ТВ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0037/Stream(01)/index.m3u8
