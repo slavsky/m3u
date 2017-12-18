@@ -222,7 +222,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0085/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0086/Stream(01)/index.m3u8
 #EXTINF:-1,travel
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0087/Stream(01)/index.m3u8
-#EXTINF:-1,Тиса
+#EXTINF:-1,Тиса-1
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0088/Stream(01)/index.m3u8
 ##EXTINF:-1,Неизвестный 9
 #http://185.102.165.10/static/kyivstar/content/LIVE/ch0089/Stream(01)/index.m3u8
