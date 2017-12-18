@@ -10,7 +10,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0125/Stream(01)/index.m3u8
 http://92.253.184.48:81/udp/239.72.6.159:1234
 #EXTINF:0,МАТЧ! ИГРА
 http://81.177.208.188:4022/udp/232.0.1.34:1234
-#EXTINF:-1,Visasat History HD
+#EXTINF:-1,Visasat History
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0140/Stream(01)/index.m3u8
 #EXTINF:-1,Viasat Explore
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0102/Stream(01)/index.m3u8
@@ -26,7 +26,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0112/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0113/Stream(01)/index.m3u8
 #EXTINF:-1,ICTV
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0005/Stream(01)/index.m3u8
-#EXTINF:-1,1+1 HD
+#EXTINF:-1,1+1
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0136/Stream(01)/index.m3u8
 #EXTINF:-1,СТБ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0006/Stream(01)/index.m3u8
@@ -42,7 +42,7 @@ http://5.129.211.197:81/udp/239.72.6.123:1234
 http://92.253.188.37:81/udp/239.72.6.123:1234
 #EXTINF:-1,NEWSOne
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0062/Stream(01)/index.m3u8
-#EXTINF:-1,ZiK HD
+#EXTINF:-1,ZiK
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0105/Stream(01)/index.m3u8
 #EXTINF:-1,112 Украина HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0106/Stream(01)/index.m3u8
@@ -50,7 +50,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0106/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0083/Stream(01)/index.m3u8
 #EXTINF:-1,X Sport
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0084/Stream(01)/index.m3u8
-#EXTINF:-1,TV1000 Viasat
+#EXTINF:-1,TV1000
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0064/Stream(01)/index.m3u8
 #EXTINF:-1,Sony Channel
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0057/Stream(01)/index.m3u8
@@ -58,13 +58,13 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0057/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0058/Stream(01)/index.m3u8
 #EXTINF:-1,Sony Sci-Fi
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0075/Stream(01)/index.m3u8
-#EXTINF:-1,World Kino TV1000
+#EXTINF:-1,TV1000 World Kino
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0091/Stream(01)/index.m3u8
 #EXTINF:-1,Action TV1000
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0092/Stream(01)/index.m3u8
 #EXTINF:-1,VIP Comedy
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0120/Stream(01)/index.m3u8
-#EXTINF:-1,VIP Premier
+#EXTINF:-1,ViP Premiere
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0122/Stream(01)/index.m3u8
 #EXTINF:-1,VIP Megahit
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0123/Stream(01)/index.m3u8
@@ -72,6 +72,8 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0123/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0124/Stream(01)/index.m3u8
 #EXTINF:-1,Еврокино
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0076/Stream(01)/index.m3u8
+#EXTINF:-1,Enter Фильм
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0022/Stream(01)/index.m3u8
 #EXTINF:-1,Music Box HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0132/Stream(01)/index.m3u8
 #EXTINF:-1,Фауна
@@ -108,8 +110,6 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0016/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0020/Stream(01)/index.m3u8
 #EXTINF:-1,Телемагазин 2
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0021/Stream(01)/index.m3u8
-#EXTINF:-1,Enter Фильм
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0022/Stream(01)/index.m3u8
 #EXTINF:-1,Мега
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0023/Stream(01)/index.m3u8
 #EXTINF:-1,К1
