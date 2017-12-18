@@ -32,8 +32,8 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0136/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0006/Stream(01)/index.m3u8
 #EXTINF:-1,TV1000
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0017/Stream(01)/index.m3u8
-#EXTINF:-1,Viasat Nature
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0018/Stream(01)/index.m3u8
+##EXTINF:-1,Viasat Nature
+#http://185.102.165.11/static/kyivstar/content/LIVE/ch0018/Stream(01)/index.m3u8
 #EXTINF:-1,Интер
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0019/Stream(01)/index.m3u8
 #EXTINF:0,Интер +
