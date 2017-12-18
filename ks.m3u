@@ -210,7 +210,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0074/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0077/Stream(01)/index.m3u8
 #EXTINF:-1,MTV
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0078/Stream(01)/index.m3u8
-#EXTINF:-1,Культура
+#EXTINF:-1,Культура UA
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0079/Stream(01)/index.m3u8
 ##EXTINF:-1,Неизвестный 8
 #http://185.102.165.10/static/kyivstar/content/LIVE/ch0080/Stream(01)/index.m3u8
@@ -218,9 +218,9 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0079/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0081/Stream(01)/index.m3u8
 #EXTINF:-1,English Club
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0082/Stream(01)/index.m3u8
-#EXTINF:-1,Черноморская
+#EXTINF:-1,Черноморская ТРК
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0085/Stream(01)/index.m3u8
-#EXTINF:-1,Настоящее Время
+#EXTINF:-1,НВ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0086/Stream(01)/index.m3u8
 #EXTINF:-1,travel
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0087/Stream(01)/index.m3u8
@@ -228,11 +228,11 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0087/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0088/Stream(01)/index.m3u8
 ##EXTINF:-1,Неизвестный 9
 #http://185.102.165.10/static/kyivstar/content/LIVE/ch0089/Stream(01)/index.m3u8
-#EXTINF:-1,Перший Захидний
+#EXTINF:-1,Перший Західний
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0090/Stream(01)/index.m3u8
+##EXTINF:-1,France 24
+#http://185.102.165.11/static/kyivstar/content/LIVE/ch0093/Stream(01)/index.m3u8
 #EXTINF:-1,France 24
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0093/Stream(01)/index.m3u8
-#EXTINF:-1,France 24 HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0094/Stream(01)/index.m3u8
 #EXTINF:-1,EUROSPORT1
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0095/Stream(01)/index.m3u8
