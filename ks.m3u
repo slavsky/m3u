@@ -38,7 +38,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0006/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0019/Stream(01)/index.m3u8
 #EXTINF:0,Интер+
 http://5.129.211.197:81/udp/239.72.6.123:1234
-#EXTINF:0,Интер +
+#EXTINF:0,Интер+
 http://92.253.188.37:81/udp/239.72.6.123:1234
 #EXTINF:-1,NEWSOne
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0062/Stream(01)/index.m3u8
@@ -84,9 +84,9 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0003/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0004/Stream(01)/index.m3u8
 #EXTINF:-1,ТЕРРА
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0007/Stream(01)/index.m3u8
-#EXTINF:-1,UA:Крим
+#EXTINF:-1,Крым 24
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0008/Stream(01)/index.m3u8
-#EXTINF:-1,24 News
+#EXTINF:-1,24 TV
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0009/Stream(01)/index.m3u8
 ##EXTINF:-1,Неизвестный1
 #http://185.102.165.10/static/kyivstar/content/LIVE/ch0010/Stream(01)/index.m3u8
@@ -120,7 +120,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0027/Stream(01)/index.m3u8
 #http://185.102.165.10/static/kyivstar/content/LIVE/ch0029/Stream(01)/index.m3u8
 #EXTINF:-1,Прямий
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0030/Stream(01)/index.m3u8
-#EXTINF:-1,Київ
+#EXTINF:-1,ТРК Київ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0031/Stream(01)/index.m3u8
 #EXTINF:-1,Наука
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0032/Stream(01)/index.m3u8
@@ -128,9 +128,9 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0032/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0033/Stream(01)/index.m3u8
 #EXTINF:-1,УНИАН
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0035/Stream(01)/index.m3u8
-#EXTINF:-1,UA TV
+#EXTINF:-1,UA|TV
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0036/Stream(01)/index.m3u8
-#EXTINF:-1,Kvartal TV
+#EXTINF:-1,Квартал ТВ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0037/Stream(01)/index.m3u8
 #EXTINF:-1,Boutique TV
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0038/Stream(01)/index.m3u8
@@ -150,7 +150,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0043/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0028/Stream(01)/index.m3u8
 #EXTINF:-1,Плюс Плюс
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0034/Stream(01)/index.m3u8
-#EXTINF:-1,Nick HD
+#EXTINF:-1,Nickelodeon HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0116/Stream(01)/index.m3u8
 #EXTINF:-1,Nick Jr
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0002/Stream(01)/index.m3u8
@@ -176,13 +176,13 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0053/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0054/Stream(01)/index.m3u8
 #EXTINF:-1,NEWS Network
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0055/Stream(01)/index.m3u8
-#EXTINF:-1,Винтаж
+#EXTINF:-1,Винтаж ТВ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0056/Stream(01)/index.m3u8
-#EXTINF:-1,Громадське ТБ HD
+#EXTINF:-1,Громадське ТБ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0059/Stream(01)/index.m3u8
 #EXTINF:-1,Shopping TV
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0060/Stream(01)/index.m3u8
-#EXTINF:-1,Караван TV
+#EXTINF:-1,Караван ТВ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0061/Stream(01)/index.m3u8
 #EXTINF:-1,EU Music
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0065/Stream(01)/index.m3u8
@@ -270,7 +270,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0121/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0126/Stream(01)/index.m3u8
 #EXTINF:-1,ТРОФЕЙ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0128/Stream(01)/index.m3u8
-#EXTINF:-1,Дача HD
+#EXTINF:-1,Дача
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0129/Stream(01)/index.m3u8
 ##EXTINF:-1,Неизвестный 13
 #http://185.102.165.10/static/kyivstar/content/LIVE/ch0130/Stream(01)/index.m3u8
