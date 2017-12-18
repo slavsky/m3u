@@ -186,7 +186,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0060/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0061/Stream(01)/index.m3u8
 #EXTINF:-1,EU Music
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0065/Stream(01)/index.m3u8
-#EXTINF:-1,5 Канал
+#EXTINF:-1,5 канал (UA)
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0066/Stream(01)/index.m3u8
 #EXTINF:-1,Food Network
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0067/Stream(01)/index.m3u8
@@ -218,7 +218,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0079/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0081/Stream(01)/index.m3u8
 #EXTINF:-1,English Club
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0082/Stream(01)/index.m3u8
-#EXTINF:-1,ТРК Черноморская
+#EXTINF:-1,Черноморское ТВ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0085/Stream(01)/index.m3u8
 #EXTINF:-1,Настоящее Время
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0086/Stream(01)/index.m3u8
