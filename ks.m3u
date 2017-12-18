@@ -206,7 +206,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0127/Stream(01)/index.m3u8
 #http://185.102.165.10/static/kyivstar/content/LIVE/ch0073/Stream(01)/index.m3u8
 #EXTINF:-1,Espreso
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0074/Stream(01)/index.m3u8
-#EXTINF:-1,ЦК
+#EXTINF:-1,Центральний Канал
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0077/Stream(01)/index.m3u8
 #EXTINF:-1,MTV
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0078/Stream(01)/index.m3u8
