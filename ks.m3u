@@ -86,7 +86,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0004/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0007/Stream(01)/index.m3u8
 #EXTINF:-1,Крым 24
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0008/Stream(01)/index.m3u8
-#EXTINF:-1,24 TV
+#EXTINF:-1,24 Новости
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0009/Stream(01)/index.m3u8
 ##EXTINF:-1,Неизвестный1
 #http://185.102.165.10/static/kyivstar/content/LIVE/ch0010/Stream(01)/index.m3u8
