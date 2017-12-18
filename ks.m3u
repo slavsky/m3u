@@ -30,8 +30,8 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0005/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0136/Stream(01)/index.m3u8
 #EXTINF:-1,СТБ
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0006/Stream(01)/index.m3u8
-#EXTINF:-1,TV1000
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0017/Stream(01)/index.m3u8
+##EXTINF:-1,TV1000
+#http://185.102.165.11/static/kyivstar/content/LIVE/ch0017/Stream(01)/index.m3u8
 ##EXTINF:-1,Viasat Nature
 #http://185.102.165.11/static/kyivstar/content/LIVE/ch0018/Stream(01)/index.m3u8
 #EXTINF:-1,Интер
@@ -42,7 +42,7 @@ http://5.129.211.197:81/udp/239.72.6.123:1234
 http://92.253.188.37:81/udp/239.72.6.123:1234
 #EXTINF:-1,NEWSOne
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0062/Stream(01)/index.m3u8
-#EXTINF:-1,ZiK
+#EXTINF:-1,ZIK
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0105/Stream(01)/index.m3u8
 #EXTINF:-1,112 Украина HD
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0106/Stream(01)/index.m3u8
@@ -58,7 +58,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0057/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0058/Stream(01)/index.m3u8
 #EXTINF:-1,Sony Sci-Fi
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0075/Stream(01)/index.m3u8
-#EXTINF:-1,TV1000 Русское кино
+#EXTINF:-1,TV1000 World Kino
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0091/Stream(01)/index.m3u8
 #EXTINF:-1,Action TV1000
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0092/Stream(01)/index.m3u8
@@ -100,11 +100,11 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0013/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0014/Stream(01)/index.m3u8
 #EXTINF:-1,Телемагазин Украина
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0015/Stream(01)/index.m3u8
-#EXTINF:-1,Індіго
+#EXTINF:-1,Індиго
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0016/Stream(01)/index.m3u8
 #EXTINF:-1,НТН
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0020/Stream(01)/index.m3u8
-#EXTINF:-1,ЕКО-ТВ
+#EXTINF:-1,Eco-TV
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0021/Stream(01)/index.m3u8
 #EXTINF:-1,Мега
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0023/Stream(01)/index.m3u8
