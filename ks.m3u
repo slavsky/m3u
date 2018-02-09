@@ -34,17 +34,13 @@ http://178.150.208.69:81/udp/238.0.0.5:1234
 #EXTINF:-1,1+1
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0136/Stream(01)/index.m3u8
 #EXTINF:-1,СТБ
-#http://185.102.165.11/static/kyivstar/content/LIVE/ch0006/Stream(01)/index.m3u8
-http://178.150.208.69:81/udp/238.0.0.8:1234
-#EXTINF:-1,СТБ
-http://tv.crypton.com.ua/stream?id=3468 
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0006/Stream(01)/index.m3u8
 ##EXTINF:-1,TV1000
 #http://185.102.165.11/static/kyivstar/content/LIVE/ch0017/Stream(01)/index.m3u8
 ##EXTINF:-1,Viasat Nature
 #http://185.102.165.11/static/kyivstar/content/LIVE/ch0018/Stream(01)/index.m3u8
 #EXTINF:-1,Интер
-#http://185.102.165.11/static/kyivstar/content/LIVE/ch0019/Stream(01)/index.m3u8
-http://178.150.208.69:81/udp/238.0.0.4:1234
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0019/Stream(01)/index.m3u8
 #EXTINF:0,Интер+
 http://5.129.211.197:81/udp/239.72.6.123:1234
 #EXTINF:0,Интер+
@@ -118,8 +114,7 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0021/Stream(01)/index.m3u8
 #EXTINF:-1,Мега
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0023/Stream(01)/index.m3u8
 #EXTINF:-1,К1
-#http://185.102.165.11/static/kyivstar/content/LIVE/ch0024/Stream(01)/index.m3u8
-http://178.150.208.69:81/udp/238.0.0.13:1234
+http://185.102.165.11/static/kyivstar/content/LIVE/ch0024/Stream(01)/index.m3u8
 #EXTINF:-1,К2
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0025/Stream(01)/index.m3u8
 ##EXTINF:-1,Неизвестный 2
