@@ -30,10 +30,10 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0112/Stream(01)/index.m3u8
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0113/Stream(01)/index.m3u8
 #EXTINF:-1,ICTV
 http://178.150.208.69:81/udp/238.0.0.5:1234
-#EXTINF:-1,ICTV 
-http://tv.crypton.com.ua/stream?id=3456 
-#EXTINF:-1,ICTV
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0005/Stream(01)/index.m3u8
+##EXTINF:-1,ICTV 
+#http://tv.crypton.com.ua/stream?id=3456 
+##EXTINF:-1,ICTV
+#http://185.102.165.11/static/kyivstar/content/LIVE/ch0005/Stream(01)/index.m3u8
 #EXTINF:-1,1+1
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0136/Stream(01)/index.m3u8
 #EXTINF:-1,СТБ
