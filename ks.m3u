@@ -12,6 +12,18 @@ http://92.253.184.48:81/udp/239.72.6.159:1234
 http://81.177.208.188:4022/udp/232.0.1.34:1234
 #EXTINF:0,Матч! Наш Спорт
 http://158.46.241.29:81/udp/239.255.42.27:1234
+#EXTINF:-1,Наш футбол HQ
+http://109.248.236.41:4433/udp/238.1.1.76:1234
+#EXTINF:-1,Телеканал Футбол
+http://195.49.206.243:8000/udp/239.255.1.76:1234
+#EXTINF:-1,Матч! HD
+http://195.49.206.243:8000/udp/239.255.1.128:1234
+#EXTINF:-1,Матч!
+http://195.49.206.243:8000/udp/239.255.1.3:1234
+#EXTINF:-1,Матч! Боец
+http://serv25.vintera.tv:8081/sport/boets1e/chunklist.m3u8
+#EXTINF:-1,Матч! Планета
+http://109.248.236.41:4433/udp/238.1.1.39:1234
 #EXTINF:0,Матч! ФУТБОЛ 1
 http://178.252.75.110:4022/udp/233.166.172.236:1234
 #EXTINF:-1,Viasat History HD
@@ -29,11 +41,15 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0112/Stream(01)/index.m3u8
 #EXTINF:-1,XXI
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0113/Stream(01)/index.m3u8
 #EXTINF:-1,ICTV
+http://live.ictv.ua/hls/ICTV.m3u8
+#EXTINF:-1,ICTV
 http://178.150.208.69:81/udp/238.0.0.5:1234
 ##EXTINF:-1,ICTV 
 #http://tv.crypton.com.ua/stream?id=3456 
 ##EXTINF:-1,ICTV
 #http://185.102.165.11/static/kyivstar/content/LIVE/ch0005/Stream(01)/index.m3u8
+#EXTINF:-1,1+1
+http://178.158.194.48:9981/stream/channelid/1829706468
 #EXTINF:-1,1+1
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0136/Stream(01)/index.m3u8
 #EXTINF:-1,1+1
@@ -49,11 +65,15 @@ http://185.102.165.11/static/kyivstar/content/LIVE/ch0006/Stream(01)/index.m3u8
 ##EXTINF:-1,Viasat Nature
 #http://185.102.165.11/static/kyivstar/content/LIVE/ch0018/Stream(01)/index.m3u8
 #EXTINF:-1,Интер
+http://109.68.40.67/life/inter.m3u8
+#EXTINF:-1,Интер
 http://178.150.208.69:81/udp/238.0.0.4:1234
 #EXTINF:-1,Интер 
 http://tv.crypton.com.ua/stream?id=3451 
 #EXTINF:-1,Интер
 http://185.102.165.11/static/kyivstar/content/LIVE/ch0019/Stream(01)/index.m3u8
+#EXTINF:0,Интер+
+http://195.49.206.243:8000/udp/239.255.1.71:1234
 #EXTINF:0,Интер+
 http://5.129.211.197:81/udp/239.72.6.123:1234
 #EXTINF:0,Интер+
@@ -334,6 +354,10 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:0,01 ПЕРВЫЙ КАНАЛ
 http://37.235.233.199:81/udp/225.50.66.93:1234
+#EXTINF:-1,Первый HD
+http://195.49.206.243:8000/udp/239.255.1.127:1234
+#EXTINF:-1,Первый
+http://195.49.206.243:8000/udp/239.255.1.1:1234
 #EXTINF:0,02 РОССИЯ-1
 http://37.235.233.199:81/udp/225.50.66.97:1234
 #EXTINF:0,04 НТВ
@@ -346,6 +370,12 @@ http://37.235.233.199:81/udp/225.50.66.87:1234
 http://37.235.233.199:81/udp/225.50.66.86:1234
 #EXTINF:0,19 ТНТ-1
 http://37.235.233.199:81/udp/225.50.66.59:1234
+#EXTINF:-1,ТНТ
+http://195.49.206.243:8000/udp/239.255.1.19:1234
+#EXTINF:-1,ТНТ4
+http://109.248.236.41:4433/udp/238.1.1.12:1234
+#EXTINF:-1,ТНТ4/12 канал +4
+http://pstv.krasmix.ru/tv/12tv/playlist.m3u8
 #EXTINF:0,Че
 http://178.163.101.204:4022/udp/234.0.0.218:2000
 #EXTINF:0,Дождь
@@ -356,6 +386,8 @@ http://188.134.29.155:81/udp/235.10.10.5:1234
 http://188.134.29.155:81/udp/235.10.10.16:1234
 #EXTINF:0,Матч ТВ
 http://93.91.113.8:9999/play/a05y
+#EXTINF:-1,Russia Today Документальный
+http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1,===Бесплатный плейлист от soc4up (4pda)===
 #EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/536.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/983" ,Первый HD (+4)
 http://82.200.127.58:8080/udp/239.54.7.61:1224
