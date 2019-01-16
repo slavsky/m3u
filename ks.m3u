@@ -1,1928 +1,289 @@
 #EXTM3U
-#EXTINF:-1,~ Kyivstar TV - плейлист ~
-#EXTINF:-1,EUROSPORT2
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0096/Stream(01)/index.m3u8
-#EXTINF:-1,EUROSPORT1 HD
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0100/Stream(01)/index.m3u8
-#EXTINF:-1,Viasat Sport HD
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0125/Stream(01)/index.m3u8
-#EXTINF:0,МАТЧ! АРЕНА
-http://92.253.184.48:81/udp/239.72.6.159:1234
-#EXTINF:0,МАТЧ! ИГРА
-http://81.177.208.188:4022/udp/232.0.1.34:1234
-#EXTINF:0,Матч! Наш Спорт
-http://158.46.241.29:81/udp/239.255.42.27:1234
-#EXTINF:-1,Наш футбол HQ
-http://109.248.236.41:4433/udp/238.1.1.76:1234
-#EXTINF:-1,Телеканал Футбол
-http://195.49.206.243:8000/udp/239.255.1.76:1234
-#EXTINF:-1,Матч! HD
-http://195.49.206.243:8000/udp/239.255.1.128:1234
-#EXTINF:-1,Матч!
-http://195.49.206.243:8000/udp/239.255.1.3:1234
-#EXTINF:-1,Матч! Боец
-http://serv25.vintera.tv:8081/sport/boets1e/chunklist.m3u8
-#EXTINF:-1,Матч! Планета
-http://109.248.236.41:4433/udp/238.1.1.39:1234
-#EXTINF:0,Матч! ФУТБОЛ 1
-http://178.252.75.110:4022/udp/233.166.172.236:1234
-#EXTINF:-1,Viasat History HD
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0140/Stream(01)/index.m3u8
-#EXTINF:-1,Viasat Explore
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0102/Stream(01)/index.m3u8
-#EXTINF:-1,Discovery Showcase HD
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0117/Stream(01)/index.m3u8
-#EXTINF:-1,Discovery Science
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0110/Stream(01)/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0111/Stream(01)/index.m3u8
-#EXTINF:-1,Viasat Nature HD
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0112/Stream(01)/index.m3u8
-#EXTINF:-1,XXI
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0113/Stream(01)/index.m3u8
-#EXTINF:-1,ICTV
-http://live.ictv.ua/hls/ICTV.m3u8
-#EXTINF:-1,ICTV
-http://178.150.208.69:81/udp/238.0.0.5:1234
-##EXTINF:-1,ICTV 
-#http://tv.crypton.com.ua/stream?id=3456 
-##EXTINF:-1,ICTV
-#http://185.102.165.11/static/kyivstar/content/LIVE/ch0005/Stream(01)/index.m3u8
-#EXTINF:-1,1+1
-http://178.158.194.48:9981/stream/channelid/1829706468
-#EXTINF:-1,1+1
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0136/Stream(01)/index.m3u8
-#EXTINF:-1,1+1
-http://178.150.208.69:81/udp/238.0.0.3:1234
-#EXTINF:-1,СТБ
-http://178.150.208.69:81/udp/238.0.0.8:1234
-#EXTINF:-1,СТБ 
-http://tv.crypton.com.ua/stream?id=3468
-#EXTINF:-1,СТБ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0006/Stream(01)/index.m3u8
-##EXTINF:-1,TV1000
-#http://185.102.165.11/static/kyivstar/content/LIVE/ch0017/Stream(01)/index.m3u8
-##EXTINF:-1,Viasat Nature
-#http://185.102.165.11/static/kyivstar/content/LIVE/ch0018/Stream(01)/index.m3u8
-#EXTINF:-1,Интер
-http://109.68.40.67/life/inter.m3u8
-#EXTINF:-1,Интер
-http://178.150.208.69:81/udp/238.0.0.4:1234
-#EXTINF:-1,Интер 
-http://tv.crypton.com.ua/stream?id=3451 
-#EXTINF:-1,Интер
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0019/Stream(01)/index.m3u8
-#EXTINF:0,Интер+
-http://195.49.206.243:8000/udp/239.255.1.71:1234
-#EXTINF:0,Интер+
-http://5.129.211.197:81/udp/239.72.6.123:1234
-#EXTINF:0,Интер+
-http://92.253.188.37:81/udp/239.72.6.123:1234
-#EXTINF:-1,NEWSOne
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0062/Stream(01)/index.m3u8
-#EXTINF:-1,ZIK Украина
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0105/Stream(01)/index.m3u8
-#EXTINF:-1,112 Украина HD
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0106/Stream(01)/index.m3u8
-#EXTINF:-1,English Club HD
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0083/Stream(01)/index.m3u8
-#EXTINF:-1,X Sport
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0084/Stream(01)/index.m3u8
-#EXTINF:-1,TV1000
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0064/Stream(01)/index.m3u8
-#EXTINF:-1,Sony Channel
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0057/Stream(01)/index.m3u8
-#EXTINF:-1,Sony Turbo
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0058/Stream(01)/index.m3u8
-#EXTINF:-1,Sony Sci-Fi
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0075/Stream(01)/index.m3u8
-#EXTINF:-1,TV1000 World Kino
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0091/Stream(01)/index.m3u8
-#EXTINF:-1,Action TV1000
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0092/Stream(01)/index.m3u8
-##EXTINF:-1,VIP Comedy
-#http://185.102.165.11/static/kyivstar/content/LIVE/ch0120/Stream(01)/index.m3u8
-#EXTINF:-1,ViP Premiere
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0122/Stream(01)/index.m3u8
-#EXTINF:-1,VIP Megahit
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0123/Stream(01)/index.m3u8
-#EXTINF:-1,VIP Comedy
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0124/Stream(01)/index.m3u8
-#EXTINF:-1,Еврокино
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0076/Stream(01)/index.m3u8
-#EXTINF:-1,Ентер
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0022/Stream(01)/index.m3u8
-#EXTINF:-1,Music Box HD
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0132/Stream(01)/index.m3u8
-#EXTINF:-1,Фауна
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0001/Stream(01)/index.m3u8
-#EXTINF:-1,UA Перший
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0003/Stream(01)/index.m3u8
-#EXTINF:-1,ТРК Украиiна
-http://178.150.208.69:81/udp/238.0.0.9:1234
-#EXTINF:-1,Новый канал
-http://178.150.208.69:81/udp/238.0.0.7:1234
-#EXTINF:-1,ТЕТ
-http://178.150.208.69:81/udp/238.0.0.11:1234
-#EXTINF:-1,ТЕРРА
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0007/Stream(01)/index.m3u8
-#EXTINF:-1,UA:Крым
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0008/Stream(01)/index.m3u8
-#EXTINF:-1,24 Канал Украина
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0009/Stream(01)/index.m3u8
-#EXTINF:-1,ОЦЕ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0011/Stream(01)/index.m3u8
-#EXTINF:-1,M2
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0012/Stream(01)/index.m3u8
-#EXTINF:-1,M1
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0013/Stream(01)/index.m3u8
-#EXTINF:-1,М1
-http://178.150.208.69:81/udp/238.0.0.14:1234
-#EXTINF:-1,М2
-http://178.150.208.69:81/udp/238.0.0.46:1234
-#EXTINF:-1,CNL Украина
-http://178.150.208.69:81/udp/238.0.1.60:1234
-#EXTINF:-1,Viasat Sport
-http://178.150.208.69:81/udp/238.0.1.12:1234
-#EXTINF:-1,Перший деловой
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0014/Stream(01)/index.m3u8
-#EXTINF:-1,Индиго
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0016/Stream(01)/index.m3u8
-#EXTINF:-1,Индиго
-http://178.150.208.69:81/udp/238.0.0.222:1234
-#EXTINF:-1,НТН
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0020/Stream(01)/index.m3u8
-#EXTINF:-1,Eco-TV
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0021/Stream(01)/index.m3u8
-#EXTINF:-1,Мега
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0023/Stream(01)/index.m3u8
-#EXTINF:-1,К1
-http://178.150.208.69:81/udp/238.0.0.13:1234
-#EXTINF:-1,К2
-http://178.150.208.69:81/udp/238.0.0.23:1234
-##EXTINF:-1,Неизвестный 2
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0026/Stream(01)/index.m3u8
-#EXTINF:-1,Zoom
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0027/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 3
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0029/Stream(01)/index.m3u8
-#EXTINF:-1,Прямий
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0030/Stream(01)/index.m3u8
-#EXTINF:-1,ТРК Киев
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0031/Stream(01)/index.m3u8
-#EXTINF:-1,Наука
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0032/Stream(01)/index.m3u8
-#EXTINF:-1,O-TV
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0033/Stream(01)/index.m3u8
-#EXTINF:-1,УНИАН
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0035/Stream(01)/index.m3u8
-#EXTINF:-1,UA
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0036/Stream(01)/index.m3u8
-#EXTINF:-1,Квартал ТВ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0037/Stream(01)/index.m3u8
-#EXTINF:-1,Boutique TV
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0038/Stream(01)/index.m3u8
-#EXTINF:-1,ТЕТ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0039/Stream(01)/index.m3u8
-#EXTINF:-1,2+2
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0040/Stream(01)/index.m3u8
-#EXTINF:-1,2+2
-http://178.150.208.69:81/udp/238.0.0.50:1234
-#EXTINF:-1,Рада
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0041/Stream(01)/index.m3u8
-#EXTINF:-1,Глас
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0042/Stream(01)/index.m3u8
-#EXTINF:-1,Epoque
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0044/Stream(01)/index.m3u8
-#EXTINF:-1,Малятко
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0043/Stream(01)/index.m3u8
-#EXTINF:-1,Пиксель ТВ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0028/Stream(01)/index.m3u8
-#EXTINF:-1,Плюс Плюс
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0034/Stream(01)/index.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0116/Stream(01)/index.m3u8
-#EXTINF:-1,Nick Jr
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0002/Stream(01)/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0045/Stream(01)/index.m3u8
-#EXTINF:-1,Outdoor
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0046/Stream(01)/index.m3u8
-#EXTINF:-1,8 канал
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0047/Stream(01)/index.m3u8
-#EXTINF:-1,RTI UA
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0048/Stream(01)/index.m3u8
-#EXTINF:-1,Сонце
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0049/Stream(01)/index.m3u8
-#EXTINF:-1,АТР
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0050/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 4
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0051/Stream(01)/index.m3u8
-#EXTINF:-1,КРТ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0052/Stream(01)/index.m3u8
-#EXTINF:-1,Lale
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0053/Stream(01)/index.m3u8
-#EXTINF:-1,Макси
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0054/Stream(01)/index.m3u8
-#EXTINF:-1,NEWS Network
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0055/Stream(01)/index.m3u8
-#EXTINF:-1,Винтаж ТВ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0056/Stream(01)/index.m3u8
-#EXTINF:-1,Громадське ТВ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0059/Stream(01)/index.m3u8
-#EXTINF:-1,Shopping TV
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0060/Stream(01)/index.m3u8
-#EXTINF:-1,Караван ТВ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0061/Stream(01)/index.m3u8
-#EXTINF:-1,EU Music
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0065/Stream(01)/index.m3u8
-#EXTINF:-1,5 канал UA
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0066/Stream(01)/index.m3u8
-#EXTINF:-1,Food Network
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0067/Stream(01)/index.m3u8
-##EXTINF:-1,Неивестный 6
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0068/Stream(01)/index.m3u8
-#EXTINF:-1,X-Sport
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0069/Stream(01)/index.m3u8
-#EXTINF:-1,УКРАИНА
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0070/Stream(01)/index.m3u8
-#EXTINF:-1,НЛО ТВ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0071/Stream(01)/index.m3u8
-##EXTINF:-1,DW
-#http://185.102.165.11/static/kyivstar/content/LIVE/ch0072/Stream(01)/index.m3u8
-#EXTINF:-1,DW
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0127/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 7
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0073/Stream(01)/index.m3u8
-#EXTINF:-1,Espreso
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0074/Stream(01)/index.m3u8
-#EXTINF:-1,Центральний Канал
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0077/Stream(01)/index.m3u8
-#EXTINF:-1,MTV
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0078/Stream(01)/index.m3u8
-#EXTINF:-1,UA Культура
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0079/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 8
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0080/Stream(01)/index.m3u8
-#EXTINF:-1,Правда Тут
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0081/Stream(01)/index.m3u8
-#EXTINF:-1,English Club
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0082/Stream(01)/index.m3u8
-#EXTINF:-1,Черноморское ТВ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0085/Stream(01)/index.m3u8
-#EXTINF:-1,Настоящее Время
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0086/Stream(01)/index.m3u8
-#EXTINF:-1,travel
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0087/Stream(01)/index.m3u8
-#EXTINF:-1,Тиса 1
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0088/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 9
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0089/Stream(01)/index.m3u8
-#EXTINF:-1,Перший Західний
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0090/Stream(01)/index.m3u8
-##EXTINF:-1,France 24
-#http://185.102.165.11/static/kyivstar/content/LIVE/ch0093/Stream(01)/index.m3u8
-#EXTINF:-1,France 24
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0094/Stream(01)/index.m3u8
-#EXTINF:-1,EUROSPORT1
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0095/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 10
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0097/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 11
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0098/Stream(01)/index.m3u8
-#EXTINF:-1,Fashion
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0099/Stream(01)/index.m3u8
-#EXTINF:-1,Viasat History
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0101/Stream(01)/index.m3u8
-#EXTINF:-1,AMC
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0103/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 11
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0104/Stream(01)/index.m3u8
-#EXTINF:-1,ZiK
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0063/Stream(01)/index.m3u8
-#EXTINF:-1,112 Украина
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0107/Stream(01)/index.m3u8
-#EXTINF:-1,Бигуди
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0108/Stream(01)/index.m3u8
-#EXTINF:-1,Music Box
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0109/Stream(01)/index.m3u8
-#EXTINF:-1,Playboy
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0114/Stream(01)/index.m3u8
-#EXTINF:-1,Fine Living
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0115/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 12
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0118/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 13
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0119/Stream(01)/index.m3u8
-#EXTINF:-1,Viasat Sport
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0121/Stream(01)/index.m3u8
-#EXTINF:-1,TLC
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0126/Stream(01)/index.m3u8
-#EXTINF:-1,ТРОФЕЙ
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0128/Stream(01)/index.m3u8
-#EXTINF:-1,Дача
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0129/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 13
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0130/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 14
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0131/Stream(01)/index.m3u8
-#EXTINF:-1,Fashion HD
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0133/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 14
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0134/Stream(01)/index.m3u8
-#EXTINF:-1,Новый
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0135/Stream(01)/index.m3u8
-#EXTINF:-1,СТБ 1
-http://185.102.165.11/static/kyivstar/content/LIVE/ch0137/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 15
-#http://185.102.165.10/static/kyivstar/content/LIVE/ch0138/Stream(01)/index.m3u8
-##EXTINF:-1,Неизвестный 16
-#http://185.102.165.11/static/kyivstar/content/LIVE/ch0139/Stream(01)/index.m3u8
-#EXTINF:0,Интер
-http://109.68.40.67/life/inter.m3u8
-#EXTINF:-1,ТНТ
-http://cdn-01.bonus-tv.ru/btv/sm-tnt/type/user/devname/LG-SmartTV/devid/LG-1477141994/eol/20200101T0000/hash/ec3a7b7757181408093b5c1ee40a288028a9ba15/playlist.m3u8
-#EXTINF:-1,ТНТ Music
-http://cdn-01.bonus-tv.ru:8080/tntmusic/index.m3u8
-#EXTINF:-1,Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Неизвестная планета
-http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
-#EXTINF:-1,Москва 24
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Моя Планета
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:0,01 ПЕРВЫЙ КАНАЛ
-http://37.235.233.199:81/udp/225.50.66.93:1234
-#EXTINF:-1,Первый HD
-http://195.49.206.243:8000/udp/239.255.1.127:1234
-#EXTINF:-1,Первый
-http://195.49.206.243:8000/udp/239.255.1.1:1234
-#EXTINF:0,02 РОССИЯ-1
-http://37.235.233.199:81/udp/225.50.66.97:1234
-#EXTINF:0,04 НТВ
-http://37.235.233.199:81/udp/225.50.66.94:1234
-#EXTINF:0,05 ПЯТЫЙ КАНАЛ
-http://37.235.233.199:81/udp/225.50.66.95:1234
-#EXTINF:0,06 РОССИЯ-К
-http://37.235.233.199:81/udp/225.50.66.87:1234
-#EXTINF:0,07 РОССИЯ-24
-http://37.235.233.199:81/udp/225.50.66.86:1234
-#EXTINF:0,19 ТНТ-1
-http://37.235.233.199:81/udp/225.50.66.59:1234
-#EXTINF:-1,ТНТ
-http://195.49.206.243:8000/udp/239.255.1.19:1234
-#EXTINF:-1,ТНТ4
-http://109.248.236.41:4433/udp/238.1.1.12:1234
-#EXTINF:-1,ТНТ4/12 канал +4
-http://pstv.krasmix.ru/tv/12tv/playlist.m3u8
-#EXTINF:0,Че
-http://178.163.101.204:4022/udp/234.0.0.218:2000
-#EXTINF:0,Дождь
-http://178.163.101.204:4022/udp/234.0.0.234:2000
-#EXTINF:0,Пятница
-http://188.134.29.155:81/udp/235.10.10.5:1234
-#EXTINF:0,СТС
-http://188.134.29.155:81/udp/235.10.10.16:1234
-#EXTINF:0,Матч ТВ
-http://93.91.113.8:9999/play/a05y
-#EXTINF:-1,Russia Today Документальный
-http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1,===Бесплатный плейлист от soc4up (4pda)===
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/536.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/983" ,Первый HD (+4)
-http://82.200.127.58:8080/udp/239.54.7.61:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/551.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/984" ,Россия 1 HD
-http://82.200.127.58:8080/udp/239.54.7.119:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/3.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/146" ,Первый канал
-http://82.200.127.58:8080/udp/239.0.42.114:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/3.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/146" ,Первый канал
-http://82.200.127.58:8080/udp/239.0.42.1:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/3.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/146" ,Первый канал
-http://82.200.127.58:8080/udp/239.0.42.51:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/3.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/146" ,Первый канал
-http://82.200.127.58:8080/udp/239.0.42.21:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/3.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/146" ,Первый канал
-http://82.200.127.58:8080/udp/239.54.5.150:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/3.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/146" ,Первый канал
-http://82.200.127.58:8080/udp/239.0.42.81:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/3.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/146" ,Первый канал
-http://82.200.127.58:8080/udp/239.0.42.121:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/79" ,СТС
-http://82.200.127.58:8080/udp/239.0.42.93:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/79" ,СТС
-http://82.200.127.58:8080/udp/239.0.42.63:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/79" ,СТС
-http://82.200.127.58:8080/udp/239.0.42.73:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/79" ,СТС
-http://82.200.127.58:8080/udp/239.0.42.35:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/177.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/1322" ,СТС Love
-http://82.200.127.58:8080/udp/239.54.5.211:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/4.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/353" ,ТНТ
-http://82.200.127.58:8080/udp/239.0.42.3:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/4.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/353" ,ТНТ
-http://82.200.127.58:8080/udp/239.0.42.99:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/4.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/353" ,ТНТ
-http://82.200.127.58:8080/udp/239.0.42.69:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/4.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/353" ,ТНТ
-http://82.200.127.58:8080/udp/239.0.42.23:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/4.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/353" ,ТНТ
-http://82.200.127.58:8080/udp/239.0.42.123:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/48.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/680" ,ТНТ MUSIC
-http://82.200.127.58:8080/udp/239.54.5.39:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/225.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/62/channels/394" ,ТНТ4 (+4)
-http://82.200.127.58:8080/udp/239.54.7.36:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/19.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/1003" ,Пятница
-http://82.200.127.58:8080/udp/239.0.42.66:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/19.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/1003" ,Пятница
-http://82.200.127.58:8080/udp/239.0.42.96:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/19.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/54/channels/1567" ,Пятница (+2) 4 канал
-http://82.200.127.58:8080/udp/239.54.5.65:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/9.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/62/channels/913" ,2х2 (+4) 
-http://82.200.127.58:8080/udp/239.54.5.20:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/20.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/427" ,5 канал RU
-http://82.200.127.58:8080/udp/239.0.42.55:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/637.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/1462" ,5 канал UA
-http://82.200.127.58:8080/udp/239.0.42.115:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/637.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/1462" ,5 канал UA
-http://82.200.127.58:8080/udp/239.0.42.9:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/637.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/1462" ,5 канал UA
-http://82.200.127.58:8080/udp/239.0.42.85:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/499.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/217" ,8 канал
-http://82.200.127.58:8080/udp/239.54.5.165:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/499.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/217" ,8 канал
-http://82.200.127.58:8080/udp/239.54.5.188:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/499.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/217" ,8 канал
-http://82.200.127.58:8080/udp/239.54.5.182:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/28.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/853" ,Bridge TV
-http://82.200.127.58:8080/udp/239.54.5.9:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/134.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/601" ,Cartoon network 
-http://82.200.127.58:8080/udp/239.54.7.57:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/10.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/150" ,Disney 
-http://82.200.127.58:8080/udp/239.54.5.67:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/10.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/150" ,Disney 
-http://82.200.127.58:8080/udp/239.54.7.67:1224
-#EXTINF:0 tvg-logo="ESPN_Classic_Sport.png" group-title="РАЗНОЕ"  ,ESPN Classic
-http://82.200.127.58:8080/udp/239.54.5.45:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/58.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/23" ,Euronews
-http://82.200.127.58:8080/udp/239.54.5.149:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/189.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/681" ,Europa Plus TV
-http://82.200.127.58:8080/udp/239.54.5.88:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/213.png" group-title="Женские"  tvg-name="http://m.tv.yandex.ru/213/channels/661" ,Fashion TV
-http://82.200.127.58:8080/udp/239.54.5.3:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/187.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/1021" ,MTV Россия
-http://82.200.127.58:8080/udp/239.54.5.85:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/2070.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/642" ,MUSICBOX
-http://82.200.127.58:8080/udp/239.54.5.7:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/830.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/917" ,Nick Jr 
-http://82.200.127.58:8080/udp/239.54.7.5:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/8.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/567" ,Nickelodeon 
-http://82.200.127.58:8080/udp/239.54.7.69:1224
-#EXTINF:0 tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/27485/2a000001519dc878723f5d5d41068f0d4930/z" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/214" ,PRO Business
-http://82.200.127.58:8080/udp/239.54.5.167:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/301.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/258" ,RU.TV
-http://82.200.127.58:8080/udp/239.54.5.15:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/111.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/25" ,RUSSIAN MUSICBOX
-http://82.200.127.58:8080/udp/239.54.5.6:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1467.png" group-title="Женские"  tvg-name="mailru_256_1574" ,Shop24
-http://82.200.127.58:8080/udp/239.54.5.59:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1633.png" group-title="Женские"  tvg-name="mailru_256_744" ,Shopping Live
-http://82.200.127.58:8080/udp/239.54.5.41:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1035.png" group-title="Женские"  tvg-name="http://m.tv.yandex.ru/213/channels/1528" ,Shopping TV
-http://82.200.127.58:8080/udp/239.54.5.130:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1035.png" group-title="Женские"  tvg-name="http://m.tv.yandex.ru/213/channels/1528" ,Shopping TV
-http://82.200.127.58:8080/udp/239.54.5.131:1224
-#EXTINF:0 ,Sony
-http://82.200.127.58:8080/udp/239.54.7.47:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/231.png" group-title="Мужские"  tvg-name="http://m.tv.yandex.ru/213/channels/153" ,Авто Плюс
-http://82.200.127.58:8080/udp/239.54.7.37:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/641.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/248" ,Беларусь 24
-http://82.200.127.58:8080/udp/239.54.5.175:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/136.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/66" ,Детский 
-http://82.200.127.58:8080/udp/239.54.5.127:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/212.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/747" ,Детский мир 
-http://82.200.127.58:8080/udp/239.54.5.97:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/26.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/304" ,Домашний
-http://82.200.127.58:8080/udp/239.0.42.64:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/26.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/304" ,Домашний
-http://82.200.127.58:8080/udp/239.0.42.94:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/26.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/304" ,Домашний
-http://82.200.127.58:8080/udp/239.0.42.11:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/26.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/62/channels/843" ,Домашний - ТВК6(+4)
-http://82.200.127.58:8080/udp/239.54.5.100:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1660.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/54/channels/1562" ,Живая планета
-http://82.200.127.58:8080/udp/239.54.5.166:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/421.png" group-title="Женские"  tvg-name="http://m.tv.yandex.ru/213/channels/113" ,Живи!
-http://82.200.127.58:8080/udp/239.54.5.49:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/17.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/405" ,Звезда
-http://82.200.127.58:8080/udp/239.0.42.67:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/17.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/405" ,Звезда
-http://82.200.127.58:8080/udp/239.54.5.17:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/17.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/405" ,Звезда
-http://82.200.127.58:8080/udp/239.0.42.97:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/811.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/123" ,Иллюзион+
-http://82.200.127.58:8080/udp/239.54.7.162:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/317.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/481" ,КХЛ
-http://82.200.127.58:8080/udp/239.54.7.42:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/27.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/150" ,Карусель 
-http://82.200.127.58:8080/udp/239.0.42.88:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/27.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/150" ,Карусель 
-http://82.200.127.58:8080/udp/239.0.42.58:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/27.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/66/channels/772" ,Карусель (+3) 
-http://82.200.127.58:8080/udp/239.54.5.35:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/27.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/66/channels/772" ,Карусель (+3) 
-http://82.200.127.58:8080/udp/239.54.5.124:1224
-#EXTINF:0 tvg-logo="katun_24.png" group-title="Региональные"  ,Катунь 24
-http://82.200.127.58:8080/udp/239.54.5.147:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1286.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1037" ,Кино ТВ
-http://82.200.127.58:8080/udp/239.54.7.102:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/303.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/750" ,Культура
-http://82.200.127.58:8080/udp/239.0.42.86:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/303.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/750" ,Культура
-http://82.200.127.58:8080/udp/239.54.5.83:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/303.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/750" ,Культура
-http://82.200.127.58:8080/udp/239.0.42.56:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/303.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/750" ,Культура
-http://82.200.127.58:8080/udp/239.54.5.75:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/303.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/750" ,Культура
-http://82.200.127.58:8080/udp/239.0.42.5:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/38.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/618" ,МAMA 
-http://82.200.127.58:8080/udp/239.54.5.44:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1884.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/1593" ,МАТЧ ТВ
-http://82.200.127.58:8080/udp/239.0.42.25:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1884.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/1593" ,МАТЧ ТВ
-http://82.200.127.58:8080/udp/239.0.42.10:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1884.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/1593" ,МАТЧ ТВ
-http://82.200.127.58:8080/udp/239.54.5.148:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1884.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/1593" ,МАТЧ ТВ
-http://82.200.127.58:8080/udp/239.0.42.53:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1884.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/1593" ,МАТЧ ТВ
-http://82.200.127.58:8080/udp/239.0.42.83:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1884.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/1593" ,МАТЧ ТВ
-http://82.200.127.58:8080/udp/239.54.5.77:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1356.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/1332" ,МУЛЬТ 
-http://82.200.127.58:8080/udp/239.54.7.155:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/6.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/454" ,Матч! Боец
-http://82.200.127.58:8080/udp/239.54.7.21:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/29.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/726" ,Мир
-http://82.200.127.58:8080/udp/239.0.42.98:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/29.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/726" ,Мир
-http://82.200.127.58:8080/udp/239.0.42.68:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/29.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/62/channels/1653" ,Мир (+4)
-http://82.200.127.58:8080/udp/239.54.5.22:1224
-#EXTINF:0 tvg-logo="moy_gorod.png" group-title="Региональные"  ,Мой город
-http://82.200.127.58:8080/udp/239.0.42.44:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/435.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1584" ,Мужское кино
-http://82.200.127.58:8080/udp/239.54.7.1:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/18.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/897" ,Муз-ТВ
-http://82.200.127.58:8080/udp/239.0.42.100:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/18.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/897" ,Муз-ТВ
-http://82.200.127.58:8080/udp/239.54.5.142:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/18.png" group-title="Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/897" ,Муз-ТВ
-http://82.200.127.58:8080/udp/239.0.42.70:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/139.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/31" ,Мультимания 
-http://82.200.127.58:8080/udp/239.54.5.158:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/229.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/518" ,НСТ
-http://82.200.127.58:8080/udp/239.54.7.58:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/16.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/126" ,НТВ
-http://82.200.127.58:8080/udp/239.0.42.84:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/16.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/126" ,НТВ
-http://82.200.127.58:8080/udp/239.0.42.50:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/16.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/126" ,НТВ
-http://82.200.127.58:8080/udp/239.0.42.106:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/16.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/62/channels/44" ,НТВ (+4)
-http://82.200.127.58:8080/udp/239.54.5.114:1224
-#EXTINF:0 tvg-logo="nauka.png" group-title="Познавательные"  ,Наука
-http://82.200.127.58:8080/udp/239.54.7.51:1224
-#EXTINF:0 , group-title="Региональные"  ,Наша Сибирь
-http://82.200.127.58:8080/udp/239.0.42.72:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1019.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/54/channels/1000" ,ОТР
-http://82.200.127.58:8080/udp/239.0.42.89:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1019.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/54/channels/1000" ,ОТР
-http://82.200.127.58:8080/udp/239.0.42.59:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1019.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/54/channels/1000" ,ОТР
-http://82.200.127.58:8080/udp/239.54.5.146:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/85.png" group-title="Мужские"  tvg-name="http://m.tv.yandex.ru/213/channels/617" ,Охота и рыбалка
-http://82.200.127.58:8080/udp/239.54.7.26:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/57.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/743" ,РБК ТВ
-http://82.200.127.58:8080/udp/239.54.5.79:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/57.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/743" ,РБК ТВ
-http://82.200.127.58:8080/udp/239.54.5.19:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/57.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/743" ,РБК ТВ
-http://82.200.127.58:8080/udp/239.0.42.24:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/121.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/18" ,РЕН ТВ
-http://82.200.127.58:8080/udp/239.0.42.36:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/121.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/18" ,РЕН ТВ
-http://82.200.127.58:8080/udp/239.0.42.91:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/121.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/18" ,РЕН ТВ
-http://82.200.127.58:8080/udp/239.0.42.61:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/985.png" group-title="РАЗНОЕ"  tvg-name="http://m.tv.yandex.ru/213/channels/509" ,РЖД ТВ
-http://82.200.127.58:8080/udp/239.54.5.30:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1525.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1570" ,Русский детектив
-http://82.200.127.58:8080/udp/239.54.7.32:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/54.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/638" ,Радость моя 
-http://82.200.127.58:8080/udp/239.54.5.66:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/384.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/363" ,РазТВ
-http://82.200.127.58:8080/udp/239.54.5.43:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/11.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/711" ,Россия 1
-http://82.200.127.58:8080/udp/239.0.42.122:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/11.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/711" ,Россия 1
-http://82.200.127.58:8080/udp/239.0.42.22:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/11.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/711" ,Россия 1
-http://82.200.127.58:8080/udp/239.0.42.2:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/11.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/711" ,Россия 1
-http://82.200.127.58:8080/udp/239.0.42.52:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/11.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/711" ,Россия 1
-http://82.200.127.58:8080/udp/239.0.42.113:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/11.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/711" ,Россия 1
-http://82.200.127.58:8080/udp/239.0.42.82:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/15.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/1683" ,Россия 24
-http://82.200.127.58:8080/udp/239.0.42.8:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/15.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/1683" ,Россия 24
-http://82.200.127.58:8080/udp/239.54.5.12:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/15.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/1683" ,Россия 24
-http://82.200.127.58:8080/udp/239.0.42.57:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/15.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/1683" ,Россия 24
-http://82.200.127.58:8080/udp/239.0.42.87:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/15.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/1683" ,Россия 24
-http://82.200.127.58:8080/udp/239.0.42.38:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/768.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/994" ,Русский бестселлер
-http://82.200.127.58:8080/udp/239.54.7.33:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/344.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/53" ,Русский иллюзион
-http://82.200.127.58:8080/udp/239.54.7.161:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/228.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/401" ,Русский роман
-http://82.200.127.58:8080/udp/239.54.5.87:1224
-#EXTINF:0 ,ТРК +4
-http://82.200.127.58:8080/udp/239.54.5.82:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/859.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/730" ,ТРО 
-http://82.200.127.58:8080/udp/239.54.5.24:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1575.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/1396" ,Точка ТВ
-http://82.200.127.58:8080/udp/239.54.5.189:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/426.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/547" ,Успех
-http://82.200.127.58:8080/udp/239.54.5.128:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/325.png" group-title="Женские"  tvg-name="http://m.tv.yandex.ru/213/channels/779" ,Усадьба
-http://82.200.127.58:8080/udp/239.54.5.113:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/5.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/62/channels/1597" ,Че (+4)
-http://82.200.127.58:8080/udp/239.54.5.4:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/5.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/62/channels/1597" ,Че (+4)
-http://82.200.127.58:8080/udp/239.0.42.104:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/471.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/898" ,Ю
-http://82.200.127.58:8080/udp/239.54.5.68:1224
-#EXTINF:0 tvg-logo="Umor_TV.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/412" ,ЮМОР TV
-http://82.200.127.58:8080/udp/239.54.5.5:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/538.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/663" ,Сарафан
-http://82.200.127.58:8080/udp/239.54.7.129:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/854.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/349" ,Союз
-http://82.200.127.58:8080/udp/239.54.5.52:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/798.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/447" ,Спас
-http://82.200.127.58:8080/udp/239.54.5.13:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/798.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/447" ,Спас
-http://82.200.127.58:8080/udp/239.0.42.62:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/798.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/447" ,Спас
-http://82.200.127.58:8080/udp/239.0.42.92:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/335.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/284" ,Страна
-http://82.200.127.58:8080/udp/239.54.5.73:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/2.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/649" ,ТВ Центр
-http://82.200.127.58:8080/udp/239.0.42.7:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/2.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/649" ,ТВ Центр
-http://82.200.127.58:8080/udp/239.0.42.60:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/2.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/649" ,ТВ Центр
-http://82.200.127.58:8080/udp/239.54.5.63:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/2.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/649" ,ТВ Центр
-http://82.200.127.58:8080/udp/239.0.42.90:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/21.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/698" ,ТВ-3 Россия
-http://82.200.127.58:8080/udp/239.0.42.65:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/21.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/698" ,ТВ-3 Россия
-http://82.200.127.58:8080/udp/239.0.42.95:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/21.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/62/channels/144" ,ТВ-3 Россия (+4)
-http://82.200.127.58:8080/udp/239.54.5.121:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/21.png" group-title="Новости"  tvg-name="http://m.tv.yandex.ru/62/channels/144" ,ТВ-3 Россия (+4)
-http://82.200.127.58:8080/udp/239.54.5.86:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/860.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/933" ,ТНВ Планета
-http://82.200.127.58:8080/udp/239.54.5.23:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/850.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/774" ,Первый образовательный
-http://82.200.127.58:8080/udp/239.54.5.64:1224
-#EXTINF:0 ,49 channel
-http://82.200.127.58:8080/udp/239.54.7.136:1224
-#EXTINF:0 ,49 channel
-http://82.200.127.58:8080/udp/239.54.5.222:1224
-#EXTINF:0 ,8 kanal
-http://82.200.127.58:8080/udp/239.0.42.28:1224
-#EXTINF:0 ,Dubl-3+RRD3
-http://82.200.127.58:8080/udp/239.54.5.116:1224
-#EXTINF:0 ,Interaz Tv
-http://82.200.127.58:8080/udp/239.54.5.25:1224
-#EXTINF:0 ,Our Siberia
-http://82.200.127.58:8080/udp/239.54.5.177:1224
-#EXTINF:0 ,P2.1
-http://82.200.127.58:8080/udp/239.0.42.33:1224
-#EXTINF:0 ,Витрина ТВ
-http://82.200.127.58:8080/udp/239.54.5.187:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/246.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/1612" ,Discovery HD
-http://82.200.127.58:8080/udp/239.54.7.86:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/418.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/560" ,Eurosport 1 HD
-http://82.200.127.58:8080/udp/239.54.7.174:1224
-#EXTINF:0 ,Sony Channel HD
-http://82.200.127.58:8080/udp/239.54.7.128:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1347.png" group-title="Спортивные"  tvg-name="http://m.tv.yandex.ru/213/channels/1038" ,КХЛ HD
-http://82.200.127.58:8080/udp/239.54.7.125:1224
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/36.png" "Общественные"  tvg-name="http://m.tv.yandex.ru/187/channels/1480" ,1+1
-https://stream2g03-f23.ovva.tv/189931/smil:189931.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/36.png" "Общественные"  tvg-name="http://m.tv.yandex.ru/187/channels/1480" ,1+1
-https://stream2g03-f23.ovva.tv/227022/smil:227022.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/92.png" "Детские"  tvg-name="http://m.tv.yandex.ru/187/channels/1468" ,2+2 
-https://stream2g03-f23.ovva.tv/361665/smil:361665.smil/playlist.m3u8
-#EXTINF:0,TET
-https://stream2g03-f23.ovva.tv/233342/smil:233342.smil/playlist.m3u8
-#EXTINF:0,Unian
-https://stream2g03-f23.ovva.tv/233200/smil:233200.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/536.png" "Общественные"  tvg-name="https://m.tv.yandex.ru/213/channels/146" ,Первый
-http://cdnworld.magictvbox.eu/1TV_HD/tracks-v3a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/536.png" "Общественные"  tvg-name="https://m.tv.yandex.ru/213/channels/146" ,Первый HD
-http://cdnworld.magictvbox.eu/1TV_HD/tracks-v2a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/536.png" "Общественные"  tvg-name="https://m.tv.yandex.ru/213/channels/146" ,Первый HD +
-http://cdnworld.magictvbox.eu/1TV_HD/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/535.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1011" ,TV1000 COMEDY
-http://cdnworld.magictvbox.eu/TV1000_Comedy_HD/tracks-v3a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/535.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1011" ,TV1000 COMEDY HD
-http://cdnworld.magictvbox.eu/TV1000_Comedy_HD/tracks-v2a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/535.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1011" ,TV1000 COMEDY HD +
-http://cdnworld.magictvbox.eu/TV1000_Comedy_HD/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/534.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1013" ,TV1000 PREMIUM
-http://cdnworld.magictvbox.eu/TV1000_Premium_HD/tracks-v3a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/534.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1013" ,TV1000 PREMIUM HD
-http://cdnworld.magictvbox.eu/TV1000_Premium_HD/tracks-v2a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/534.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1013" ,TV1000 PREMIUM HD +
-http://cdnworld.magictvbox.eu/TV1000_Premium_HD/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/533.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1012" ,TV1000 MEGAHIT
-http://cdnworld.magictvbox.eu/TV1000_MegaHit_HD/tracks-v3a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/533.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1012" ,TV1000 MEGAHIT HD
-http://cdnworld.magictvbox.eu/TV1000_MegaHit_HD/tracks-v2a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/533.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1012" ,TV1000 MEGAHIT HD +
-http://cdnworld.magictvbox.eu/TV1000_MegaHit_HD/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/388.png" "Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/389" ,National Geographic
-http://cdnworld.magictvbox.eu/National_Geographic_HD/tracks-v3a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/388.png" "Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/389" ,National Geographic HD
-http://cdnworld.magictvbox.eu/National_Geographic_HD/tracks-v2a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/388.png" "Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/389" ,National Geographic HD +
-http://cdnworld.magictvbox.eu/National_Geographic_HD/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/33.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/409" ,Discovery Science
-http://cdnworld.magictvbox.eu/Discovery_Science_HD/tracks-v3a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/33.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/409" ,Discovery Science HD
-http://cdnworld.magictvbox.eu/Discovery_Science_HD/tracks-v2a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/33.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/409" ,Discovery Science HD +
-http://cdnworld.magictvbox.eu/Discovery_Science_HD/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 ,Discovery Showcase
-http://cdnworld.magictvbox.eu/Discovery_Showcase_HD/tracks-v3a1/index.m3u8?token=soc4up
-#EXTINF:0 ,Discovery HD Showcase
-http://cdnworld.magictvbox.eu/Discovery_Showcase_HD/tracks-v2a1/index.m3u8?token=soc4up
-#EXTINF:0 ,Discovery HD Showcase +
-http://cdnworld.magictvbox.eu/Discovery_Showcase_HD/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/408.png" "Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/223" ,Nat Geo Wild
-http://cdnworld.magictvbox.eu/Nat_Geo_Wild/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/246.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/325" ,Discovery Channel
-http://cdnworld.magictvbox.eu/Discovery_Channel/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/33.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/409" ,Discovery Science
-http://cdnworld.magictvbox.eu/Discovery_Science/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/4.png" "Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/353" ,ТНТ Exclusiv
-http://cdnworld.magictvbox.eu/Exclusiv_TNT/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1.png" "Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/79" ,СТС
-http://cdnworld.magictvbox.eu/CTC_Mega/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/435.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/1584" ,Мужское кино
-http://cdnworld.magictvbox.eu/Mujskoe_Kino/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/215.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/542" ,Кинохит
-http://cdnworld.magictvbox.eu/Kinohit/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/346.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/821" ,Кинокомедия
-http://cdnworld.magictvbox.eu/Kinokomedia/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/346.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/462" ,Киносвидание
-http://cdnworld.magictvbox.eu/Kinosvidanie/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/2134.png" group-title="Познавательные"  ,Bolt
-http://cdnworld.magictvbox.eu/BOLT/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/53.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/145" ,Мир сериала
-http://cdnworld.magictvbox.eu/Mir_Serialov/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/217.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/799" ,Киносерия
-http://cdnworld.magictvbox.eu/Kinoseria/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/612.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/608" ,AMC
-http://cdnworld.magictvbox.eu/MGM/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/811.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/123" ,Иллюзион+
-http://cdnworld.magictvbox.eu/Iliuzion+/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/370.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/659" ,FOX Россия
-http://cdnworld.magictvbox.eu/FOX/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/241.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/615" ,Fox Life Россия
-http://cdnworld.magictvbox.eu/FOX_Life/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1063.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/1036" ,История
-http://cdnworld.magictvbox.eu/Istoria/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/495.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/250" ,365 дней ТВ
-http://cdnworld.magictvbox.eu/365_Dnei/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/376.png" group-title="Познавательные"  tvg-name="http://m.tv.yandex.ru/74/channels/1436" ,24 Техно
-http://cdnworld.magictvbox.eu/24_Tehno/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/706.png" group-title="Мужские"  tvg-name="http://m.tv.yandex.ru/213/channels/505" ,Драйв
-http://cdnworld.magictvbox.eu/Draiv/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/420.png" group-title="РАЗНОЕ"  tvg-name="http://m.tv.yandex.ru/213/channels/626" ,ZeeTV
-http://cdnworld.magictvbox.eu/ZeeTV/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1.png" group-title="Общественные"  tvg-name="http://m.tv.yandex.ru/75/channels/722" ,СТС (+7)
-http://109.110.33.66:8080/UqeDTfGFXoOApaNw.stream_360p/index.m3u8
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/65.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/76" ,RTVi
-http://cdnworld.magictvbox.eu/RTVi_Europe/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/344.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/53" ,Русский иллюзион
-http://cdnworld.magictvbox.eu/Russkii_Iliuzion/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/66.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/12" ,Родное кино
-http://cdnworld.magictvbox.eu/Rodnoe_Kino/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/117.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/485" ,Наше новое кино
-http://cdnworld.magictvbox.eu/Nashe_Novoe_Kino/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/302.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/352" ,Еврокино
-http://cdnworld.magictvbox.eu/Evrokino/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/42.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/127" ,TV1000
-http://cdnworld.magictvbox.eu/TV1000/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/43.png" group-title="Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/125" ,TV1000 Action East
-http://cdnworld.magictvbox.eu/TV1000_Action/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/66.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/12" ,Родное кино
-http://cdnworld.magictvbox.eu/Nashe_Kino/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/505.png" group-title="Фильмы"  tvg-name="http://m.tv.yandex.ru/213/channels/311" ,Sony
-http://cdnworld.magictvbox.eu/SET/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/421.png" group-title="Женские"  tvg-name="http://m.tv.yandex.ru/213/channels/113" ,Живи!
-http://cdnworld.magictvbox.eu/Jivi/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1602.png" group-title="Познавательные"  tvg-name="" ,Mix TV(Уфа)
-http://cdnworld.magictvbox.eu/Minimax/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/134.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/601" ,Cartoon network 
-http://cdnworld.magictvbox.eu/Cartoon_Network/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/8.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/567" ,Nickelodeon 
-http://cdnworld.magictvbox.eu/Nickelodeon/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/502.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/810" ,Gulli Россия 
-http://cdnworld.magictvbox.eu/Gulli/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/141.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/555" ,TiJi Россия 
-http://cdnworld.magictvbox.eu/Tiji/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/136.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/66" ,Детский 
-http://cdnworld.magictvbox.eu/Detskii/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/27.png" group-title="Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/150" ,Карусель 
-http://cdnworld.magictvbox.eu/Karuseli/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/36.png" "Общественные"  tvg-name="http://m.tv.yandex.ru/187/channels/1480" ,1+1
-http://cdnworld.magictvbox.eu/1+1/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/512.png" "Общественные"  tvg-name="http://m.tv.yandex.ru/187/channels/1514" ,Интер+
-http://cdnworld.magictvbox.eu/Inter+/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/235.png" "Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/723" ,Наука 2.0
-http://cdnworld.magictvbox.eu/Nauka_2.0/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/2153.png" "Общественные"  tvg-name="https://m.tv.yandex.ru/213/channels/1598" ,че
-http://cdnworld.magictvbox.eu/Perets/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1323.png" "Новости"  tvg-name="mailru_256_1973" ,Мир HD
-http://cdnworld.magictvbox.eu/Mir_HD/tracks-v2a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/121.png" "Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/18" ,РЕН ТВ
-http://cdnworld.magictvbox.eu/RenTV_Moldova/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/41.png" "Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/277" ,Viasat History
-http://cdnworld.magictvbox.eu/Viasat_History/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/420.png" "РАЗНОЕ"  tvg-name="http://m.tv.yandex.ru/213/channels/626" ,ZeeTV
-http://cdnworld.magictvbox.eu/ZeeTV/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/40.png" "Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/521" ,Viasat Explore
-http://cdnworld.magictvbox.eu/Viasat_Explorer/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo=" http://peers.tv/data/illustrations/ills/2013/12/04/26424/26424966.png" "Новости"  tvg-name="958" ,UTV
-http://cdnworld.magictvbox.eu/UTV/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/141.png" "Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/555" ,TiJi Россия 
-http://cdnworld.magictvbox.eu/Tiji/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001519009c1df57e22507ec80c7ea18/z" "Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/1519" ,ТВ 7
-http://cdnworld.magictvbox.eu/TV7/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/538.png" "Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/663" ,Сарафан
-http://cdnworld.magictvbox.eu/Sarafan/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/15.png" "Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/1683" ,Россия 24
-http://cdnworld.magictvbox.eu/Russia24/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/121.png" "Общественные"  tvg-name="http://m.tv.yandex.ru/213/channels/18" ,РЕН ТВ
-http://cdnworld.magictvbox.eu/RenTV/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/57.png" "Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/743" ,РБК ТВ
-http://cdnworld.magictvbox.eu/RBK/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/8.png" "Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/567" ,Nickelodeon 
-http://cdnworld.magictvbox.eu/Nickelodeon/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/442.png" "Познавательные"  tvg-name="http://m.tv.yandex.ru/213/channels/783" ,Ностальгия
-http://cdnworld.magictvbox.eu/Nostalgia/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/248.png" "Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/715" ,Музыка Первого
-http://cdnworld.magictvbox.eu/Muzyka/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/29.png" "Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/726" ,Мир
-http://cdnworld.magictvbox.eu/Mir/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/857.png" "Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/1331" ,Мир 24
-http://cdnworld.magictvbox.eu/MIR24/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1316.png" "Фильмы" ,AMC
-http://cdnworld.magictvbox.eu/MGM/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/502.png" "Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/810" ,Gulli Россия 
-http://cdnworld.magictvbox.eu/Gulli/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/10.png" "Детские"  tvg-name="http://m.tv.yandex.ru/213/channels/150" ,Disney 
-http://cdnworld.magictvbox.eu/Disney/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/837.png" "Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/828" ,BBC World News
-http://cdnworld.magictvbox.eu/BBC_World_News/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/58.png" "Новости"  tvg-name="http://m.tv.yandex.ru/213/channels/23" ,Euronews
-http://cdnworld.magictvbox.eu/Euronews/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/640.png" "Региональные"  tvg-name="http://m.tv.yandex.ru/213/channels/143" ,РТР Планета
-http://cdnworld.magictvbox.eu/RTR_Moldova/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/301.png" "Музыкальные"  tvg-name="http://m.tv.yandex.ru/213/channels/258" ,RU.TV
-http://cdnworld.magictvbox.eu/RUTV_Moldova/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 ,Первый Prime SD
-http://cdnworld.magictvbox.eu/Prime_HD/tracks-v3a1/index.m3u8?token=soc4up
-#EXTINF:0 ,Первый Prime HD 720
-http://cdnworld.magictvbox.eu/Prime_HD/tracks-v2a1/index.m3u8?token=soc4up
-#EXTINF:0 ,Первый Prime HD 1980
-http://cdnworld.magictvbox.eu/Prime_HD/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 ,Первый Prime HD
-http://cdnworld.magictvbox.eu/Prime_HD/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/418.png" "Спортивные"  tvg-name="http://m.tv.yandex.ru/187/channels/560" ,Eurosport 1 HD USA
-http://cdnworld.magictvbox.eu/Eurosport_HD/tracks-v2a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/444.png" "Фильмы"  tvg-name="http://m.tv.yandex.ru/187/channels/464" ,Fox Life HD USA
-http://cdnworld.magictvbox.eu/Fox_Life_HD/tracks-v2a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1100.png" "Фильмы"  tvg-name="http://m.tv.yandex.ru/187/channels/1031" ,FOX HD USA
-http://cdnworld.magictvbox.eu/Fox_HD/tracks-v2a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/259.png" "Познавательные"  tvg-name="http://m.tv.yandex.ru/187/channels/807" ,Nat Geo Wild SD USA
-http://cdnworld.magictvbox.eu/Nat_Geo_Wild_HD/tracks-v3a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/259.png" "Познавательные"  tvg-name="http://m.tv.yandex.ru/187/channels/807" ,Nat Geo Wild HD 720 USA
-http://cdnworld.magictvbox.eu/Nat_Geo_Wild_HD/tracks-v2a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/259.png" "Познавательные"  tvg-name="http://m.tv.yandex.ru/187/channels/807" ,Nat Geo Wild HD 1980 USA
-http://cdnworld.magictvbox.eu/Nat_Geo_Wild_HD/tracks-v1a1/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/259.png" "Познавательные"  tvg-name="http://m.tv.yandex.ru/187/channels/807" ,Nat Geo Wild HD USA
-http://cdnworld.magictvbox.eu/Nat_Geo_Wild_HD/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/730.png" "Познавательные"  tvg-name="http://m.tv.yandex.ru/187/channels/990" ,Animal planet HD USA
-http://cdnworld.magictvbox.eu/Animal_Planet_HD/tracks-v2a1/index.m3u8?token=soc4up
-#EXTINF:0 ,Moldova 1
-http://cdnworld.magictvbox.eu/Moldova_1/index.m3u8?token=soc4up
-#EXTINF:0 ,Moldova 2
-http://cdnworld.magictvbox.eu/Moldova_2/index.m3u8?token=soc4up
-#EXTINF:0 ,Național 4
-http://cdnworld.magictvbox.eu/N4/index.m3u8?token=soc4up
-#EXTINF:0 ,PRO 2 Moldova
-http://cdnworld.magictvbox.eu/Acasa_Moldova/index.m3u8?token=soc4up
-#EXTINF:0 ,10TV
-http://cdnworld.magictvbox.eu/10TV_HD/index.m3u8?token=soc4up
-#EXTINF:0 ,Accent TV
-http://cdnworld.magictvbox.eu/AccentTV/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/428.png" "РАЗНОЕ"  tvg-name="http://m.tv.yandex.ru/187/channels/11" ,Агро-ТВ
-http://cdnworld.magictvbox.eu/Agro_TV/index.m3u8?token=soc4up
-#EXTINF:0 ,Axial TV
-http://cdnworld.magictvbox.eu/Axial_TV/index.m3u8?token=soc4up
-#EXTINF:0 ,Bălți TV
-http://cdnworld.magictvbox.eu/BTV/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/2220.png" "РАЗНОЕ"  ,Браво ТВ
-http://cdnworld.magictvbox.eu/BravoTV/index.m3u8?token=soc4up
-#EXTINF:0 ,Busuioc TV
-http://cdnworld.magictvbox.eu/BusuiocTV/index.m3u8?token=soc4up
-#EXTINF:0 ,Canal 2
-http://cdnworld.magictvbox.eu/Canal2_HD/index.m3u8?token=soc4up
-#EXTINF:0 ,Canal 3
-http://cdnworld.magictvbox.eu/Canal3_HD/index.m3u8?token=soc4up
-#EXTINF:0 ,Drochia TV
-http://cdnworld.magictvbox.eu/Drochia_TV/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1298.png" "РАЗНОЕ"  ,Elita TV
-http://cdnworld.magictvbox.eu/Elita_TV/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1299.png" "РАЗНОЕ"  ,Euro TV
-http://cdnworld.magictvbox.eu/EuroTV_Chisinau/index.m3u8?token=soc4up
-#EXTINF:0 ,Familia Domashniy
-http://cdnworld.magictvbox.eu/SET/index.m3u8?token=soc4up
-#EXTINF:0 ,Gold TV
-http://cdnworld.magictvbox.eu/GoldTV_HD/index.m3u8?token=soc4up
-#EXTINF:0 ,Gurinel
-http://cdnworld.magictvbox.eu/Gurinel_HD/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/1072.png" "Региональные"  ,Impact TV
-http://cdnworld.magictvbox.eu/Moldova_Sport_HD/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/499.png" "Региональные"  tvg-name="http://m.tv.yandex.ru/187/channels/217" ,8 канал
-http://cdnworld.magictvbox.eu/ITV/index.m3u8?token=soc4up
-#EXTINF:0 ,Jurnal TV
-http://cdnworld.magictvbox.eu/JurnalTV_HD/index.m3u8?token=soc4up
-#EXTINF:0 ,MBC Digi 24
-http://cdnworld.magictvbox.eu/MBC_HD/index.m3u8?token=soc4up
-#EXTINF:0 ,Media TV
-http://cdnworld.magictvbox.eu/Media_TV/index.m3u8?token=soc4up
-#EXTINF:0 ,Noroc TV
-http://cdnworld.magictvbox.eu/Noroc_TV/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/16.png" "Общественные"  tvg-name="http://m.tv.yandex.ru/187/channels/126" ,НТВ
-http://cdnworld.magictvbox.eu/NTV_Moldova/index.m3u8?token=soc4up
-#EXTINF:0 ,Popas TV
-http://cdnworld.magictvbox.eu/Popas_TV/index.m3u8?token=soc4up
-#EXTINF:0 ,Prime
-http://cdnworld.magictvbox.eu/Prime_HD/index.m3u8?token=soc4up
-#EXTINF:0 ,PRO TV Chișinău
-http://cdnworld.magictvbox.eu/ProTV_Chisinau/index.m3u8?token=soc4up
-#EXTINF:0 ,Publika TV
-http://cdnworld.magictvbox.eu/Publika_HD/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/121.png" "Общественные"  tvg-name="http://m.tv.yandex.ru/187/channels/18" ,РЕН ТВ
-http://cdnworld.magictvbox.eu/RenTV_Moldova/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/640.png" "Региональные"  tvg-name="http://m.tv.yandex.ru/187/channels/143" ,РТР Планета
-http://cdnworld.magictvbox.eu/RTR_Moldova/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/301.png" "Музыкальные"  tvg-name="http://m.tv.yandex.ru/187/channels/258" ,RU.TV
-http://cdnworld.magictvbox.eu/RUTV_Moldova/index.m3u8?token=soc4up
-#EXTINF:0 ,SOR TV
-http://cdnworld.magictvbox.eu/SorTV/index.m3u8?token=soc4up
-#EXTINF:0 tvg-logo="http://iptv-vod.eu/iptv/logo/499.png" "Региональные"  tvg-name="http://m.tv.yandex.ru/187/channels/217" ,8 канал
-http://cdnworld.magictvbox.eu/TV7/index.m3u8?token=soc4up
-#EXTINF:0 ,TVC 21
-http://cdnworld.magictvbox.eu/TVC21/index.m3u8?token=soc4up
-#EXTINF:0 ,TV Prim Glodeni
-http://cdnworld.magictvbox.eu/TVPrim/index.m3u8?token=soc4up
-#EXTINF:0 ,TVR Moldova
-http://cdnworld.magictvbox.eu/TVR/index.m3u8?token=soc4up
-#EXTINF:0 ,Zona M
-http://cdnworld.magictvbox.eu/ZonaM/index.m3u8?token=soc4up
-#EXTINF:0,===НОВЫЕ КАНАЛЫ===
-#EXTINF:-1,Матч!
-http://playlist.onlybest.tv/ru/channel/28c27e7c2e22976981eb116c453baec5/4/index.m3u8
-#EXTINF:-1,Футбол 1
-http://playlist.onlybest.tv/ru/channel/28c27e7c2e22976981eb116c453baec5/5/index.m3u8
-#EXTINF:-1,Футбол 2
-http://playlist.onlybest.tv/ru/channel/28c27e7c2e22976981eb116c453baec5/6/index.m3u8
-#EXTINF:-1,Футбол 3
-http://playlist.onlybest.tv/ru/channel/28c27e7c2e22976981eb116c453baec5/7/index.m3u8
-#EXTINF:-1,Наш Футбол
-http://playlist.onlybest.tv/ru/channel/28c27e7c2e22976981eb116c453baec5/13/index.m3u8
-#EXTINF:-1,КХЛ ТВ
-http://playlist.onlybest.tv/ru/channel/28c27e7c2e22976981eb116c453baec5/17/index.m3u8
-#EXTINF:-1,Матч! HD
-http://playlist.onlybest.tv/ru/channel/28c27e7c2e22976981eb116c453baec5/23/index.m3u8
-#EXTINF:-1,Матч! HD
-http://playlist.onlybest.tv/ru/channel/28c27e7c2e22976981eb116c453baec5/24/index.m3u8
-#EXTINF:-1,Наш Футбол HD
-http://playlist.onlybest.tv/ru/channel/28c27e7c2e22976981eb116c453baec5/25/index.m3u8
-#EXTINF:-1,Матч! HD
-http://playlist.onlybest.tv/ru/channel/28c27e7c2e22976981eb116c453baec5/29/index.m3u8
-#EXTINF:-1,Матч! Арена
-http://playlist.onlybest.tv/ru/channel/28c27e7c2e22976981eb116c453baec5/1/index.m3u8
-#EXTINF:-1,Матч! Боец
-http://playlist.onlybest.tv/ru/channel/28c27e7c2e22976981eb116c453baec5/2/index.m3u8
-#EXTINF:-1,Матч! Игра
-http://playlist.onlybest.tv/ru/channel/28c27e7c2e22976981eb116c453baec5/3/index.m3u8
-#EXTINF:-1,Беларусь 1
-http://93.85.93.227:80/hls/CH_BELARUS1/variant.m3u8?version=3
-#EXTINF:-1,Беларусь 2
-http://93.85.93.227:80/hls/CH_BELARUS2/variant.m3u8?version=3
-#EXTINF:-1,Беларусь 3
-http://93.85.93.227:80/hls/CH_BELARUS3/variant.m3u8?version=3
-#EXTINF:-1,Беларусь 5
-http://93.85.93.227:80/hls/CH_BELARUS5/variant.m3u8?version=3
-#EXTINF:-1,ОНТ
-http://93.85.93.227:80/hls/CH_ONT/variant.m3u8?version=3
-#EXTINF:-1,Рен ТВ Беларусь
-http://93.85.93.227:80/hls/CH_STV/variant.m3u8?version=3
-#EXTINF:-1,РТР-Беларусь
-http://93.85.93.227:80/hls/CH_RTRBELARUS/variant.m3u8?version=3
-#EXTINF:-1,НТВ Беларусь
-http://93.85.93.227:80/hls/CH_NTVBELARUS/variant.m3u8?version=3
-#EXTINF:-1,Мир
-http://93.85.93.227:80/hls/CH_MIR/variant.m3u8?version=3
-#EXTINF:-1,ВТВ
-http://93.85.93.227:80/hls/CH_VTV/variant.m3u8?version=3
-#EXTINF:-1,8 Канал
-http://93.85.93.227:80/hls/CH_8CHANNEL/variant.m3u8?version=3
-#EXTINF:-1,Euronews
-http://93.85.93.227:80/hls/CH_EURONEWS/variant.m3u8?version=3
-#EXTINF:-1,РБК Беларусь
-http://93.85.93.227:80/hls/CH_BBK/variant.m3u8?version=3
-#EXTINF:-1,Наш футбол
-http://93.85.93.227:80/hls/CH_NASHFUTBOL/variant.m3u8?version=3
-#EXTINF:-1,Sentanta Sports
-http://93.85.93.227:80/hls/CH_SETANTASPORT/variant.m3u8?version=3
-#EXTINF:-1,Sentanta Sports Plus
-http://93.85.93.227:80/hls/CH_SETANTASPORTPLUS/variant.m3u8?version=3
-#EXTINF:-1,Travel Adventure
-http://93.85.93.227:80/hls/CH_TRAVELHD/variant.m3u8?version=3
-#EXTINF:-1,Охотник и Рыбалов HD
-http://93.85.93.227:80/hls/CH_HDOHOTNIK/variant.m3u8?version=3
-#EXTINF:-1,Охота и рыбалка
-http://93.85.93.227:80/hls/CH_OHOTAIRYBALKA/variant.m3u8?version=3
-#EXTINF:-1,Усадьба
-http://93.85.93.227:80/hls/CH_USADBA/variant.m3u8?version=3
-#EXTINF:-1,Кухня ТВ
-http://93.85.93.227:80/hls/CH_KUHNYATV/variant.m3u8?version=3
-#EXTINF:-1,HD Life
-http://93.85.93.227:80/hls/CH_HDLIFE/variant.m3u8?version=3
-#EXTINF:-1,Оружие
-http://93.85.93.227:80/hls/CH_ORUZIE/variant.m3u8?version=3
-#EXTINF:-1,Драйв
-http://93.85.93.227:80/hls/CH_DRIVE/variant.m3u8?version=3
-#EXTINF:-1,RTVI
-http://93.85.93.227:80/hls/CH_RTVI/variant.m3u8?version=3
-#EXTINF:-1,Россия К
-http://93.85.93.227:80/hls/CH_ROSSIAK/variant.m3u8?version=3
-#EXTINF:-1,ТВ-3 Беларусь
-http://93.85.93.227:80/hls/CH_TV3/variant.m3u8?version=3
-#EXTINF:-1,ТВ-3
-http://93.85.93.227:80/hls/CH_TV3RUS/variant.m3u8?version=3
-#EXTINF:-1,Наше новое кино
-http://93.85.93.227:80/hls/CH_NASHENOVOEKINO/variant.m3u8?version=3
-#EXTINF:-1,Еврокино
-http://93.85.93.227:80/hls/CH_EVROKINO/variant.m3u8?version=3
-#EXTINF:-1,Киномикс
-http://93.85.93.227:80/hls/CH_KINOPLUS/variant.m3u8?version=3
-#EXTINF:-1,Кинохит
-http://93.85.93.227:80/hls/CH_KINOHIT/variant.m3u8?version=3
-#EXTINF:-1,Киносемя
-http://93.85.93.227:80/hls/CH_KINOSEMIA/variant.m3u8?version=3
-#EXTINF:-1,Русский Иллюзион
-http://93.85.93.227:80/hls/CH_RUSSKIJILLUZION/variant.m3u8?version=3
-#EXTINF:-1,Иллюзион
-http://93.85.93.227:80/hls/CH_ILLUZIONPLUS/variant.m3u8?version=3
-#EXTINF:-1,Мужское кино
-http://93.85.93.227:80/hls/CH_MUZKOEKINO/variant.m3u8?version=3
-#EXTINF:-1,Sony SciFi
-http://93.85.93.227:80/hls/CH_SONYSCIFI/variant.m3u8?version=3
-#EXTINF:-1,SET HD
-http://93.85.93.227:80/hls/CH_SETHD/variant.m3u8?version=3
-#EXTINF:-1,Amedia 2
-http://93.85.93.227:80/hls/CH_AMEDIA2/variant.m3u8?version=3
-#EXTINF:-1,Europa Plus TV
-http://93.85.93.227:80/hls/CH_EUROPAPLUSTV/variant.m3u8?version=3
-#EXTINF:-1,1 HD
-http://93.85.93.227:80/hls/CH_1HD/variant.m3u8?version=3
-#EXTINF:-1,Жара 
-http://93.85.93.227:80/hls/CH_STVEN/variant.m3u8?version=3
-#EXTINF:-1,ТНТ international
-http://93.85.93.227:80/hls/CH_TNTINT/variant.m3u8?version=3
-#EXTINF:-1,Детский мир / Телеклуб
-http://93.85.93.227:80/hls/CH_DETSKIMIR/variant.m3u8?version=3
-#EXTINF:-1,Детский
-http://93.85.93.227:80/hls/CH_DETSKII/variant.m3u8?version=3
-#EXTINF:-1,Мулмания
-http://93.85.93.227:80/hls/CH_MULTIMANIYA/variant.m3u8?version=3
-#EXTINF:-1,Viasat Nature
-http://93.85.93.227:80/hls/CH_VIASATNATURE/variant.m3u8?version=3
-#EXTINF:-1,Viasat Explore
-http://93.85.93.227:80/hls/CH_VIASATEXPLORER/variant.m3u8?version=3
-#EXTINF:-1,History
-http://93.85.93.227:80/hls/CH_HISTORY/variant.m3u8?version=3
-#EXTINF:-1,TV 1000
-http://93.85.93.227:80/hls/CH_TV1000/variant.m3u8?version=3
-#EXTINF:-1,TV 1000 Action
-http://93.85.93.227:80/hls/CH_TV1000ACTION/variant.m3u8?version=3
-#EXTINF:-1,TV 1000 Русское кино
-http://93.85.93.227:80/hls/CH_TV1000RUSSKOEKINO/variant.m3u8?version=3
-#EXTINF:-1,2x2
-http://93.85.93.227:80/hls/CH_2X2/variant.m3u8?version=3
-#EXTINF:-1,Русская ночь (+18)
-http://93.85.93.227:80/hls/CH_RUSSKAYANOCH/variant.m3u8?version=3
-#EXTINF:-1,Первый канал
-http://iptv.ktkru.ru:8001/index.m3u8
-#EXTINF:-1,Россия 1
-http://iptv.ktkru.ru:8002/index.m3u8
-#EXTINF:-1,Матч ТВ
-http://iptv.ktkru.ru:8003/index.m3u8
-#EXTINF:-1,НТВ
-http://iptv.ktkru.ru:8004/index.m3u8
-#EXTINF:-1,Пятый канал
-http://iptv.ktkru.ru:8005/index.m3u8
-#EXTINF:-1,Россия К
-http://iptv.ktkru.ru:8006/index.m3u8
-#EXTINF:-1,Россия 24
-http://iptv.ktkru.ru:8007/index.m3u8
-#EXTINF:-1,Карусель
-http://iptv.ktkru.ru:8008/index.m3u8
-#EXTINF:-1,ОТР
-http://iptv.ktkru.ru:8009/index.m3u8
-#EXTINF:-1,ТВ Центр
-http://iptv.ktkru.ru:8010/index.m3u8
-#EXTINF:-1,РЕН ТВ
-http://iptv.ktkru.ru:8011/index.m3u8
-#EXTINF:-1,Спас
-http://iptv.ktkru.ru:8012/index.m3u8
-#EXTINF:-1,СТС
-http://iptv.ktkru.ru:8013/index.m3u8
-#EXTINF:-1,Домашний
-http://iptv.ktkru.ru:8014/index.m3u8
-#EXTINF:-1,ТВ 3
-http://iptv.ktkru.ru:8015/index.m3u8
-#EXTINF:-1,Пятница
-http://iptv.ktkru.ru:8016/index.m3u8
-#EXTINF:-1,Звезда
-http://iptv.ktkru.ru:8017/index.m3u8
-#EXTINF:-1,Мир
-http://iptv.ktkru.ru:8018/index.m3u8
-#EXTINF:-1,ТНТ
-http://iptv.ktkru.ru:8019/index.m3u8
-#EXTINF:-1,Муз ТВ
-http://iptv.ktkru.ru:8020/index.m3u8
-#EXTINF:-1,Беларусь 1
-http://91.149.172.100:80/channel?id=45&u=demo&p=demo
-#EXTINF:-1,Беларусь 2
-http://91.149.172.100:80/channel?id=46&u=demo&p=demo
-#EXTINF:-1,Беларусь 3
-http://91.149.172.100:80/channel?id=52&u=demo&p=demo
-#EXTINF:-1,Беларусь 5
-http://91.149.172.100:80/channel?id=102&u=demo&p=demo
-#EXTINF:-1,TV1000
-http://91.149.172.100:80/channel?id=34&u=demo&p=demo
-#EXTINF:-1,TV1000 Action East
-http://91.149.172.100:80/channel?id=35&u=demo&p=demo
-#EXTINF:-1,TV1000 Русское кино
-http://91.149.172.100:80/channel?id=36&u=demo&p=demo
-#EXTINF:-1,RTVi
-http://91.149.172.100:80/channel?id=99&u=demo&p=demo
-#EXTINF:-1,ОНТ
-http://91.149.172.100:80/channel?id=47&u=demo&p=demo
-#EXTINF:-1,РЕН ТВ
-http://91.149.172.100:80/channel?id=48&u=demo&p=demo
-#EXTINF:-1,НТВ
-http://91.149.172.100:80/channel?id=49&u=demo&p=demo
-#EXTINF:-1,Amedia 1
-http://91.149.172.100:80/channel?id=58&u=demo&p=demo
-#EXTINF:-1,Amedia 2
-http://91.149.172.100:80/channel?id=5&u=demo&p=demo
-#EXTINF:-1,FOX HD
-http://91.149.172.100:80/channel?id=100&u=demo&p=demo
-#EXTINF:-1,History
-http://91.149.172.100:80/channel?id=136&u=demo&p=demo
-#EXTINF:-1,Nat GeoWild HD
-http://91.149.172.100:80/channel?id=7&u=demo&p=demo
-#EXTINF:-1,National Geographic HD
-http://91.149.172.100:80/channel?id=91&u=demo&p=demo
-#EXTINF:-1,Travel channel HD
-http://91.149.172.100:80/channel?id=144&u=demo&p=demo
-#EXTINF:-1,Travel channel HD
-http://91.149.172.100:80/channel?id=95&u=demo&p=demo
-#EXTINF:-1,Кинопремьера HD
-http://91.149.172.100:80/channel?id=77&u=demo&p=demo
-#EXTINF:-1,Paramount channel
-http://91.149.172.100:80/channel?id=93&u=demo&p=demo
-#EXTINF:-1,Paramount Comedy
-http://91.149.172.100:80/channel?id=90&u=demo&p=demo
-#EXTINF:-1,XXI TV
-http://91.149.172.100:80/channel?id=14&u=demo&p=demo
-#EXTINF:-1,365 дней ТВ
-http://91.149.172.100:80/channel?id=86&u=demo&p=demo
-#EXTINF:-1,Boomerang
-http://91.149.172.100:80/channel?id=119&u=demo&p=demo
-#EXTINF:-1,EX
-http://91.149.172.100:80/channel?id=24&u=demo&p=demo
-#EXTINF:-1,Fox Life
-http://91.149.172.100:80/channel?id=75&u=demo&p=demo
-#EXTINF:-1,GALAXI
-http://91.149.172.100:80/channel?id=71&u=demo&p=demo
-#EXTINF:-1,NICK
-http://91.149.172.100:80/channel?id=87&u=demo&p=demo
-#EXTINF:-1,Nick Jr
-http://91.149.172.100:80/channel?id=76&u=demo&p=demo
-#EXTINF:-1,Russian Travel Guide
-http://91.149.172.100:80/channel?id=30&u=demo&p=demo
-#EXTINF:-1,Русский экстрим
-http://91.149.172.100:80/channel?id=137&u=demo&p=demo
-#EXTINF:-1,Sony turbo
-http://91.149.172.100:80/channel?id=143&u=demo&p=demo
-#EXTINF:-1,Sony
-http://91.149.172.100:80/channel?id=103&u=demo&p=demo
-#EXTINF:-1,Sony
-http://91.149.172.100:80/channel?id=98&u=demo&p=demo
-#EXTINF:-1,Travel channel
-http://91.149.172.100:80/channel?id=141&u=demo&p=demo
-#EXTINF:-1,Viasat History
-http://91.149.172.100:80/channel?id=38&u=demo&p=demo
-#EXTINF:-1,ZooПарк
-http://91.149.172.100:80/channel?id=16&u=demo&p=demo
-#EXTINF:-1,Авто Плюс
-http://91.149.172.100:80/channel?id=85&u=demo&p=demo
-#EXTINF:-1,Русский Бестселлер
-http://91.149.172.100:80/channel?id=23&u=demo&p=demo
-#EXTINF:-1,Вопросы и ответы
-http://91.149.172.100:80/channel?id=44&u=demo&p=demo
-#EXTINF:-1,Время
-http://91.149.172.100:80/channel?id=133&u=demo&p=demo
-#EXTINF:-1,Vietnam Television
-http://91.149.172.100:80/channel?id=120&u=demo&p=demo
-#EXTINF:-1,Дом кино
-http://91.149.172.100:80/channel?id=108&u=demo&p=demo
-#EXTINF:-1,Домашние животные
-http://91.149.172.100:80/channel?id=114&u=demo&p=demo
-#EXTINF:-1,Домашний
-http://91.149.172.100:80/channel?id=6&u=demo&p=demo
-#EXTINF:-1,Драйв
-http://91.149.172.100:80/channel?id=41&u=demo&p=demo
-#EXTINF:-1,Еврокино
-http://91.149.172.100:80/channel?id=132&u=demo&p=demo
-#EXTINF:-1,Живи!
-http://91.149.172.100:80/channel?id=60&u=demo&p=demo
-#EXTINF:-1,Звезда
-http://91.149.172.100:80/channel?id=124&u=demo&p=demo
-#EXTINF:-1,Здоровое ТВ
-http://91.149.172.100:80/channel?id=42&u=demo&p=demo
-#EXTINF:-1,Русский иллюзион
-http://91.149.172.100:80/channel?id=150&u=demo&p=demo
-#EXTINF:-1,КИНО
-http://91.149.172.100:80/channel?id=149&u=demo&p=demo
-#EXTINF:-1,КИНОКОМЕДИЯ
-http://91.149.172.100:80/channel?id=80&u=demo&p=demo
-#EXTINF:-1,Киномикс
-http://91.149.172.100:80/channel?id=123&u=demo&p=demo
-#EXTINF:-1,КИНОСЕМЬЯ
-http://91.149.172.100:80/channel?id=128&u=demo&p=demo
-#EXTINF:-1,КИНОСЕРИЯ
-http://91.149.172.100:80/channel?id=96&u=demo&p=demo
-#EXTINF:-1,Кинохит
-http://91.149.172.100:80/channel?id=112&u=demo&p=demo
-#EXTINF:-1,Кухня ТВ
-http://91.149.172.100:80/channel?id=83&u=demo&p=demo
-#EXTINF:-1,МAMA
-http://91.149.172.100:80/channel?id=72&u=demo&p=demo
-#EXTINF:-1,Мир
-http://91.149.172.100:80/channel?id=51&u=demo&p=demo
-#EXTINF:-1,Моя планета
-http://91.149.172.100:80/channel?id=26&u=demo&p=demo
-#EXTINF:-1,Мужское кино
-http://91.149.172.100:80/channel?id=82&u=demo&p=demo
-#EXTINF:-1,МУЛЬТ
-http://91.149.172.100:80/channel?id=8&u=demo&p=demo
-#EXTINF:-1,Наука
-http://91.149.172.100:80/channel?id=27&u=demo&p=demo
-#EXTINF:-1,Ностальгия
-http://91.149.172.100:80/channel?id=101&u=demo&p=demo
-#EXTINF:-1,Ocean TV
-http://91.149.172.100:80/channel?id=31&u=demo&p=demo
-#EXTINF:-1,Охота и рыбалка
-http://91.149.172.100:80/channel?id=107&u=demo&p=demo
-#EXTINF:-1,Перец International
-http://91.149.172.100:80/channel?id=88&u=demo&p=demo
-#EXTINF:-1,Психология 21
-http://91.149.172.100:80/channel?id=113&u=demo&p=demo
-#EXTINF:-1,Ретро
-http://91.149.172.100:80/channel?id=40&u=demo&p=demo
-#EXTINF:-1,Родное кино
-http://91.149.172.100:80/channel?id=74&u=demo&p=demo
-#EXTINF:-1,РТР-Планета Европа
-http://91.149.172.100:80/channel?id=50&u=demo&p=demo
-#EXTINF:-1,OUTDOOR
-http://91.149.172.100:80/channel?id=28&u=demo&p=demo
-#EXTINF:-1,Сарафан
-http://91.149.172.100:80/channel?id=33&u=demo&p=demo
-#EXTINF:-1,Совершенно секретно
-http://91.149.172.100:80/channel?id=70&u=demo&p=demo
-#EXTINF:-1,Телекафе
-http://vod.mors.by/channel?id=57&u=demo&p=demo
-#EXTINF:-1,Усадьба
-http://vod.mors.by/channel?id=43&u=demo&p=demo
-#EXTINF:-1,Футбол
-http://vod.mors.by/channel?id=65&u=demo&p=demo
-#EXTINF:-1,Матч! Футбол 1 HD
-http://95.154.129.24/hls/hd1/hd1.m3u8
-#EXTINF:-1,Матч! Футбол 2 HD
-http://95.154.129.24/hls/hd2/hd2.m3u8
-#EXTINF:-1,Домашний
-http://kt-tv.ru/iptv/channels.php?channel=51
-#EXTINF:-1,Кубань 24 Орбита
-http://kt-tv.ru/iptv/channels.php?channel=234
-#EXTINF:-1,Москва 24
-http://kt-tv.ru/iptv/channels.php?channel=54
-#EXTINF:-1,НТВ +2
-http://kt-tv.ru/iptv/channels.php?channel=333
-#EXTINF:-1,ОТВ
-http://kt-tv.ru/iptv/channels.php?channel=256
-#EXTINF:-1,ОТР
-http://kt-tv.ru/iptv/channels.php?channel=56
-#EXTINF:-1,Рен +2
-http://kt-tv.ru/iptv/channels.php?channel=324
-#EXTINF:-1,Рен +4
-http://kt-tv.ru/iptv/channels.php?channel=361
-#EXTINF:-1,Рен/7 канал
-http://pstv.krasmix.ru/tv/7ka/playlist.m3u8
-#EXTINF:-1,Россия 1
-http://kt-tv.ru/iptv/channels.php?channel=41
-#EXTINF:-1,Россия 1 +2
-http://kt-tv.ru/iptv/channels.php?channel=43
-#EXTINF:-1,Россия 1 +4
-http://pstv.krasmix.ru/tv/russia1/playlist.m3u8
-#EXTINF:-1,Россия 24
-http://pstv.krasmix.ru/tv/russia24/playlist.m3u8
-#EXTINF:-1,Россия К
-http://kt-tv.ru/iptv/channels.php?channel=44
-#EXTINF:-1,СТС +2
-http://kt-tv.ru/iptv/channels.php?channel=321
-#EXTINF:0,Правда тут
-http://94.158.80.101:8080/pravdatyt/stream.m3u8
-#EXTINF:0,Пиксель
-http://94.158.80.101:8080/pixel/stream.m3u8
-#EXTINF:0,Ентер фильм
-http://94.158.80.101:8080/enterfilm/stream.m3u8
-#EXTINF:0,24 News
-http://94.158.80.101:8080/news24/stream.m3u8
-#EXTINF:0,Интер
-http://94.158.80.101:8080/inter/stream.m3u8
-#EXTINF:0,Tonis
-http://94.158.80.101:8080/tonis/stream.m3u8
-#EXTINF:0,5 канал Украина
-http://94.158.80.101:8080/5channel/stream.m3u8
-#EXTINF:0,TET
-http://94.158.80.101:8080/tet/stream.m3u8
-#EXTINF:0,ЧП.INFO
-http://94.158.80.101:8080/chepeinfo/stream.m3u8
-#EXTINF:0,UA:Перший
-http://94.158.80.101:8080/ut1/stream.m3u8
+#EXTINF:0,UA: Перший
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0003)/index.m3u8
+#EXTINF:0,Інтер
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0019_nd)/index.m3u8
+#EXTINF:0,1+1
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0097)/index.m3u8
+#EXTINF:0,Новый канал
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0135_nd)/index.m3u8
+#EXTINF:0,ICTV
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0088)/index.m3u8
+#EXTINF:0,СТБ
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0137_nd)/index.m3u8
+#EXTINF:0,Україна
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0070_nd)/index.m3u8
+#EXTINF:0,ТЕТ
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0039)/index.m3u8
 #EXTINF:0,НТН
-http://94.158.80.101:8080/ntn/stream.m3u8
-#EXTINF:0,Мега
-http://94.158.80.101:8080/mega/stream.m3u8
-#EXTINF:0,Дача
-http://94.158.80.101:8080/gamma/stream.m3u8
-#EXTINF:0,Dobro ТВ
-http://94.158.80.101:8080/dobrotv/stream.m3u8
-#EXTINF:0,Первый деловой
-http://94.158.80.101:8080/firstbuisness/stream.m3u8
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0020_nd)/index.m3u8
+#EXTINF:0,НЛО
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0071_nd)/index.m3u8
+#EXTINF:0,Pryamyi
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0030)/index.m3u8
+#EXTINF:0,2+2
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0040)/index.m3u8
+#EXTINF:0,Квартал ТБ
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0037)/index.m3u8
+#EXTINF:0,ТРК Київ
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0031)/index.m3u8
+#EXTINF:0,UA: Крим
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0008)/index.m3u8
+#EXTINF:0,ЕКО ТV
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0021)/index.m3u8
+#EXTINF:0,Zik HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0105)/index.m3u8
+#EXTINF:0,Культура
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0005_nd)/index.m3u8
+#EXTINF:0,8 channel
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0047)/index.m3u8
+#EXTINF:0,Сонце
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0049)/index.m3u8
+#EXTINF:0,ОЦЕ
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0011_nd)/index.m3u8
 #EXTINF:0,K1
-http://94.158.80.101:8080/k1/stream.m3u8
-#EXTINF:0,K2
-http://94.158.80.101:8080/k2/stream.m3u8
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0024_nd)/index.m3u8
+#EXTINF:0,Правда тут
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0081)/index.m3u8
+#EXTINF:0,4 канал
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0048)/index.m3u8
 #EXTINF:0,КРТ
-http://94.158.80.101:8080/krt/stream.m3u8
-#EXTINF:0,Малятко ТВ
-http://94.158.80.101:8080/malyatko/stream.m3u8
-#EXTINF:0,Maxxi
-http://94.158.80.101:8080/maxxi/stream.m3u8
-#EXTINF:0,News One
-http://94.158.80.101:8080/newsone/stream.m3u8
-#EXTINF:0,OTV
-http://94.158.80.101:8080/otv/stream.m3u8
-#EXTINF:0,ПлюсПлюс
-http://94.158.80.101:8080/plusplus/stream.m3u8
-#EXTINF:0,Рада
-http://94.158.80.101:8080/rada/stream.m3u8
-#EXTINF:0,UBR
-http://94.158.80.101:8080/ubr/stream.m3u8
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0052)/index.m3u8
+#EXTINF:0,Centralny channel
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0077)/index.m3u8
+#EXTINF:0,Вінтаж
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0056)/index.m3u8
+#EXTINF:0,Глас
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0042)/index.m3u8
+#EXTINF:0,Наталі
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0060)/index.m3u8
+#EXTINF:0,DW Deutsch
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0127)/index.m3u8
+#EXTINF:0,Bloomberg TV
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0034)/index.m3u8
+#EXTINF:0,Euronews (rus)
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0136)/index.m3u8
+#EXTINF:0,БЕЛАРУСЬ 24
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0134)/index.m3u8
+#EXTINF:0,News Network
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0055)/index.m3u8
+#EXTINF:0,УНИАН
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0035)/index.m3u8
 #EXTINF:0,112 Украина
-http://94.158.80.101:8080/112ukraine/stream.m3u8
-#EXTINF:0,3 STV
-http://94.158.80.101:8080/3stv/stream.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Музыкальный",Music Box UA
-http://212.26.132.86/hls/mb_ua_2500.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Музыкальный",RTI HD
-http://cdn.vsnw.net:8081/interradio/720i.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Музыкальный",Горизонт ТВ UA
-http://80.91.177.102:1935/live/live1/playlist.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Общий",Интер
-http://109.68.40.67/life/inter.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Общий",К1
-http://109.68.40.67/life/k1.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Общий",Киев
-http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Общий",НТН
-http://109.68.40.67/life/ntn.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Религия",Перший Заходний
-http://93.178.252.244:8090/flv720_576.flv
-#EXTINF:-1, audio-track="ukr" group-title="Общий",24 Украiна
-http://109.68.190.192:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Общий",En TV (Энергодар)
-http://tv.om.ua:8090/test.flv
-#EXTINF:-1, audio-track="ukr" group-title="Новости",FM ТВ (Симферополь)
-http://193.238.110.158:8080/hq.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Общий",TV5 (Запорожье)
-http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Общий",Думская TV HD (Одесса)
-http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska/chunks.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Общий",Первый Городской (Одесса)
-http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/1tvod/1tvod/chunks.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Общий",ТВ Дитинец Чернигов
-http://webtv.net.ua:8080/stream.flv
-#EXTINF:-1, audio-track="ukr" group-title="Общий",ТВ-Дом (Украина)
-http://78.26.128.21:8082/stream.flv?stream=133
-#EXTINF:-1, audio-track="ukr" group-title="Общий",ТРК Черновцы
-http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Общий",Третий Цифровой
-http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Общий",Южная Волна HD
-http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/chunks.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Новости",100% News UA
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1, audio-track="ukr" group-title="Спорт и экстрим",Xsport UA
-http://83.142.232.246:1935/live/efir/playlist.m3u8
-#EXTINF:0,BACKUS TV 
-https://hls.goodgame.ru/hls/109081.m3u8 
-#EXTINF:0,Akudji HD 
-http://hls.goodgame.ru/hls/5346.m3u8 
-#EXTINF:0,КиноЗаказ 1 
-https://hls.goodgame.ru/hls/114023.m3u8 
-#EXTINF:0,КиноЗаказ 2 
-http://hls.goodgame.ru/hls/12949.m3u8 
-#EXTINF:0,КиноЗаказ 3 
-http://hls.goodgame.ru/hls/5346.m3u8 
-#EXTINF:0, STR TV 
-http://hls.goodgame.ru/hls/130048.m3u8 
-#EXTINF:0, PznStreams HD 
-http://hls.goodgame.ru/hls/12949.m3u8 
-#EXTINF:0,Naroddip 
-http://hls.goodgame.ru/hls/33226.m3u8 
-#EXTINF:0,Дядя Ваня 
-http://hls.goodgame.ru/hls/54105.m3u8
-#EXTINF:0,MNOGO-TV
-http://188.138.75.245/hls/MNOGOTV/index.m3u8
-#EXTINF:0,MNOGO-TV(Music)
-http://188.138.75.245/hls/RETROMUSIC/index.m3u8
-#EXTINF:0,MNOGO-TV(Мистический)
-http://188.138.75.245/hls/1mistika/index.m3u8
-#EXTINF:0,MNOGO-TV(Fantasy)
-http://188.138.75.245/hls/Fantasy/index.m3u8
-#EXTINF:-1,1TV
-http://212.48.146.107:1234/udp/233.49.170.10:5000?soc4up_FREE
-#EXTINF:-1,MuzTV
-http://212.48.146.107:1234/udp/233.49.170.12:5000?soc4up_FREE
-#EXTINF:-1,STS
-http://212.48.146.107:1234/udp/233.49.170.11:5000?soc4up_FREE
-#EXTINF:-1,Disney
-http://212.48.146.107:1234/udp/233.49.170.14:5000?soc4up_FREE
-#EXTINF:-1,Domashniy
-http://212.48.146.107:1234/udp/233.49.170.15:5000?soc4up_FREE
-#EXTINF:-1,Travel+Adventure
-http://212.48.146.107:1234/udp/233.49.170.18:5000?soc4up_FREE
-#EXTINF:-1,TV5MONDE EUROPE
-http://212.48.146.107:1234/udp/233.49.170.19:5000?soc4up_FREE
-#EXTINF:-1,DW (Deutsch)
-http://212.48.146.107:1234/udp/233.49.170.20:5000?soc4up_FREE
-#EXTINF:-1,Tochka TV
-http://212.48.146.107:1234/udp/233.49.170.22:5000?soc4up_FREE
-#EXTINF:-1,World Fashion Channel
-http://212.48.146.107:1234/udp/233.49.170.21:5000?soc4up_FREE
-#EXTINF:-1,Moskva Doverie
-http://212.48.146.107:1234/udp/233.49.170.23:5000?soc4up_FREE
-#EXTINF:-1,RADOST MOYA
-http://212.48.146.107:1234/udp/233.49.170.24:5000?soc4up_FREE
-#EXTINF:-1,Bridge TV
-http://212.48.146.107:1234/udp/233.49.170.25:5000?soc4up_FREE
-#EXTINF:-1,TNT-music
-http://212.48.146.107:1234/udp/233.49.170.26:5000?soc4up_FREE
-#EXTINF:-1,TV3 Russia
-http://212.48.146.107:1234/udp/233.49.170.27:5000?soc4up_FREE
-#EXTINF:-1,Match Arena
-http://212.48.146.107:1234/udp/233.49.170.28:5000?soc4up_FREE
-#EXTINF:-1,Match! nash sport
-http://212.48.146.107:1234/udp/233.49.170.30:5000?soc4up_FREE
-#EXTINF:-1,Eurosport_2_HD
-http://212.48.146.107:1234/udp/233.49.170.29:5000?soc4up_FREE
-#EXTINF:-1,Luxury_World
-http://212.48.146.107:1234/udp/233.49.170.31:5000?soc4up_FREE
-#EXTINF:-1,MTV Rock
-http://212.48.146.107:1234/udp/233.49.170.32:5000?soc4up_FREE
-#EXTINF:-1,Tvoy dom
-http://212.48.146.107:1234/udp/233.49.170.34:5000?soc4up_FREE
-#EXTINF:-1,Viasat Sport HD
-http://212.48.146.107:1234/udp/233.49.170.33:5000?soc4up_FREE
-#EXTINF:-1,Pyatnica
-http://212.48.146.107:1234/udp/233.49.170.36:5000?soc4up_FREE
-#EXTINF:-1,TNT
-http://212.48.146.107:1234/udp/233.49.170.37:5000?soc4up_FREE
-#EXTINF:-1,Nash Futbol
-http://212.48.146.107:1234/udp/233.49.170.39:5000?soc4up_FREE
-#EXTINF:-1,Nostalgia
-http://212.48.146.107:1234/udp/233.49.170.40:5000?soc4up_FREE
-#EXTINF:-1,DTX
-http://212.48.146.107:1234/udp/233.49.170.41:5000?soc4up_FREE
-#EXTINF:-1,MTV Dance
-http://212.48.146.107:1234/udp/233.49.170.43:5000?soc4up_FREE
-#EXTINF:-1,Extreme sports
-http://212.48.146.107:1234/udp/233.49.170.44:5000?soc4up_FREE
-#EXTINF:-1,VH1 Classic
-http://212.48.146.107:1234/udp/233.49.170.46:5000?soc4up_FREE
-#EXTINF:-1,Nat Geo Wild
-http://212.48.146.107:1234/udp/233.49.170.47:5000?soc4up_FREE
-#EXTINF:-1,JimJam
-http://212.48.146.107:1234/udp/233.49.170.45:5000?soc4up_FREE
-#EXTINF:-1,Cartoon Network
-http://212.48.146.107:1234/udp/233.49.170.48:5000?soc4up_FREE
-#EXTINF:-1,RBK
-http://212.48.146.107:1234/udp/233.49.170.49:5000?soc4up_FREE
-#EXTINF:-1,5_kanal
-http://212.48.146.107:1234/udp/233.49.170.51:5000?soc4up_FREE
-#EXTINF:-1,Gulli girl
-http://212.48.146.107:1234/udp/233.49.170.52:5000?soc4up_FREE
-#EXTINF:-1,Ohotnik i rybolov
-http://212.48.146.107:1234/udp/233.49.170.53:5000?soc4up_FREE
-#EXTINF:-1,Kinokomedia
-http://212.48.146.107:1234/udp/233.49.170.58:5000?soc4up_FREE
-#EXTINF:-1,Music Box Russia
-http://212.48.146.107:1234/udp/233.49.170.57:5000?soc4up_FREE
-#EXTINF:-1,Music_Box_TV
-http://212.48.146.107:1234/udp/233.49.170.56:5000?soc4up_FREE
-#EXTINF:-1,KuhnyaTV
-http://212.48.146.107:1234/udp/233.49.170.59:5000?soc4up_FREE
-#EXTINF:-1,auto_plus
-http://212.48.146.107:1234/udp/233.49.170.61:5000?soc4up_FREE
-#EXTINF:-1,Match Boec
-http://212.48.146.107:1234/udp/233.49.170.60:5000?soc4up_FREE
-#EXTINF:-1,KinoSeria
-http://212.48.146.107:1234/udp/233.49.170.62:5000?soc4up_FREE
-#EXTINF:-1,VH1 Europe
-http://212.48.146.107:1234/udp/233.49.170.64:5000?soc4up_FREE
-#EXTINF:-1,Karusel+0
-http://212.48.146.107:1234/udp/233.49.170.68:5000?soc4up_FREE
-#EXTINF:-1,FOOTBALL
-http://212.48.146.107:1234/udp/233.49.170.69:5000?soc4up_FREE
-#EXTINF:-1,NTV
-http://212.48.146.107:1234/udp/233.49.170.71:5000?soc4up_FREE
-#EXTINF:-1,zagorodniy
-http://212.48.146.107:1234/udp/233.49.170.70:5000?soc4up_FREE
-#EXTINF:-1,CHE+0
-http://212.48.146.107:1234/udp/233.49.170.72:5000?soc4up_FREE
-#EXTINF:-1,MY PLANET
-http://212.48.146.107:1234/udp/233.49.170.73:5000?soc4up_FREE
-#EXTINF:-1,Detsky
-http://212.48.146.107:1234/udp/233.49.170.74:5000?soc4up_FREE
-#EXTINF:-1,NST
-http://212.48.146.107:1234/udp/233.49.170.75:5000?soc4up_FREE
-#EXTINF:-1,Illuzion+
-http://212.48.146.107:1234/udp/233.49.170.76:5000?soc4up_FREE
-#EXTINF:-1,Nickelodeon
-http://212.48.146.107:1234/udp/233.49.170.78:5000?soc4up_FREE
-#EXTINF:-1,Eurokino
-http://212.48.146.107:1234/udp/233.49.170.77:5000?soc4up_FREE
-#EXTINF:-1,Match TV
-http://212.48.146.107:1234/udp/233.49.170.79:5000?soc4up_FREE
-#EXTINF:-1,Multimania
-http://212.48.146.107:1234/udp/233.49.170.81:5000?soc4up_FREE
-#EXTINF:-1,RossiaK
-http://212.48.146.107:1234/udp/233.49.170.80:5000?soc4up_FREE
-#EXTINF:-1,FOX Life
-http://212.48.146.107:1234/udp/233.49.170.82:5000?soc4up_FREE
-#EXTINF:-1,1 vegetable
-http://212.48.146.107:1234/udp/233.49.170.85:5000?soc4up_FREE
-#EXTINF:-1,Rossia1
-http://212.48.146.107:1234/udp/233.49.170.84:5000?soc4up_FREE
-#EXTINF:-1,FOX
-http://212.48.146.107:1234/udp/233.49.170.83:5000?soc4up_FREE
-#EXTINF:-1,Erox (MPEG2)
-http://212.48.146.107:1234/udp/233.49.170.86:5000?soc4up_FREE
-#EXTINF:-1,Eurosport News
-http://212.48.146.107:1234/udp/233.49.170.88:5000?soc4up_FREE
-#EXTINF:-1,National Geographic
-http://212.48.146.107:1234/udp/233.49.170.87:5000?soc4up_FREE
-#EXTINF:-1,2x2
-http://212.48.146.107:1234/udp/233.49.170.89:5000?soc4up_FREE
-#EXTINF:-1,Jivi
-http://212.48.146.107:1234/udp/233.49.170.90:5000?soc4up_FREE
-#EXTINF:-1,TPO (surgut)
-http://212.48.146.107:1234/udp/233.49.170.91:5000?soc4up_FREE
-#EXTINF:-1,Mir
-http://212.48.146.107:1234/udp/233.49.170.92:5000?soc4up_FREE
-#EXTINF:-1,Uvelirochka
-http://212.48.146.107:1234/udp/233.49.170.93:5000?soc4up_FREE
-#EXTINF:-1,REN-TV
-http://212.48.146.107:1234/udp/233.49.170.94:5000?soc4up_FREE
-#EXTINF:-1,RTG SD
-http://212.48.146.107:1234/udp/233.49.170.96:5000?soc4up_FREE
-#EXTINF:-1,TVCenter
-http://212.48.146.107:1234/udp/233.49.170.97:5000?soc4up_FREE
-#EXTINF:-1,Rossia24
-http://212.48.146.107:1234/udp/233.49.170.95:5000?soc4up_FREE
-#EXTINF:-1,Boomerang
-http://212.48.146.107:1234/udp/233.49.170.98:5000?soc4up_FREE
-#EXTINF:-1,Euronews RU
-http://212.48.146.107:1234/udp/233.49.170.100:5000?soc4up_FREE
-#EXTINF:-1,Zvezda
-http://212.48.146.107:1234/udp/233.49.170.99:5000?soc4up_FREE
-#EXTINF:-1,Sarafan
-http://212.48.146.107:1234/udp/233.49.170.102:5000?soc4up_FREE
-#EXTINF:-1,France 24 (en Francais)
-http://212.48.146.107:1234/udp/233.49.170.103:5000?soc4up_FREE
-#EXTINF:-1,Sony HD
-http://212.48.146.107:1234/udp/233.49.170.101:5000?soc4up_FREE
-#EXTINF:-1,MTV Hit
-http://212.48.146.107:1234/udp/233.49.170.104:5000?soc4up_FREE
-#EXTINF:-1,National Geographic HD
-http://212.48.146.107:1234/udp/233.49.170.105:5000?soc4up_FREE
-#EXTINF:-1,Match! Igra
-http://212.48.146.107:1234/udp/233.49.170.107:5000?soc4up_FREE
-#EXTINF:-1,Sony Sci-Fi
-http://212.48.146.107:1234/udp/233.49.170.109:5000?soc4up_FREE
-#EXTINF:-1,Dojd SD
-http://212.48.146.107:1234/udp/233.49.170.110:5000?soc4up_FREE
-#EXTINF:-1,RU.TV (pskov)
-http://212.48.146.107:1234/udp/233.49.170.114:5000?soc4up_FREE
-#EXTINF:-1,KHL SD(pskov)
-http://212.48.146.107:1234/udp/233.49.170.115:5000?soc4up_FREE
-#EXTINF:-1,Retro
-http://212.48.146.107:1234/udp/233.49.170.116:5000?soc4up_FREE
-#EXTINF:-1,Muzhskoe kino
-http://212.48.146.107:1234/udp/233.49.170.117:5000?soc4up_FREE
-#EXTINF:-1,Mezzo Live HD
-http://212.48.146.107:1234/udp/233.49.170.118:5000?soc4up_FREE
-#EXTINF:-1,Fashion One HD
-http://212.48.146.107:1234/udp/233.49.170.119:5000?soc4up_FREE
-#EXTINF:-1,PlayBoy
-http://212.48.146.107:1234/udp/233.49.170.121:5000?soc4up_FREE
-#EXTINF:-1,Brazzers TV Europe
-http://212.48.146.107:1234/udp/233.49.170.122:5000?soc4up_FREE
-#EXTINF:-1,russkaya_noch
-http://212.48.146.107:1234/udp/233.49.170.123:5000?soc4up_FREE
-#EXTINF:-1,TIJI
-http://212.48.146.107:1234/udp/233.49.170.124:5000?soc4up_FREE
-#EXTINF:-1,FOX Life HD
-http://212.48.146.107:1234/udp/233.49.170.127:5000?soc4up_FREE
-#EXTINF:-1,Nick Jr
-http://212.48.146.107:1234/udp/233.49.170.135:5000?soc4up_FREE
-#EXTINF:-1,Maidan
-http://212.48.146.107:1234/udp/233.49.170.166:5000?soc4up_FREE
-#EXTINF:-1,Nayka
-http://212.48.146.107:1234/udp/233.49.170.155:5000?soc4up_FREE
-#EXTINF:-1,Belarus 24
-http://212.48.146.107:1234/udp/233.49.170.168:5000?soc4up_FREE
-#EXTINF:-1,N/A HD
-http://212.48.146.107:1234/udp/233.49.170.170:5000?soc4up_FREE
-#EXTINF:-1,RTGHD
-http://212.48.146.107:1234/udp/233.49.170.169:5000?soc4up_FREE
-#EXTINF:-1,Amedia_1
-http://212.48.146.107:1234/udp/233.49.170.171:5000?soc4up_FREE
-#EXTINF:-1,Amedia_2
-http://212.48.146.107:1234/udp/233.49.170.172:5000?soc4up_FREE
-#EXTINF:-1,Animal Planet
-http://212.48.146.107:1234/udp/233.49.170.175:5000?soc4up_FREE
-#EXTINF:-1,Discovery_Science_HD
-http://212.48.146.107:1234/udp/233.49.170.174:5000?soc4up_FREE
-#EXTINF:-1,Discovery HD
-http://212.48.146.107:1234/udp/233.49.170.173:5000?soc4up_FREE
-#EXTINF:-1,Big Asia
-http://212.48.146.107:1234/udp/233.49.170.178:5000?soc4up_FREE
-#EXTINF:-1,TLC_HD
-http://212.48.146.107:1234/udp/233.49.170.176:5000?soc4up_FREE
-#EXTINF:-1,DocuBox HD
-http://212.48.146.107:1234/udp/233.49.170.177:5000?soc4up_FREE
-#EXTINF:-1,DANGE TV
-http://212.48.146.107:1234/udp/233.49.170.179:5000?soc4up_FREE
-#EXTINF:-1,STS-LOVE+0
-http://212.48.146.107:1234/udp/233.49.170.181:5000?soc4up_FREE
-#EXTINF:-1,ProBusiness
-http://212.48.146.107:1234/udp/233.49.170.182:5000?soc4up_FREE
-#EXTINF:-1,9 VOLNA
-http://212.48.146.107:1234/udp/233.49.170.184:5000?soc4up_FREE
-#EXTINF:-1,Shopping Live
-http://212.48.146.107:1234/udp/233.49.170.185:5000?soc4up_FREE
-#EXTINF:-1,soyz
-http://212.48.146.107:1234/udp/233.49.170.187:5000?soc4up_FREE
-#EXTINF:-1,N/A
-http://212.48.146.107:1234/udp/233.49.170.195:5000?soc4up_FREE
-#EXTINF:-1,Fightbox HD
-http://212.48.146.107:1234/udp/233.49.170.186:5000?soc4up_FREE
-#EXTINF:-1,ENGLISH CLUB TV (pskov)
-http://212.48.146.107:1234/udp/233.49.170.211:5000?soc4up_FREE
-#EXTINF:-1,Match HD
-http://212.48.146.107:1234/udp/233.49.170.210:5000?soc4up_FREE
-#EXTINF:-1,TIJI
-http://212.48.146.107:1234/udp/233.49.170.212:5000?soc4up_FREE
-#EXTINF:-1,TV TOP SHOP
-http://212.48.146.107:1234/udp/233.49.170.213:5000?soc4up_FREE
-#EXTINF:-1,HumorBox
-http://212.48.146.107:1234/udp/233.49.170.215:5000?soc4up_FREE
-#EXTINF:-1,Strana
-http://212.48.146.107:1234/udp/233.49.170.214:5000?soc4up_FREE
-#EXTINF:-1,Mujskoi
-http://212.48.146.107:1234/udp/233.49.170.216:5000?soc4up_FREE
-#EXTINF:-1,Zagorodnaja zhizn
-http://212.48.146.107:1234/udp/233.49.170.217:5000?soc4up_FREE
-#EXTINF:-1,Detskiy mir
-http://212.48.146.107:1234/udp/233.49.170.219:5000?soc4up_FREE
-#EXTINF:-1,N/A HD
-http://212.48.146.107:1234/udp/233.49.170.218:5000?soc4up_FREE
-#EXTINF:-1,CNN International
-http://212.48.146.107:1234/udp/233.49.170.221:5000?soc4up_FREE
-#EXTINF:-1,MTV live HD
-http://212.48.146.107:1234/udp/233.49.170.220:5000?soc4up_FREE
-#EXTINF:-1,ryzhij
-http://212.48.146.107:1234/udp/233.49.170.222:5000?soc4up_FREE
-#EXTINF:-1,LyaMiNor
-http://212.48.146.107:1234/udp/233.49.170.224:5000?soc4up_FREE
-#EXTINF:-1,Ginger HD
-http://212.48.146.107:1234/udp/233.49.170.223:5000?soc4up_FREE
-#EXTINF:-1,WORLD BUSINESS CHANNEL
-http://212.48.146.107:1234/udp/233.49.170.227:5000?soc4up_FREE
-#EXTINF:-1,Paramount Comedy HD
-http://212.48.146.107:1234/udp/233.49.170.225:5000?soc4up_FREE
-#EXTINF:-1,N/A HD
-http://212.48.146.107:1234/udp/233.49.170.226:5000?soc4up_FREE
-#EXTINF:-1,TlumHD
-http://212.48.146.107:1234/udp/233.49.170.228:5000?soc4up_FREE
-#EXTINF:-1,malish
-http://212.48.146.107:1234/udp/233.49.170.229:5000?soc4up_FREE
-#EXTINF:-1,N/A HD
-http://212.48.146.107:1234/udp/233.49.170.230:5000?soc4up_FREE
-#EXTINF:-1,KVN TV
-http://212.48.146.107:1234/udp/233.49.170.231:5000?soc4up_FREE
-#EXTINF:-1,Shop and Show
-http://212.48.146.107:1234/udp/233.49.170.234:5000?soc4up_FREE
-#EXTINF:-1,Kinomiks (NTV+Kino plus)
-http://212.48.146.107:1234/udp/233.49.170.233:5000?soc4up_FREE
-#EXTINF:-1,Russkiy Roman HD
-http://212.48.146.107:1234/udp/233.49.170.232:5000?soc4up_FREE
-#EXTINF:-1,Tvoy dom
-http://212.48.146.107:1234/udp/233.49.170.235:5000?soc4up_FREE
-#EXTINF:-1,Sony Turbo
-http://212.48.146.107:1234/udp/233.49.170.236:5000?soc4up_FREE
-#EXTINF:-1,PODMOSKOVYE
-http://212.48.146.107:1234/udp/233.49.170.237:5000?soc4up_FREE
-#EXTINF:-1,Russkij illuzion
-http://212.48.146.107:1234/udp/233.49.170.238:5000?soc4up_FREE
-#EXTINF:-1,Ani
-http://212.48.146.107:1234/udp/233.49.170.239:5000?soc4up_FREE
-#EXTINF:-1,1TV
-http://212.48.146.107:1234/udp/233.49.170.241:5000?soc4up_FREE
-#EXTINF:-1,1TV
-http://212.48.146.107:1234/udp/233.49.170.240:5000?soc4up_FREE
-#EXTINF:-1,LOLOTV
-http://212.48.146.107:1234/udp/233.49.170.249:5000?soc4up_FREE
-#EXTINF:-1,Baby TV
-http://212.48.146.107:1234/udp/233.49.170.250:5000?soc4up_FREE
-#EXTINF:-1,Spike
-http://212.48.146.107:1234/udp/233.49.170.248:5000?soc4up_FREE
-#EXTINF:-1,Shop24
-http://212.48.146.107:1234/udp/233.49.170.251:5000?soc4up_FREE
-#EXTINF:-1,NasheTV
-http://212.48.146.107:1234/udp/233.49.170.252:5000?soc4up_FREE
-#EXTINF:-1,Galaxy M9 (MPEG2)
-http://212.48.146.107:1234/udp/233.49.170.253:5000?soc4up_FREE
-#EXTINF:-1,Russkiy Roman HD
-http://212.48.146.107:1234/udp/233.49.170.254:5000?soc4up_FREE
-#EXTINF:-1,TNT-4
-http://212.48.146.107:1234/udp/233.49.170.54:5000?soc4up_FREE
-#EXTINF:-1,Perviy obrazovatelniy
-http://212.48.146.107:1234/udp/233.49.170.131:5000?soc4up_FREE
-#EXTINF:-1,Doctor
-http://212.48.146.107:1234/udp/233.49.170.154:5000?soc4up_FREE
-#EXTINF:-1,RT HD
-http://212.48.146.107:1234/udp/233.49.170.145:5000?soc4up_FREE
-#EXTINF:-1,Inter+ (pskov)
-http://212.48.146.107:1234/udp/233.49.170.167:5000?soc4up_FREE
-#EXTINF:-1,Mult
-http://212.48.146.107:1234/udp/233.49.170.189:5000?soc4up_FREE
-#EXTINF:-1,russki_bestseller
-http://212.48.146.107:1234/udp/233.49.170.190:5000?soc4up_FREE
-#EXTINF:-1,Kinosvidanie
-http://212.48.146.107:1234/udp/233.49.170.193:5000?soc4up_FREE
-#EXTINF:-1,Amedia_HIT_HD
-http://212.48.146.107:1234/udp/233.49.170.191:5000?soc4up_FREE
-#EXTINF:-1,Futbol 1 HD
-http://212.48.146.107:1234/udp/233.49.170.194:5000?soc4up_FREE
-#EXTINF:-1,Kinosemya
-http://212.48.146.107:1234/udp/233.49.170.197:5000?soc4up_FREE
-#EXTINF:-1,Kinohit
-http://212.48.146.107:1234/udp/233.49.170.198:5000?soc4up_FREE
-#EXTINF:-1,KINO TV
-http://212.48.146.107:1234/udp/233.49.170.200:5000?soc4up_FREE
-#EXTINF:-1,Kinopremiera HD
-http://212.48.146.107:1234/udp/233.49.170.199:5000?soc4up_FREE
-#EXTINF:-1,olala
-http://212.48.146.107:1234/udp/233.49.170.128:5000?soc4up_FREE
-#EXTINF:-1,Travel+Adventure HD
-http://212.48.146.107:1234/udp/233.49.170.125:5000?soc4up_FREE
-#EXTINF:-1,Europa Plus TV
-http://212.48.146.107:1234/udp/233.49.170.132:5000?soc4up_FREE
-#EXTINF:-1,Moscow24
-http://212.48.146.107:1234/udp/233.49.170.129:5000?soc4up_FREE
-#EXTINF:-1,FOX HD
-http://212.48.146.107:1234/udp/233.49.170.130:5000?soc4up_FREE
-#EXTINF:-1,U
-http://212.48.146.107:1234/udp/233.49.170.134:5000?soc4up_FREE
-#EXTINF:-1,Rusong TV
-http://212.48.146.107:1234/udp/233.49.170.133:5000?soc4up_FREE
-#EXTINF:-1,Eureka
-http://212.48.146.107:1234/udp/233.49.170.137:5000?soc4up_FREE
-#EXTINF:-1,Spas
-http://212.48.146.107:1234/udp/233.49.170.138:5000?soc4up_FREE
-#EXTINF:-1,TNV-tatarstan
-http://212.48.146.107:1234/udp/233.49.170.139:5000?soc4up_FREE
-#EXTINF:-1,Feniks+Kino
-http://212.48.146.107:1234/udp/233.49.170.140:5000?soc4up_FREE
-#EXTINF:-1,Paramount Comedy (surgut)
-http://212.48.146.107:1234/udp/233.49.170.141:5000?soc4up_FREE
-#EXTINF:-1,Rossia 1
-http://212.48.146.107:1234/udp/233.49.170.142:5000?soc4up_FREE
-#EXTINF:-1,Perviy kanal HD
-http://212.48.146.107:1234/udp/233.49.170.147:5000?soc4up_FREE
-#EXTINF:-1,ZEE TV Russia
-http://212.48.146.107:1234/udp/233.49.170.144:5000?soc4up_FREE
-#EXTINF:-1,ID Xtra
-http://212.48.146.107:1234/udp/233.49.170.148:5000?soc4up_FREE
-#EXTINF:-1,Ocean TV
-http://212.48.146.107:1234/udp/233.49.170.162:5000?soc4up_FREE
-#EXTINF:-1,Avto 24
-http://212.48.146.107:1234/udp/233.49.170.164:5000?soc4up_FREE
-#EXTINF:-1,Game Show
-http://212.48.146.107:1234/udp/233.49.170.203:5000?soc4up_FREE
-#EXTINF:-1,Match Arena SD
-http://212.48.146.107:1234/udp/233.49.170.204:5000?soc4up_FREE
-#EXTINF:-1,Travel Channel HD
-http://212.48.146.107:1234/udp/233.49.170.208:5000?soc4up_FREE
-#EXTINF:-1,Tver-TNT
-http://212.48.146.107:1234/udp/233.49.170.247:5000?soc4up_FREE
-#EXTINF:-1,Mediametrics HD
-http://212.48.146.107:1234/udp/233.49.170.17:5000?soc4up_FREE
-#EXTINF:-1,EDA HD
-http://212.48.146.107:1234/udp/233.49.170.180:5000?soc4up_FREE
-#EXTINF:-1,MIR HD
-http://212.48.146.107:1234/udp/233.49.170.205:5000?soc4up_FREE
-#EXTINF:-1,N/A
-http://212.48.146.107:1234/udp/233.49.170.201:5000?soc4up_FREE
-#EXTINF:-1,Diciy
-http://212.48.146.107:1234/udp/233.49.170.209:5000?soc4up_FREE
-#EXTINF:-1,8 kanal
-http://212.48.146.107:1234/udp/233.49.170.112:5000?soc4up_FREE
-#EXTINF:-1,HD life
-http://212.48.146.107:1234/udp/233.49.170.111:5000?soc4up_FREE
-#EXTINF:-1,OUTDOOR HD
-http://212.48.146.107:1234/udp/233.49.170.126:5000?soc4up_FREE
-#EXTINF:-1,OTR
-http://212.48.146.107:1234/udp/233.49.170.152:5000?soc4up_FREE
-#EXTINF:-1,ISTORIA (pskov)
-http://212.48.146.107:1234/udp/233.49.170.151:5000?soc4up_FREE
-#EXTINF:-1,Nano_TV
-http://212.48.146.107:1234/udp/233.49.170.159:5000?soc4up_FREE
-#EXTINF:-1,24Techno
-http://212.48.146.107:1234/udp/233.49.170.157:5000?soc4up_FREE
-#EXTINF:-1,Oruzhie
-http://212.48.146.107:1234/udp/233.49.170.160:5000?soc4up_FREE
-#EXTINF:-1,NHK WORLD TV (surgut)
-http://212.48.146.107:1234/udp/233.49.170.202:5000?soc4up_FREE
-#EXTINF:-1,Fine Living
-http://212.48.146.107:1234/udp/233.49.170.206:5000?soc4up_FREE
-#EXTINF:-1,Nash_Futbol_HD
-http://212.48.146.107:1234/udp/233.49.170.161:5000?soc4up_FREE
-#EXTINF:-1,Food Network HD
-http://212.48.146.107:1234/udp/233.49.170.207:5000?soc4up_FREE
-#EXTINF:-1,HD_Futbol_3
-http://212.48.146.107:1234/udp/233.49.170.196:5000?soc4up_FREE
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0107_nd)/index.m3u8
+#EXTINF:0,112 Украина HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0106)/index.m3u8
+#EXTINF:0,UA:TV
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0036)/index.m3u8
+#EXTINF:0,Zik
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0063)/index.m3u8
+#EXTINF:0,5 Канал
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0066)/index.m3u8
+#EXTINF:0,24
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0009)/index.m3u8
+#EXTINF:0,Перший діловий
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0014)/index.m3u8
+#EXTINF:0,Рада
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0041)/index.m3u8
+#EXTINF:0,News one
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0062)/index.m3u8
+#EXTINF:0,Еспресо.tv
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0074)/index.m3u8
+#EXTINF:0,Громадське
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0059)/index.m3u8
+#EXTINF:0,Настоящее Время
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0086)/index.m3u8
+#EXTINF:0,France 24 En
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0093)/index.m3u8
+#EXTINF:0,France 24 Fr
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0094)/index.m3u8
+#EXTINF:0,Обоз TV
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0098)/index.m3u8
+#EXTINF:0,DW
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0072)/index.m3u8
+#EXTINF:0,TV 1000
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0017)/index.m3u8
+#EXTINF:0,TV1000 World Kino
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0091)/index.m3u8
+#EXTINF:0,TV 1000 Action
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0092)/index.m3u8
+#EXTINF:0,ViP Comedy
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0120)/index.m3u8
+#EXTINF:0,TV 1000 HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0064)/index.m3u8
+#EXTINF:0,ViP Comedy
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0124)/index.m3u8
+#EXTINF:0,ViP Premiere
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0122)/index.m3u8
+#EXTINF:0,ViP Megahit
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0123)/index.m3u8
+#EXTINF:0,Spike
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0004)/index.m3u8
+#EXTINF:0,FILMUADRAMA
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0131)/index.m3u8
+#EXTINF:0,Bolt
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0089)/index.m3u8
+#EXTINF:0,Paramount Comedy
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0073)/index.m3u8
+#EXTINF:0,Star Cinema
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0119)/index.m3u8
+#EXTINF:0,Star Family
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0118)/index.m3u8
+#EXTINF:0,Sony Turbo
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0058_nd)/index.m3u8
+#EXTINF:0,Sony Channel
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0057_nd)/index.m3u8
+#EXTINF:0,Sony Channel HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0010)/index.m3u8
+#EXTINF:0,Sony Sci Fi
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0075_nd)/index.m3u8
+#EXTINF:0,DORAMA
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0143)/index.m3u8
+#EXTINF:0,ZEE TV
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0142)/index.m3u8
+#EXTINF:0,Enter-фильм
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0022_nd)/index.m3u8
+#EXTINF:0,Viasat History
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0101)/index.m3u8
+#EXTINF:0,Viasat Explore
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0102)/index.m3u8
+#EXTINF:0,Viasat Nature
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0018)/index.m3u8
+#EXTINF:0,Эпоха
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0044)/index.m3u8
+#EXTINF:0,History
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0130)/index.m3u8
+#EXTINF:0,History HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0068)/index.m3u8
+#EXTINF:0,Discovery Showcase HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0117)/index.m3u8
+#EXTINF:0,Discovery Channel
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0111)/index.m3u8
+#EXTINF:0,Discovery Science
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0110)/index.m3u8
+#EXTINF:0,Animal Planet
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0051)/index.m3u8
+#EXTINF:0,Viasat Nature/History HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0112)/index.m3u8
+#EXTINF:0,Viasat History HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0140)/index.m3u8
+#EXTINF:0,Travel Channel
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0087)/index.m3u8
+#EXTINF:0,Фауна
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0001_nd)/index.m3u8
+#EXTINF:0,Терра
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0007)/index.m3u8
+#EXTINF:0,Наука
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0032)/index.m3u8
+#EXTINF:0,Мега
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0023_nd)/index.m3u8
+#EXTINF:0,English Club
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0082)/index.m3u8
+#EXTINF:0,English Club HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0083)/index.m3u8
+#EXTINF:0,36,6
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0138)/index.m3u8
+#EXTINF:0,36,6 HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0144)/index.m3u8
+#EXTINF:0,TLC
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0126)/index.m3u8
+#EXTINF:0,Food Network
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0067)/index.m3u8
+#EXTINF:0,Fine Living
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0115)/index.m3u8
+#EXTINF:0,МАКСІ-ТВ
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0054)/index.m3u8
+#EXTINF:0,Boutique TV
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0038_nd)/index.m3u8
+#EXTINF:0,К2
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0025_nd)/index.m3u8
+#EXTINF:0,Zoom
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0027_nd)/index.m3u8
+#EXTINF:0,Бігуді
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0108)/index.m3u8
+#EXTINF:0,Milady
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0015)/index.m3u8
+#EXTINF:0,Індиго ТВ
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0016_nd)/index.m3u8
+#EXTINF:0,Karavan TV
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0061)/index.m3u8
+#EXTINF:0,Телевсесвіт
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0080_hls_nodrm)/index.m3u8
+#EXTINF:0,Дача
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0129)/index.m3u8
+#EXTINF:0,Fashion TV
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0099)/index.m3u8
+#EXTINF:0,Fashion TV HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0133)/index.m3u8
+#EXTINF:0,Playboy
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0114)/index.m3u8
+#EXTINF:0,Penthouse
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0006_nd)/index.m3u8
+#EXTINF:0,Erox
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0139)/index.m3u8
+#EXTINF:0,Viasat Sport
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0121)/index.m3u8
+#EXTINF:0,Eurosport HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0100)/index.m3u8
+#EXTINF:0,Eurosport
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0095)/index.m3u8
+#EXTINF:0,Eurosport 2
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0096)/index.m3u8
+#EXTINF:0,XSport
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0084)/index.m3u8
+#EXTINF:0,Trofey
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0128)/index.m3u8
+#EXTINF:0,Outdoor Channel
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0046_nd)/index.m3u8
+#EXTINF:0,Первый Автомобильный
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0145)/index.m3u8
+#EXTINF:0,Viasat Sport HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0125)/index.m3u8
+#EXTINF:0,XSport HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0069)/index.m3u8
+#EXTINF:0,UA Донбас
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0103)/index.m3u8
+#EXTINF:0,Тиса 1
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0029)/index.m3u8
+#EXTINF:0,ATR
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0050)/index.m3u8
+#EXTINF:0,Черноморская ТРК
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0085)/index.m3u8
+#EXTINF:0,Перший Західний
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0090)/index.m3u8
+#EXTINF:0,М1
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0013_nd)/index.m3u8
+#EXTINF:0,M2
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0012_nd)/index.m3u8
+#EXTINF:0,MTV Live HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0078)/index.m3u8
+#EXTINF:0,MTV Hits
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0113)/index.m3u8
+#EXTINF:0,MTV Rocks
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0026)/index.m3u8
+#EXTINF:0,VH1
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0104)/index.m3u8
+#EXTINF:0,EU Music
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0065)/index.m3u8
+#EXTINF:0,O-TV
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0033)/index.m3u8
+#EXTINF:0,Music Box HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0132)/index.m3u8
+#EXTINF:0,Music Box UA
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0109)/index.m3u8
+#EXTINF:0,Nickelodeon HD
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0116)/index.m3u8
+#EXTINF:0,Nickelodeon
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0045)/index.m3u8
+#EXTINF:0,Nick Jr
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0002)/index.m3u8
+#EXTINF:0,DUCK TV
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0141)/index.m3u8
+#EXTINF:0,Пиксель
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0028_nd)/index.m3u8
+#EXTINF:0,Плюс плюс
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0079)/index.m3u8
+#EXTINF:0,Малятко ТВ
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0043)/index.m3u8
+#EXTINF:0,Lale
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0053)/index.m3u8
