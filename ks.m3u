@@ -1,289 +1,291 @@
 #EXTM3U
-#EXTINF:0,UA: Перший
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0003)/index.m3u8
-#EXTINF:0,Інтер
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0019_nd)/index.m3u8
-#EXTINF:0,1+1
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0097)/index.m3u8
-#EXTINF:0,Новый канал
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0135_nd)/index.m3u8
-#EXTINF:0,ICTV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0088)/index.m3u8
-#EXTINF:0,СТБ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0137_nd)/index.m3u8
-#EXTINF:0,Україна
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0070_nd)/index.m3u8
-#EXTINF:0,ТЕТ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0039)/index.m3u8
-#EXTINF:0,НТН
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0020_nd)/index.m3u8
-#EXTINF:0,НЛО
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0071_nd)/index.m3u8
-#EXTINF:0,Pryamyi
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0030)/index.m3u8
-#EXTINF:0,2+2
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0040)/index.m3u8
-#EXTINF:0,Квартал ТБ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0037)/index.m3u8
-#EXTINF:0,ТРК Київ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0031)/index.m3u8
-#EXTINF:0,UA: Крим
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0008)/index.m3u8
-#EXTINF:0,ЕКО ТV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0021)/index.m3u8
-#EXTINF:0,Zik HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0105)/index.m3u8
-#EXTINF:0,Культура
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0005_nd)/index.m3u8
-#EXTINF:0,8 channel
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0047)/index.m3u8
-#EXTINF:0,Сонце
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0049)/index.m3u8
-#EXTINF:0,ОЦЕ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0011_nd)/index.m3u8
-#EXTINF:0,K1
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0024_nd)/index.m3u8
-#EXTINF:0,Правда тут
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0081)/index.m3u8
-#EXTINF:0,4 канал
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0048)/index.m3u8
-#EXTINF:0,КРТ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0052)/index.m3u8
-#EXTINF:0,Centralny channel
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0077)/index.m3u8
-#EXTINF:0,Вінтаж
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0056)/index.m3u8
-#EXTINF:0,Глас
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0042)/index.m3u8
-#EXTINF:0,Наталі
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0060)/index.m3u8
-#EXTINF:0,DW Deutsch
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0127)/index.m3u8
-#EXTINF:0,Bloomberg TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0034)/index.m3u8
-#EXTINF:0,Euronews (rus)
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0136)/index.m3u8
-#EXTINF:0,БЕЛАРУСЬ 24
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0134)/index.m3u8
-#EXTINF:0,News Network
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0055)/index.m3u8
-#EXTINF:0,УНИАН
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0035)/index.m3u8
-#EXTINF:0,112 Украина
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0107_nd)/index.m3u8
-#EXTINF:0,112 Украина HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0106)/index.m3u8
-#EXTINF:0,UA:TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0036)/index.m3u8
-#EXTINF:0,Zik
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0063)/index.m3u8
-#EXTINF:0,5 Канал
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0066)/index.m3u8
-#EXTINF:0,24
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0009)/index.m3u8
-#EXTINF:0,Перший діловий
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0014)/index.m3u8
-#EXTINF:0,Рада
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0041)/index.m3u8
-#EXTINF:0,News one
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0062)/index.m3u8
-#EXTINF:0,Еспресо.tv
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0074)/index.m3u8
-#EXTINF:0,Громадське
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0059)/index.m3u8
-#EXTINF:0,Настоящее Время
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0086)/index.m3u8
-#EXTINF:0,France 24 En
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0093)/index.m3u8
-#EXTINF:0,France 24 Fr
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0094)/index.m3u8
-#EXTINF:0,Обоз TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0098)/index.m3u8
-#EXTINF:0,DW
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0072)/index.m3u8
-#EXTINF:0,TV 1000
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0017)/index.m3u8
-#EXTINF:0,TV1000 World Kino
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0091)/index.m3u8
-#EXTINF:0,TV 1000 Action
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0092)/index.m3u8
-#EXTINF:0,ViP Comedy
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0120)/index.m3u8
-#EXTINF:0,TV 1000 HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0064)/index.m3u8
-#EXTINF:0,ViP Comedy
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0124)/index.m3u8
-#EXTINF:0,ViP Premiere
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0122)/index.m3u8
-#EXTINF:0,ViP Megahit
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0123)/index.m3u8
-#EXTINF:0,Spike
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0004)/index.m3u8
-#EXTINF:0,FILMUADRAMA
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0131)/index.m3u8
-#EXTINF:0,Bolt
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0089)/index.m3u8
-#EXTINF:0,Paramount Comedy
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0073)/index.m3u8
-#EXTINF:0,Star Cinema
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0119)/index.m3u8
-#EXTINF:0,Star Family
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0118)/index.m3u8
-#EXTINF:0,Sony Turbo
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0058_nd)/index.m3u8
-#EXTINF:0,Sony Channel
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0057_nd)/index.m3u8
-#EXTINF:0,Sony Channel HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0010)/index.m3u8
-#EXTINF:0,Sony Sci Fi
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0075_nd)/index.m3u8
-#EXTINF:0,DORAMA
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0143)/index.m3u8
-#EXTINF:0,ZEE TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0142)/index.m3u8
-#EXTINF:0,Enter-фильм
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0022_nd)/index.m3u8
-#EXTINF:0,Viasat History
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0101)/index.m3u8
-#EXTINF:0,Viasat Explore
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0102)/index.m3u8
-#EXTINF:0,Viasat Nature
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0018)/index.m3u8
-#EXTINF:0,Эпоха
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0044)/index.m3u8
-#EXTINF:0,History
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0130)/index.m3u8
-#EXTINF:0,History HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0068)/index.m3u8
-#EXTINF:0,Discovery Showcase HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0117)/index.m3u8
-#EXTINF:0,Discovery Channel
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0111)/index.m3u8
-#EXTINF:0,Discovery Science
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0110)/index.m3u8
-#EXTINF:0,Animal Planet
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0051)/index.m3u8
-#EXTINF:0,Viasat Nature/History HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0112)/index.m3u8
-#EXTINF:0,Viasat History HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0140)/index.m3u8
-#EXTINF:0,Travel Channel
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0087)/index.m3u8
-#EXTINF:0,Фауна
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0001_nd)/index.m3u8
-#EXTINF:0,Терра
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0007)/index.m3u8
-#EXTINF:0,Наука
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0032)/index.m3u8
-#EXTINF:0,Мега
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0023_nd)/index.m3u8
-#EXTINF:0,English Club
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0082)/index.m3u8
-#EXTINF:0,English Club HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0083)/index.m3u8
-#EXTINF:0,36,6
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0138)/index.m3u8
-#EXTINF:0,36,6 HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0144)/index.m3u8
-#EXTINF:0,TLC
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0126)/index.m3u8
-#EXTINF:0,Food Network
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0067)/index.m3u8
-#EXTINF:0,Fine Living
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0115)/index.m3u8
-#EXTINF:0,МАКСІ-ТВ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0054)/index.m3u8
-#EXTINF:0,Boutique TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0038_nd)/index.m3u8
-#EXTINF:0,К2
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0025_nd)/index.m3u8
-#EXTINF:0,Zoom
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0027_nd)/index.m3u8
-#EXTINF:0,Бігуді
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0108)/index.m3u8
-#EXTINF:0,Milady
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0015)/index.m3u8
-#EXTINF:0,Індиго ТВ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0016_nd)/index.m3u8
-#EXTINF:0,Karavan TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0061)/index.m3u8
-#EXTINF:0,Телевсесвіт
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0080_hls_nodrm)/index.m3u8
-#EXTINF:0,Дача
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0129)/index.m3u8
-#EXTINF:0,Fashion TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0099)/index.m3u8
-#EXTINF:0,Fashion TV HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0133)/index.m3u8
-#EXTINF:0,Playboy
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0114)/index.m3u8
-#EXTINF:0,Penthouse
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0006_nd)/index.m3u8
-#EXTINF:0,Erox
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0139)/index.m3u8
-#EXTINF:0,Viasat Sport
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0121)/index.m3u8
-#EXTINF:0,Eurosport HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0100)/index.m3u8
-#EXTINF:0,Eurosport
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0095)/index.m3u8
-#EXTINF:0,Eurosport 2
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0096)/index.m3u8
-#EXTINF:0,XSport
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0084)/index.m3u8
-#EXTINF:0,Trofey
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0128)/index.m3u8
-#EXTINF:0,Outdoor Channel
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0046_nd)/index.m3u8
-#EXTINF:0,Первый Автомобильный
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0145)/index.m3u8
-#EXTINF:0,Viasat Sport HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0125)/index.m3u8
-#EXTINF:0,XSport HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0069)/index.m3u8
-#EXTINF:0,UA Донбас
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0103)/index.m3u8
-#EXTINF:0,Тиса 1
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0029)/index.m3u8
-#EXTINF:0,ATR
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0050)/index.m3u8
-#EXTINF:0,Черноморская ТРК
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0085)/index.m3u8
-#EXTINF:0,Перший Західний
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0090)/index.m3u8
-#EXTINF:0,М1
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0013_nd)/index.m3u8
-#EXTINF:0,M2
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0012_nd)/index.m3u8
-#EXTINF:0,MTV Live HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0078)/index.m3u8
-#EXTINF:0,MTV Hits
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0113)/index.m3u8
-#EXTINF:0,MTV Rocks
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0026)/index.m3u8
-#EXTINF:0,VH1
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0104)/index.m3u8
-#EXTINF:0,EU Music
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0065)/index.m3u8
-#EXTINF:0,O-TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0033)/index.m3u8
-#EXTINF:0,Music Box HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0132)/index.m3u8
-#EXTINF:0,Music Box UA
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0109)/index.m3u8
-#EXTINF:0,Nickelodeon HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0116)/index.m3u8
-#EXTINF:0,Nickelodeon
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0045)/index.m3u8
-#EXTINF:0,Nick Jr
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0002)/index.m3u8
-#EXTINF:0,DUCK TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0141)/index.m3u8
-#EXTINF:0,Пиксель
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0028_nd)/index.m3u8
-#EXTINF:0,Плюс плюс
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0079)/index.m3u8
-#EXTINF:0,Малятко ТВ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0043)/index.m3u8
-#EXTINF:0,Lale
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0053)/index.m3u8
+#EXTINF:0,images/0/url  assetVideoRatio , displayName
+url
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/651971f0-41f0-447e-8a93-0bf71b932658.png"  aspect-ratio="16:9" , Новый канал
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0135_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/7438f09d-9a7c-4f06-8b56-c89a708f7699.png"  aspect-ratio="16:9" , ICTV
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0088/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/6d5704d3-6a50-48ca-adf8-10bad2d6c0c1.png"  aspect-ratio="16:9" , СТБ
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0137_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/241d04c4-b0b2-4153-b7f8-c803b8018b7e.png"  aspect-ratio="16:9" , Україна
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0070_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/e5af462f-6911-49de-b4b4-13629a53d263.png"  aspect-ratio="16:9" , НЛО
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0071_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/62741b16-0618-460f-b822-c0015406ede8.png"  aspect-ratio="16:9" , ТРК Київ
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0031/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/7a228a79-9c0e-4b8e-95ea-59d836a3ae12.png"  aspect-ratio="16:9" , UA: Крим
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0008/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/68b639b5-9f9b-422d-90eb-25a2b616bd75.png"  aspect-ratio="4:3" , ЕКО ТV
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0021/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/c4f6d679-e503-4d6e-ad53-8a61a9d4e2ed.png"  aspect-ratio="16:9" , Zik HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0105/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/ef9f3341-ce03-46b7-92fd-80f0e522a306.png"  aspect-ratio="16:9" , Культура
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0005_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/e9b00bfe-7d48-48a6-aa31-f338137a8594.png"  aspect-ratio="4:3" , 8 channel
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0047/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b87c8bfb-4a22-4d93-b988-f8a8daa9eaa5.png"  aspect-ratio="16:9" , ОЦЕ
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0011_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/47a4824c-1306-4f02-aa2b-be431e6a84bf.png"  aspect-ratio="16:9" , Правда тут
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0081/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/f315dab4-c0d5-4999-9bd5-c37853b4b7ae.png"  aspect-ratio="16:9" , 4 канал
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0048/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b8402895-c632-444f-806a-0ae789c0ea5f.png"  aspect-ratio="4:3" , КРТ
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0052/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/a0e82ee3-7ee4-433c-b13b-b1e8b3d32a97.png"   , Centralny channel
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0077/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/1ddf399b-507a-40d4-b54a-3b862e6266ff.png"  aspect-ratio="4:3" , Вінтаж
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0056/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/82e26105-ebc7-4c25-a317-62e0a1ef845d.png"  aspect-ratio="4:3" , Глас
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0042/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/a0540937-d461-4b60-a4d9-d672359ee531.png"  aspect-ratio="16:9" , Наталі
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0060/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/cac429d7-4f09-416b-b0e1-4f79fd07d5fd.png"  aspect-ratio="16:9" , DW Deutsch
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0127/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/d735f79b-f1ef-448d-9f2b-ced150aa2868.png"  aspect-ratio="16:9" , Euronews (rus)
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0136/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/e42e8442-ed48-4730-8f6e-4b111e5d6dde.png"  aspect-ratio="4:3" , News Network
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0055/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/489aa473-7546-48f9-8fd0-e1d853af8c00.png"  aspect-ratio="16:9" , UA:TV
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0036/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/66055d2b-e4a2-491d-a14c-95dd77144836.png"  aspect-ratio="16:9" , Zik
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0063/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/5fdf0caa-f7b1-463e-88ca-1dd27737d951.png"  aspect-ratio="16:9" , 5 Канал
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0066/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b18bd413-e092-47a0-954f-26b94222210b.png"  aspect-ratio="16:9" , Перший діловий
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0014/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/a1070b6d-b187-4e37-9e75-92141f984f23.png"  aspect-ratio="4:3" , Рада
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0041/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/a96aa8f3-14f8-4b78-bc4e-7aacf599383a.png"  aspect-ratio="16:9" , Громадське
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0059/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/391a9409-9af0-4be9-981a-c52218383c00.png"  aspect-ratio="16:9" , Настоящее Время
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0086/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/fb5f50e8-1881-429f-b865-9ec568a341f9.png"  aspect-ratio="16:9" , France 24 En
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0093/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/8fd23f3d-60fe-4ac6-993f-4147c42abaef.png"  aspect-ratio="16:9" , France 24 Fr
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0094/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/e09027b1-ea5e-4bdc-a2e2-23e41f1d0455.png"  aspect-ratio="16:9" , Обоз TV
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0098/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/034ec721-c0c2-4358-ac68-67c695daa904.png"  aspect-ratio="16:9" , DW
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0072/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/7afa0532-044d-42c2-a06e-82f9e6151a2f.png"  aspect-ratio="16:9" , Эпоха
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0044/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/20b96f04-4bd1-4925-b4f8-7354a95bd36a.png"  aspect-ratio="16:9" , Фауна
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0001_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/ec0851d9-dab2-4378-9b1c-241c1df12577.png"  aspect-ratio="16:9" , Терра
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0007/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/05f919c3-9b14-4d69-a37c-0c10582b9f89.png"  aspect-ratio="16:9" , Наука
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0032/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/05232c7e-6b47-490f-baf0-9880fb3dca1d.png"  aspect-ratio="16:9" , Мега
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0023_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/1ce00ad4-136f-4997-995c-dc3473f9c798.png"  aspect-ratio="16:9" , English Club HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0083/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b3202863-0625-47c5-aa4e-6b932155d33b.png"  aspect-ratio="4:3" , МАКСІ-ТВ
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0054/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/cba1b351-6b3c-4118-a51b-08c87865ef8b.png"  aspect-ratio="4:3" , Boutique TV
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0038_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/e2144cb8-73aa-40cb-8efb-7c0047ac1de9.png"  aspect-ratio="4:3" , Zoom
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0027_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/5513ac39-a63d-4875-bcff-9292cd9c3460.png"  aspect-ratio="4:3" , Milady
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0015/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/050c9e50-629d-49ef-8155-5737843457dd.png"  aspect-ratio="16:9" , Індиго ТВ
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0016_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/d8ddadaa-1f36-4f1e-9b38-2671484600c8.png"  aspect-ratio="4:3" , Karavan TV
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0061/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/83d99ac0-6b98-4c60-8f07-ac284b8bc4f9.png"  aspect-ratio="16:9" , Телевсесвіт
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0080_hls_nodrm/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/6fed5a81-69cd-4c4c-a248-24c080883290.png"  aspect-ratio="16:9" , Fashion TV
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0099/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/ba93797f-91b7-4853-afe0-e9b52a9b29e4.png"  aspect-ratio="16:9" , Fashion TV HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0133/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/642dcfe1-b347-490d-96fe-ff611942a815.png"  aspect-ratio="16:9" , Playboy
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0114/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/84d9c173-2795-44f5-8637-af97e8137385.png"  aspect-ratio="16:9" , Penthouse
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0006_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b42d6ef2-7836-4367-b140-c82aba573e1f.png"  aspect-ratio="16:9" , Erox
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0139/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/532835bc-3cc6-42f1-9dfa-6bf7042a5105.png"  aspect-ratio="16:9" , Eurosport HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0100/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/c0608c81-1fbc-433a-beb7-782c352d8174.png"   , Outdoor Channel
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0046_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/22cacfbb-8de5-42d5-af9c-1235b8992b45.png"  aspect-ratio="16:9" , XSport HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0069/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/f83a2ed7-be32-4bb7-897a-337333fc2835.png"  aspect-ratio="4:3" , UA Донбас
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0103/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/5d7cdd5d-26ac-46ee-ad24-d90a3bda9178.png"  aspect-ratio="16:9" , Тиса 1
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0029/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/8898edfe-555c-4b23-9ae9-9cf3b261d360.png"  aspect-ratio="16:9" , ATR
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0050/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/222bacb1-a6e9-4787-80f0-76465f6b15ef.png"  aspect-ratio="16:9" , Черноморская ТРК
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0085/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/dc01c4a2-5fed-4019-876c-950716582c3b.png"  aspect-ratio="16:9" , Перший Західний
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0090/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/28f56b7e-a66a-4bca-abb7-e77233057bdf.png"  aspect-ratio="16:9" , М1
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0013_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/7e609a80-cb33-43b7-8215-29ab435a6325.png"  aspect-ratio="16:9" , M2
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0012_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/05f7ae8f-5272-428d-9586-dba91694326f.png"  aspect-ratio="16:9" , MTV Live HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0078/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/c7d0fc02-abd8-483b-9cf6-b34053ca4f0e.png"  aspect-ratio="16:9" , MTV Hits
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0113/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/c072f435-6e54-40aa-9890-d1f4270e63df.png"  aspect-ratio="16:9" , MTV Rocks
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0026/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/fc2c295c-6875-4026-9f2c-f6414e21dd28.png"  aspect-ratio="16:9" , VH1
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0104/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/e3ec1432-1b94-41d8-9895-2ed9004f4948.png"  aspect-ratio="16:9" , Music Box HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0132/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/2e21a3bb-a5ac-4c1d-9e78-9ff1afa410d6.png"  aspect-ratio="16:9" , Music Box UA
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0109/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/9cef740e-b94a-4b4a-8900-bb191a5de4fe.png"  aspect-ratio="4:3" , Малятко ТВ
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0043/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/3feddd3d-9147-48d0-9d3d-2dbc459a9862.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0003,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , UA: Перший
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0003/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/8b6edf27-a8b9-47af-a77d-0b5d491a442f.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0019_nd,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Інтер
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0019_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/a1367568-8758-41b1-9eab-2f9ac8001b28.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0097,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , 1+1
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0097/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/0a86a922-18f1-4abd-bfb9-abf2508fda47.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0039,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , ТЕТ
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0039/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/3d4bb535-ec71-40ca-8f7f-025c401633c5.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0020_nd,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , НТН
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0020_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/8b434040-8eee-438d-9480-c4a46ff77a5c.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0030,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Pryamyi
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0030/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/12528893-c17d-4784-ac35-37cd2ebebc6d.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0040,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , 2+2
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0040/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/44d9d80d-b4ae-4498-8ee8-d30164ea8b9d.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0037,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Квартал ТБ
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0037/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/e7357f1a-f56e-4db9-be3d-240c1bbdb9a7.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0049,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="4:3" , Сонце
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0049/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/02ff94b9-a21b-4952-b7c6-a34ebb2be2e9.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0024_nd,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , K1
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0024_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/f91b5bc9-58e2-4caa-acfd-52e6ec882618.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0034,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Bloomberg TV
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0034/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/36956a7d-4020-42a4-9bf1-7014084e947a.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0134,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , БЕЛАРУСЬ 24
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0134/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/0452a3e5-6c48-4c36-82ab-71e37394562f.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0035,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , УНИАН
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0035/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/3c20c11c-c347-4672-9c5e-5e55ba2362ee.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0107_nd,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="4:3" , 112 Украина
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0107_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/02951de5-d93d-4192-80d0-87a4992c7b22.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0106,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , 112 Украина HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0106/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/47be9c2a-32c2-4f26-b49c-af79d45cf80e.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0009,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , 24
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0009/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/544b04fa-6510-4f83-96d3-81046719664d.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0062,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , News one
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0062/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/76071429-1bef-4a26-8857-2393a5e8c054.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0074,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Еспресо.tv
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0074/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/2fa06447-ed44-467e-80f8-2fabb3b1b777.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0017,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , TV 1000
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0017/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/48b1e9f6-ccbd-442a-957b-a20c9f532bb1.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0091,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , TV1000 World Kino
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0091/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/117432b1-c031-4ca8-b3b4-2034feb568f2.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0092,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , TV 1000 Action
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0092/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/96f87676-c172-4cea-a111-6296268c0360.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0120,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , ViP Comedy
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0120/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/4863fd4e-12e2-4046-a578-8550d5a687cf.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0064,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , TV 1000 HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0064/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/4d2d2c24-b2b9-4808-8c53-27258efd8e8d.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0124,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , ViP Comedy
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0124/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/de0827fb-c86b-4cea-b852-008ed73dba16.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0122,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , ViP Premiere
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0122/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/dcd7e348-d297-4929-9345-028df9db9685.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0123,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , ViP Megahit
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0123/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/f2fc7129-ea29-47fc-baa8-b40407a67870.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0004,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Spike
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0004/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/22c74305-4bbd-4ac7-a020-2c5cd29ab955.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0131,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , FILMUADRAMA
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0131/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/f3833885-13f1-4c3f-9bcc-24983acef18a.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0089,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Bolt
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0089/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/eb8aa099-e5fe-4901-87fa-47c19d191ce5.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0073,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Paramount Comedy
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0073/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/f184aec2-fca8-4b98-9254-a68f4f87fb7f.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0119,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Star Cinema
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0119/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/141cc785-5d13-428c-a943-81675589f6ff.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0118,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Star Family
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0118/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/adcb8d25-3008-4b1c-a896-158ac628c881.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0058_nd,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Sony Turbo
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0058_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/ad3ce99e-cb50-4391-a134-6a78a4700bd1.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0057_nd,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8"  , Sony Channel
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0057_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/118085c8-36c4-4b0e-b604-c19df954d12a.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0010,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Sony Channel HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0010/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/6654670a-34ac-4513-9b35-00320e2406a1.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0075_nd,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Sony Sci Fi
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0075_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/0cea2767-3adf-40c6-98cb-d5210f734443.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0143,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , DORAMA
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0143/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/7d69ac32-a55c-4a31-966d-81d50cbcee67.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0142,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , ZEE TV
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0142/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/cb3ec8d7-e8a1-4ae8-a0c8-225d12937fe1.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0022_nd,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Enter-фильм
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0022_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/07151370-5704-41df-9b98-ad0aeaf856f7.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0101,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Viasat History
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0101/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/773b3a01-8d13-429d-8280-7545860159ed.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0102,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Viasat Explore
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0102/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/5316f44d-675b-4e4e-bb95-b5f4775be821.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0018,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Viasat Nature
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0018/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/a6e0f320-b489-4929-b335-9231238d7913.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0130,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , History
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0130/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/1c09e043-fdb7-4858-9df0-1f3bb4d2f757.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0068,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , History HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0068/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/e0dc72b3-dc83-49f5-9309-42aa10f42e3a.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0117,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8"  , Discovery Showcase HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0117/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/9ad4e7fe-46bc-46f1-a282-29070faf1da4.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0111,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Discovery Channel
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0111/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/195eef03-89d9-4826-a1bb-ff6d833719a6.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0110,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Discovery Science
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0110/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/7cc49850-7ede-49bd-9891-248f464ec962.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0051,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Animal Planet
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0051/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/e4429e74-2bc3-4fdb-a0dd-fa22a3497e73.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0112,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Viasat Nature/History HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0112/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/5e8bb4f9-078e-47c7-a447-1d2d859e91b0.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0140,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Viasat History HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0140/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/49e57ddd-7dc7-477b-8de4-6517b72181dd.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0087,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8"  , Travel Channel
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0087/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/bea289a3-fb44-4055-b252-0f0dc1fff070.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0082,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , English Club
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0082/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/01884540-29e5-44ea-88cc-ec01b8ae5de2.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0138,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , 36,6
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0138/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/52c648e7-69bc-4ebd-a18b-306d3abf4e38.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0144,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , 36,6 HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0144/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/add19a8d-bb1b-41c8-84d8-6f198d5b01c3.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0126,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , TLC
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0126/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/24c3fc61-e19b-47ab-91e1-86d6236afb06.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0067,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Food Network
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0067/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/de086a9c-6bff-405a-afcc-75ace5c7544e.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0115,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Fine Living
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0115/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/25772663-0f30-42f9-b3fd-2b63c97557d0.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0025_nd,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , К2
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0025_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/8e0561e2-4082-4826-bdbd-d2085addbbcf.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0108,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="4:3" , Бігуді
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0108/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/294be1d7-3438-4850-b3f3-b658cdd678cf.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0129,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Дача
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0129/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/93da3abb-0792-440d-a2c5-496dbb08feb0.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0121,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Viasat Sport
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0121/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/9bc69de3-7f1d-4949-ab0c-bbb9faa40890.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0095,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Eurosport
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0095/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/7aa38c53-fa53-44fd-9bce-1893b28506d3.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0096,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Eurosport 2
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0096/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/afc08628-9862-4fbd-8113-a59924534db1.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0084,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , XSport
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0084/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/1fb99c31-add7-4253-85ca-fc7659f7a8d9.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0128,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Trofey
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0128/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/24a02c0d-f82e-4e93-bab6-ad1976d8e612.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0145,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Первый Автомобильный
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0145/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/f892e28e-d6e3-4f04-857d-0d2ec54475a7.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0125,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Viasat Sport HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0125/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/3e828e83-bb8d-49d7-b8ca-7b32f7e6ca4b.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0065,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , EU Music
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0065/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/8efe4c06-c1d9-415f-b348-b79d791a6472.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0033,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , O-TV
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0033/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/bb9925e9-4319-4ac6-ad22-3f9b0e5cd38b.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0116,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Nickelodeon HD
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0116/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/4afd2eed-4c56-482f-9ecf-8abb062cba79.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0045,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Nickelodeon
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0045/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/c1ed0d7a-a170-4297-8c40-3c37ecab7079.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0002,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Nick Jr
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0002/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/280eeca0-19bd-40f2-b513-8a37dc7943d1.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0141,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , DUCK TV
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0141/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/631b5d9f-83b8-4b37-a39d-529a29bf118a.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0028_nd,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Пиксель
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0028_nd/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/1119681a-cc71-4605-949b-f84d8dc7c721.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0079,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Плюс плюс
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0079/index.m3u8
+#EXTINF:0 tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/e5894872-0f56-4b55-86e0-669d80035d54.png" catchup="default" catchup-days="5" catchup-source="http://kyivstar-metadata-rr-d.vidnt.com/Catchup/Channel(name=ch0053,startTime=${start}0000000,endTime=${timestamp}0000000)/index.m3u8" aspect-ratio="16:9" , Lale
+http://kyivstar-metadata-rr-d.vidnt.com/LIVE/ch0053/index.m3u8
