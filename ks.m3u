@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="playlist" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/651971f0-41f0-447e-8a93-0bf71b932658.png"  aspect-ratio="16:9" , Новый канал
-http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0135_nd)/index.m3u8
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0135_nd)/index.m3u8
 #EXTINF:0 type="playlist" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/7438f09d-9a7c-4f06-8b56-c89a708f7699.png"  aspect-ratio="16:9" , ICTV
-http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0088)/index.m3u8
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0088)/index.m3u8
 #EXTINF:0 type="playlist" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/6d5704d3-6a50-48ca-adf8-10bad2d6c0c1.png"  aspect-ratio="16:9" , СТБ
 http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0137_nd)/index.m3u8
 #EXTINF:0 type="playlist" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/241d04c4-b0b2-4153-b7f8-c803b8018b7e.png"  aspect-ratio="16:9" , Україна
