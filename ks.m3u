@@ -1,4 +1,172 @@
 #EXTM3U
+#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EUROSPORT 1"  group-title="Unsorted",EUROSPORT 1
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/141/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EUROSPORT 1 HD"  group-title="Unsorted",EUROSPORT 1 HD
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/228/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EUROSPORT 2 NORTH-EAST HD"  group-title="Unsorted",EUROSPORT 2 NORTH-EAST HD
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/234/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Unsorted",Eurosport 1
+http://188.35.9.17:16050/udp/238.0.16.3:69000
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Unsorted",Eurosport 1
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/178.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Unsorted",Eurosport 1
+http://77.245.98.22:8000/play/307/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Unsorted",Eurosport 1
+http://94.251.66.80:81/udp/239.54.5.45:1224
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport 1 HD"  group-title="Unsorted",Eurosport 1 HD
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport 1 HD"  group-title="Unsorted",Eurosport 1 HD
+http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/228/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Unsorted",Eurosport 2
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/143.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports Racing"  group-title="Unsorted",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports Racing"  group-title="Unsorted",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MostVideo TV HD"  group-title="Unsorted",MostVideo TV HD
+http://wow.stib.com.ua:1935/tv/ch1/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Motorvision TV"  group-title="Unsorted",Motorvision TV
+http://85.244.70.140:7000/play/a00t
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Motorvision TV"  group-title="Unsorted",Motorvision TV
+http://86.91.229.242:9981/stream/channelid/2106433733?profile=pass
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport F1"  group-title="Unsorted",Sky Sport F1
+http://86.91.229.242:9981/stream/channelid/1522470708?profile=pass
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport F1"  group-title="Unsorted",Sky Sport F1
+http://vlc.news:9000/1234/7788/47175
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport F1"  group-title="Unsorted",Sky Sport F1
+http://62.210.70.119:80/live.ts?channelId=135&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport F1"  group-title="Unsorted",Sky Sport F1
+http://gotdark.com:80/510/47906/1170
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport F1"  group-title="Unsorted",Sky Sport F1
+http://gotdark.com:80/1nLJ67lbti/SJgQWS4tfV/22642
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport F1 HD"  group-title="Unsorted",Sky Sport F1 HD
+http://86.91.229.242:9981/stream/channelid/884302644?profile=pass
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVPlay Sports"  group-title="Unsorted",TVPlay Sports
+http://88.216.48.14:80/tvplaysp/live.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVPlay Sports HD"  group-title="Unsorted",TVPlay Sports HD
+http://88.216.48.14:80/tvplaysphd/live.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVPlay Sports+ HD"  group-title="Unsorted",TVPlay Sports+ HD
+http://88.216.48.14:80/tvplayspplus/live.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VIASAT SPORT"  group-title="Unsorted",VIASAT SPORT
+http://176.196.160.34:4022/udp/239.255.42.57:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VIASAT SPORT"  group-title="Unsorted",VIASAT SPORT
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/160/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Sport"  group-title="Unsorted",Viasat Sport
+http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/160/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Sport"  group-title="Unsorted",Viasat Sport
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/viasatsport/viasatsport.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Sport"  group-title="Unsorted",Viasat Sport
+http://82.200.127.58:8080/udp/239.54.5.94:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="МАТЧ ТВ"  group-title="Unsorted",МАТЧ ТВ
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/535/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="МАТЧ ТВ"  group-title="Unsorted",МАТЧ ТВ
+http://82.200.127.58:8080/udp/239.0.42.53:1224
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="МАТЧ! HD"  group-title="Unsorted",МАТЧ! HD
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/212/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч ТВ"  group-title="Unsorted",Матч ТВ
+http://176.196.160.34:4022/udp/239.255.0.3:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч ТВ"  group-title="Unsorted",Матч ТВ
+http://176.101.224.21:8080/udp/239.195.32.3:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч ТВ"  group-title="Unsorted",Матч ТВ
+http://gorod.tv/s/live/3/0.0.0.0/0/0.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч ТВ"  group-title="Unsorted",Матч ТВ
+http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/535/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч ТВ"  group-title="Unsorted",Матч ТВ
+http://158.46.72.186:81/udp/239.255.42.34:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч ТВ"  group-title="Unsorted",Матч ТВ
+http://46.32.64.42/s/live/3/100.0.0.16/1/0.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч ТВ"  group-title="Unsorted",Матч ТВ
+http://vs321.vcdn.biz/fb2879b1db7b9774b142918ea4521488_megogo/vod/fs/o/36426601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1815308259-b4000000.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч ТВ"  group-title="Unsorted",Матч ТВ
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/85.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч ТВ"  group-title="Unsorted",Матч ТВ
+http://gorod.tv/s/live/3/86.169.51.137/1527083286756/0.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч ТВ"  group-title="Unsorted",Матч ТВ
+http://gorod.tv/s/live/3/94.231.176.242/1547656477095/0.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч ТВ HD"  group-title="Unsorted",Матч ТВ HD
+http://93.170.3.5:4022/udp/239.255.8.42:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч!"  group-title="Unsorted",Матч!
+http://gorod.tv/s/live/3/86.169.51.136/2/0.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч!"  group-title="Unsorted",Матч!
+http://meta.vcdn.biz/fb2879b1db7b9774b142918ea4521488_megogo/vod/fs/o/36426601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1403767213-b700000.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! HD"  group-title="Unsorted",Матч! HD
+http://188.35.9.5:10007/stolen/196k/parasite.install
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! HD"  group-title="Unsorted",Матч! HD
+http://vs350.vcdn.biz/fb2879b1db7b9774b142918ea4521488_megogo/vod/fs/o/36426601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1386192425-b4000000.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Арена"  group-title="Unsorted",Матч! Арена
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/528/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Арена"  group-title="Unsorted",Матч! Арена
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/207/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Арена"  group-title="Unsorted",Матч! Арена
+http://109.171.69.248:81/udp/239.54.6.85:1224
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Арена"  group-title="Unsorted",Матч! Арена
+http://82.200.127.58:8080/udp/239.54.7.85:1224
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Арена HD"  group-title="Unsorted",Матч! Арена HD
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/139.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Арена HD"  group-title="Unsorted",Матч! Арена HD
+http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/207/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Арена HD"  group-title="Unsorted",Матч! Арена HD
+http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/207/index.m3u
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Арена HD"  group-title="Unsorted",Матч! Арена HD
+http://ygk.info/stream/NHZMNCY8QGX5VG/207/index.m3u8
+
+
 #EXTINF:0 type=type="stream",UA: Перший
 https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0003)/index.m3u8
 #EXTINF:0 type=type="stream",Інтер
