@@ -1,5 +1,9 @@
 #EXTM3U
 
+##https://4pda.ru/forum/index.php?showtopic=394145&st=6920#entry86413138
+##https://4pda.ru/forum/index.php?s=&showtopic=394145&view=findpost&p=86603930
+##https://drive.google.com/drive/u/0/folders/1aUkFy5zbLCZb6cNy8EAOI49jL9iqNJOQ
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EUROSPORT 1"  group-title="Unsorted",EUROSPORT 1
 http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/141/index.m3u8
 
@@ -165,292 +169,266 @@ http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/207/index.m3u
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч! Арена HD"  group-title="Unsorted",Матч! Арена HD
 http://ygk.info/stream/NHZMNCY8QGX5VG/207/index.m3u8
 
+#interest
 
-#EXTINF:0 type=type="stream",UA: Перший
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0003)/index.m3u8
-#EXTINF:0 type=type="stream",Інтер
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0019_nd)/index.m3u8
-#EXTINF:0 type=type="stream",1+1
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0097)/index.m3u8
-#EXTINF:0 type=type="stream",Новый канал
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0135_nd)/index.m3u8
-#EXTINF:0 type=type="stream",ICTV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0088)/index.m3u8
-#EXTINF:0 type=type="stream",СТБ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0137_nd)/index.m3u8
-#EXTINF:0 type=type="stream",Україна
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0070_nd)/index.m3u8
-#EXTINF:0 type=type="stream",ТЕТ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0039)/index.m3u8
-#EXTINF:0 type=type="stream",НТН
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0020_nd)/index.m3u8
-#EXTINF:0 type=type="stream",НЛО
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0071_nd)/index.m3u8
-#EXTINF:0 type=type="stream",Pryamyi
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0030)/index.m3u8
-#EXTINF:0 type=type="stream",2+2
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0040)/index.m3u8
-#EXTINF:0 type=type="stream",Квартал ТБ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0037)/index.m3u8
-#EXTINF:0 type=type="stream",ТРК Київ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0031)/index.m3u8
-#EXTINF:0 type=type="stream",UA: Крим
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0008)/index.m3u8
-#EXTINF:0 type=type="stream",ЕКО ТV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0021)/index.m3u8
-#EXTINF:0 type=type="stream",Zik HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0105)/index.m3u8
-#EXTINF:0 type=type="stream",Культура
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0005_nd)/index.m3u8
-#EXTINF:0 type=type="stream",8 channel
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0047)/index.m3u8
-#EXTINF:0 type=type="stream",Сонце
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0049)/index.m3u8
-#EXTINF:0 type=type="stream",ОЦЕ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0011_nd)/index.m3u8
-#EXTINF:0 type=type="stream",K1
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0024_nd)/index.m3u8
-#EXTINF:0 type=type="stream",Правда тут
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0081)/index.m3u8
-#EXTINF:0 type=type="stream",4 канал
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0048)/index.m3u8
-#EXTINF:0 type=type="stream",КРТ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0052)/index.m3u8
-#EXTINF:0 type=type="stream",Centralny channel
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0077)/index.m3u8
-#EXTINF:0 type=type="stream",Вінтаж
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0056)/index.m3u8
-#EXTINF:0 type=type="stream",Глас
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0042)/index.m3u8
-#EXTINF:0 type=type="stream",Наталі
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0060)/index.m3u8
-#EXTINF:0 type=type="stream",DW Deutsch
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0127)/index.m3u8
-#EXTINF:0 type=type="stream",Bloomberg TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0034)/index.m3u8
-#EXTINF:0 type=type="stream",Euronews (rus)
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0136)/index.m3u8
-#EXTINF:0 type=type="stream",БЕЛАРУСЬ 24
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0134)/index.m3u8
-#EXTINF:0 type=type="stream",News Network
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0055)/index.m3u8
-#EXTINF:0 type=type="stream",УНИАН
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0035)/index.m3u8
-#EXTINF:0 type=type="stream",112 Украина
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0107_nd)/index.m3u8
-#EXTINF:0 type=type="stream",112 Украина HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0106)/index.m3u8
-#EXTINF:0 type=type="stream",UA:TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0036)/index.m3u8
-#EXTINF:0 type=type="stream",Zik
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0063)/index.m3u8
-#EXTINF:0 type=type="stream",5 Канал
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0066)/index.m3u8
-#EXTINF:0 type=type="stream",24
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0009)/index.m3u8
-#EXTINF:0 type=type="stream",Перший діловий
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0014)/index.m3u8
-#EXTINF:0 type=type="stream",Рада
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0041)/index.m3u8
-#EXTINF:0 type=type="stream",News one
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0062)/index.m3u8
-#EXTINF:0 type=type="stream",Еспресо.tv
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0074)/index.m3u8
-#EXTINF:0 type=type="stream",Громадське
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0059)/index.m3u8
-#EXTINF:0 type=type="stream",Настоящее Время
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0086)/index.m3u8
-#EXTINF:0 type=type="stream",France 24 En
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0093)/index.m3u8
-#EXTINF:0 type=type="stream",France 24 Fr
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0094)/index.m3u8
-#EXTINF:0 type=type="stream",Обоз TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0098)/index.m3u8
-#EXTINF:0 type=type="stream",DW
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0072)/index.m3u8
-#EXTINF:0 type=type="stream",TV 1000
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0017)/index.m3u8
-#EXTINF:0 type=type="stream",TV1000 World Kino
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0091)/index.m3u8
-#EXTINF:0 type=type="stream",TV 1000 Action
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0092)/index.m3u8
-#EXTINF:0 type=type="stream",ViP Comedy
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0120)/index.m3u8
-#EXTINF:0 type=type="stream",TV 1000 HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0064)/index.m3u8
-#EXTINF:0 type=type="stream",ViP Comedy
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0124)/index.m3u8
-#EXTINF:0 type=type="stream",ViP Premiere
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0122)/index.m3u8
-#EXTINF:0 type=type="stream",ViP Megahit
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0123)/index.m3u8
-#EXTINF:0 type=type="stream",Spike
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0004)/index.m3u8
-#EXTINF:0 type=type="stream",FILMUADRAMA
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0131)/index.m3u8
-#EXTINF:0 type=type="stream",Bolt
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0089)/index.m3u8
-#EXTINF:0 type=type="stream",Paramount Comedy
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0073)/index.m3u8
-#EXTINF:0 type=type="stream",Star Cinema
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0119)/index.m3u8
-#EXTINF:0 type=type="stream",Star Family
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0118)/index.m3u8
-#EXTINF:0 type=type="stream",Sony Turbo
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0058_nd)/index.m3u8
-#EXTINF:0 type=type="stream",Sony Channel
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0057_nd)/index.m3u8
-#EXTINF:0 type=type="stream",Sony Channel HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0010)/index.m3u8
-#EXTINF:0 type=type="stream",Sony Sci Fi
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0075_nd)/index.m3u8
-#EXTINF:0 type=type="stream",DORAMA
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0143)/index.m3u8
-#EXTINF:0 type=type="stream",ZEE TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0142)/index.m3u8
-#EXTINF:0 type=type="stream",Enter-фильм
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0022_nd)/index.m3u8
-#EXTINF:0 type=type="stream",Viasat History
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0101)/index.m3u8
-#EXTINF:0 type=type="stream",Viasat Explore
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0102)/index.m3u8
-#EXTINF:0 type=type="stream",Viasat Nature
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0018)/index.m3u8
-#EXTINF:0 type=type="stream",Эпоха
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0044)/index.m3u8
-#EXTINF:0 type=type="stream",History
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0130)/index.m3u8
-#EXTINF:0 type=type="stream",History HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0068)/index.m3u8
-#EXTINF:0 type=type="stream",Discovery Showcase HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0117)/index.m3u8
-#EXTINF:0 type=type="stream",Discovery Channel
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0111)/index.m3u8
-#EXTINF:0 type=type="stream",Discovery Science
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0110)/index.m3u8
-#EXTINF:0 type=type="stream",Animal Planet
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0051)/index.m3u8
-#EXTINF:0 type=type="stream",Viasat Nature/History HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0112)/index.m3u8
-#EXTINF:0 type=type="stream",Viasat History HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0140)/index.m3u8
-#EXTINF:0 type=type="stream",Travel Channel
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0087)/index.m3u8
-#EXTINF:0 type=type="stream",Фауна
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0001_nd)/index.m3u8
-#EXTINF:0 type=type="stream",Терра
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0007)/index.m3u8
-#EXTINF:0 type=type="stream",Наука
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0032)/index.m3u8
-#EXTINF:0 type=type="stream",Мега
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0023_nd)/index.m3u8
-#EXTINF:0 type=type="stream",English Club
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0082)/index.m3u8
-#EXTINF:0 type=type="stream",English Club HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0083)/index.m3u8
-#EXTINF:0 type=type="stream",36,6
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0138)/index.m3u8
-#EXTINF:0 type=type="stream",36,6 HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0144)/index.m3u8
-#EXTINF:0 type=type="stream",TLC
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0126)/index.m3u8
-#EXTINF:0 type=type="stream",Food Network
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0067)/index.m3u8
-#EXTINF:0 type=type="stream",Fine Living
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0115)/index.m3u8
-#EXTINF:0 type=type="stream",МАКСІ-ТВ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0054)/index.m3u8
-#EXTINF:0 type=type="stream",Boutique TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0038_nd)/index.m3u8
-#EXTINF:0 type=type="stream",К2
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0025_nd)/index.m3u8
-#EXTINF:0 type=type="stream",Zoom
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0027_nd)/index.m3u8
-#EXTINF:0 type=type="stream",Бігуді
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0108)/index.m3u8
-#EXTINF:0 type=type="stream",Milady
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0015)/index.m3u8
-#EXTINF:0 type=type="stream",Індиго ТВ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0016_nd)/index.m3u8
-#EXTINF:0 type=type="stream",Karavan TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0061)/index.m3u8
-#EXTINF:0 type=type="stream",Телевсесвіт
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0080_hls_nodrm)/index.m3u8
-#EXTINF:0 type=type="stream",Дача
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0129)/index.m3u8
-#EXTINF:0 type=type="stream",Fashion TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0099)/index.m3u8
-#EXTINF:0 type=type="stream",Fashion TV HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0133)/index.m3u8
-#EXTINF:0 type=type="stream",Playboy
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0114)/index.m3u8
-#EXTINF:0 type=type="stream",Penthouse
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0006_nd)/index.m3u8
-#EXTINF:0 type=type="stream",Erox
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0139_nd)/index.m3u8
-#EXTINF:0 type=type="stream",Viasat Sport
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0121)/index.m3u8
-#EXTINF:0 type=type="stream",Eurosport HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0100)/index.m3u8
-#EXTINF:0 type=type="stream",Eurosport
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0095)/index.m3u8
-#EXTINF:0 type=type="stream",Eurosport 2
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0096)/index.m3u8
-#EXTINF:0 type=type="stream",XSport
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0084)/index.m3u8
-#EXTINF:0 type=type="stream",Trofey
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0128)/index.m3u8
-#EXTINF:0 type=type="stream",Outdoor Channel
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0046_nd)/index.m3u8
-#EXTINF:0 type=type="stream",Первый Автомобильный
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0145)/index.m3u8
-#EXTINF:0 type=type="stream",Viasat Sport HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0125)/index.m3u8
-#EXTINF:0 type=type="stream",XSport HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0069)/index.m3u8
-#EXTINF:0 type=type="stream",UA Донбас
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0103)/index.m3u8
-#EXTINF:0 type=type="stream",Тиса 1
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0029)/index.m3u8
-#EXTINF:0 type=type="stream",ATR
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0050)/index.m3u8
-#EXTINF:0 type=type="stream",Черноморская ТРК
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0085)/index.m3u8
-#EXTINF:0 type=type="stream",Перший Західний
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0090)/index.m3u8
-#EXTINF:0 type=type="stream",М1
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0013_nd)/index.m3u8
-#EXTINF:0 type=type="stream",M2
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0012_nd)/index.m3u8
-#EXTINF:0 type=type="stream",MTV Live HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0078)/index.m3u8
-#EXTINF:0 type=type="stream",MTV Hits
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0113)/index.m3u8
-#EXTINF:0 type=type="stream",MTV Rocks
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0026)/index.m3u8
-#EXTINF:0 type=type="stream",VH1
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0104)/index.m3u8
-#EXTINF:0 type=type="stream",EU Music
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0065)/index.m3u8
-#EXTINF:0 type=type="stream",O-TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0033)/index.m3u8
-#EXTINF:0 type=type="stream",Music Box HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0132)/index.m3u8
-#EXTINF:0 type=type="stream",Music Box UA
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0109)/index.m3u8
-#EXTINF:0 type=type="stream",Nickelodeon HD
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0116)/index.m3u8
-#EXTINF:0 type=type="stream",Nickelodeon
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0045)/index.m3u8
-#EXTINF:0 type=type="stream",Nick Jr
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0002)/index.m3u8
-#EXTINF:0 type=type="stream",DUCK TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0141)/index.m3u8
-#EXTINF:0 type=type="stream",Пиксель
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0028_nd)/index.m3u8
-#EXTINF:0 type=type="stream",Плюс плюс
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0079)/index.m3u8
-#EXTINF:0 type=type="stream",Малятко ТВ
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0043)/index.m3u8
-#EXTINF:0 type=type="stream",Lale
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0053)/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="36.6 TV"  group-title="Unsorted",36.6 TV
+http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/1025/index.m3u
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="Unsorted",Animal Planet
+http://82.200.127.58:8080/udp/239.54.7.94:1224?deooleg
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="Unsorted",Animal Planet
+http://hls.peers.tv/streaming/animal_planet_hd/16/copy/playlist.m3u8|User-Agent=DuneHD/1.0.3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="Unsorted",Discovery Channel
+http://82.200.127.58:8080/udp/239.54.7.86:1224?deooleg
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Channel HD"  group-title="Unsorted",Discovery Channel HD
+http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/227/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID"  group-title="Unsorted",ID
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/574.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ID Investigation Discovery"  group-title="Unsorted",ID Investigation Discovery
+http://hls.peers.tv/streaming/investigationdiscovery/16/tvrecw/playlist.m3u8|User-Agent=DuneHD/1.0.3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV"  group-title="Unsorted",NASA TV
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/17.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NATIONAL GEOGRAPHIC"  group-title="Unsorted",NATIONAL GEOGRAPHIC
+http://176.196.160.34:4022/udp/239.255.42.37:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Unsorted",National Geographic
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/1047.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National Geographic HD"  group-title="Unsorted",National Geographic HD
+http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/230/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Zоопарк"  group-title="Unsorted",Zоопарк
+http://hls.peers.tv/streaming/zoopark/126/tvrec/playlist.m3u8|User-Agent=DuneHD/1.0.3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Дача ТВ"  group-title="Unsorted",Дача ТВ
+http://88.216.8.122:8080/dacha/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Доктор"  group-title="Unsorted",Доктор
+http://hls.peers.tv/streaming/24doc/16/tvrecw/playlist.m3u8|User-Agent=DuneHD/1.0.3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Доктор"  group-title="Unsorted",Доктор
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/260.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Доктор"  group-title="Unsorted",Доктор
+http://ott-cdn.ucom.am/s76/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Доктор Градус"  group-title="Unsorted",Доктор Градус
+http://77.222.34.38:1935/public/channel_22/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Доктор Градус"  group-title="Unsorted",Доктор Градус
+http://live.planeta-online.tv:1935/public/channel_22/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Домашние животные"  group-title="Unsorted",Домашние животные
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/343.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Еда"  group-title="Unsorted",Еда
+http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Загородная Жизнь"  group-title="Unsorted",Загородная Жизнь
+http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/852/index.m3u
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Загородная жизнь"  group-title="Unsorted",Загородная жизнь
+http://hls.peers.tv/streaming/zagorod_zh/16/tvrec/playlist.m3u8|User-Agent=DuneHD/1.0.3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Загородная жизнь"  group-title="Unsorted",Загородная жизнь
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/266.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Загородный"  group-title="Unsorted",Загородный
+http://ott-cdn.ucom.am/s31/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Загородный"  group-title="Unsorted",Загородный
+http://92.43.140.200/s31/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Здоровое ТВ"  group-title="Unsorted",Здоровое ТВ
+http://109.248.236.41:4433/udp/238.1.1.23:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Здоровое ТВ"  group-title="Unsorted",Здоровое ТВ
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/342.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Здоровье"  group-title="Unsorted",Здоровье
+http://hls.peers.tv/streaming/tonus_tv/16/copy/playlist.m3u8|User-Agent=DuneHD/1.0.3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Здоровье"  group-title="Unsorted",Здоровье
+http://ott-cdn.ucom.am/s90/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Здоровье"  group-title="Unsorted",Здоровье
+http://ott-cdn.ucom.am/s90/04.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Здоровье"  group-title="Unsorted",Здоровье
+http://92.43.140.200/s90/04.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Здоровье (Одесса)"  group-title="Unsorted",Здоровье (Одесса)
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Здоровье Одесса"  group-title="Unsorted",Здоровье Одесса
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Зоо ТВ"  group-title="Unsorted",Зоо ТВ
+http://hls.peers.tv/streaming/zoo_tv/16/tvrecw/playlist.m3u8|User-Agent=DuneHD/1.0.3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Зоо ТВ"  group-title="Unsorted",Зоо ТВ
+http://ott-cdn.ucom.am/s92/04.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Зоо ТВ"  group-title="Unsorted",Зоо ТВ
+http://ott-cdn.ucom.am/s92/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="КУХНЯ ТВ"  group-title="Unsorted",КУХНЯ ТВ
+http://82.200.127.58:8080/udp/239.54.7.156:1224
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Магия Кухни ТВ"  group-title="Unsorted",Магия Кухни ТВ
+http://sc.id-tv.kz/MagiyaKuhni_36_37.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ПСИХОЛОГИЯ 21"  group-title="Unsorted",ПСИХОЛОГИЯ 21
+http://109.248.236.41:4433/udp/238.1.1.103:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Психология 21"  group-title="Unsorted",Психология 21
+http://hls.peers.tv/streaming/psych_21/16/tvrec/playlist.m3u8|User-Agent=DuneHD/1.0.3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Психология 21"  group-title="Unsorted",Психология 21
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/344.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Психология 21"  group-title="Unsorted",Психология 21
+http://178.49.77.88:3371/udp/239.1.2.9:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ТелеКафе"  group-title="Unsorted",ТелеКафе
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/10.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Телекафе"  group-title="Unsorted",Телекафе
+http://178.49.77.88:3371/udp/239.1.2.18:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="УСАДЬБА"  group-title="Unsorted",УСАДЬБА
+http://176.196.160.34:4022/udp/239.255.42.19:1234
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Усадьба"  group-title="Unsorted",Усадьба
+http://82.200.127.58:8080/udp/239.54.5.113:1224?deooleg
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Усадьба"  group-title="Unsorted",Усадьба
+http://hls.peers.tv/streaming/usadba/16/tvrec/playlist.m3u8|User-Agent=DuneHD/1.0.3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Усадьба"  group-title="Unsorted",Усадьба
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/341.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Усадьба"  group-title="Unsorted",Усадьба
+http://178.49.77.88:3371/udp/239.1.2.17:1234
+
+##tv
+
+#EXTINF:-1,1+1
+https://stream2g03-f23.ovva.tv/189931/smil:189931.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,1+1
+https://live-k2311-kbp.1plus1.video/189931/smil:189931.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,1+1
+https://live-k2303-kbp.1plus1.video/189931/smil:189931.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,1+1
+https://live-k2301-kbp.1plus1.video/189931/smil:189931/chunklist_b2928000.m3u8
+#EXTINF:-1,1+1
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/oneplusone/oneplusone.m3u8
+#EXTINF:-1,1+1
+http://ygk.info/stream/22E8AWHQEC4LCA/994/index.m3u8
+#EXTINF:-1,1+1
+https://live-k2301-kbp.1plus1.video/189931/smil:189931.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,1+1 International
+https://stream2g03-f23.ovva.tv/227022/smil:227022.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,1+1 International
+https://live-k2304-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,1+1 International
+https://live-k2302-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,1+1 International
+http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/987/index.m3u
+#EXTINF:-1,1+1 International
+https://live-k2304-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,1+1 International
+https://stream2g04-f23.ovva.tv/227022/smil:227022.smil/playlist.m3u8
+#EXTINF:-1,ICTV
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/ictv/ictv.m3u8
+#EXTINF:-1,ICTV
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/934/index.m3u8
+#EXTINF:-1,ICTV
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/ictv/ictv.m3u8
+#EXTINF:-1,TET
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/tet/tet.m3u8
+#EXTINF:-1,TET
+https://stream2g03-f23.ovva.tv/233342/smil:233342.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,TET
+https://live-k2301-kbp.1plus1.video/233342/smil:233342/chunklist_b2928000.m3u8
+#EXTINF:-1,TET
+https://live-k2301-kbp.1plus1.video/233342/smil:233342.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,TET
+http://ott.ipstream.one:80/Ufznr3eE2I/Cfu0SYnz89/34
+#EXTINF:-1,TET
+https://stream2g03-f23.ovva.tv/233342/smil:233342.smil/playlist.m3u8
+#EXTINF:-1,TET
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/1009/index.m3u8
+#EXTINF:-1,TET
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/tet/tet.m3u8
+#EXTINF:-1,TET (Резерв)
+https://live-k2303-kbp.1plus1.video/233342/smil:233342.smil/playlist.m3u8
+#EXTINF:-1,ВIНТАЖ ТВ
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/999/index.m3u8
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,К1
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/931/index.m3u8
+#EXTINF:-1,К1
+http://109.68.40.72/life/k1_2/index.m3u8
+#EXTINF:-1,К2
+http://195.138.78.66:8000/udp/239.2.56.55:1234
+#EXTINF:-1,КВАРТАЛ ТВ
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/932/index.m3u8
+#EXTINF:-1,Квартал ТВ
+http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/932/index.m3u
+#EXTINF:-1,Квартал ТВ
+http://8b8e1364.skalkak.pw/iptv/EKHDRYAWWG769E/932/index.m3u8
+#EXTINF:-1,Квартал ТВ
+http://ott.ipstream.one:80/Ufznr3eE2I/Cfu0SYnz89/49
+#EXTINF:-1,Квартал ТВ
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/kvartaltv/kvartaltv.m3u8
+#EXTINF:-1,Квартал ТВ (S4)
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/932/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,Квартал ТВ (S4)
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/932/index.m3u8
+#EXTINF:-1,НТН
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1,НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-1,НТН
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/ntn/ntn.m3u8
+#EXTINF:-1,НТН
+http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+#EXTINF:-1,НТН (Украина)
+https://edge3.iptv.macc.com.ua/img/ntn_2/index.m3u8?wmsAuthSign=58f2795d129cc5cb8bba09d0f4797815-1557702373-001i891i242i19
+#EXTINF:-1,Новий Канал
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/935/index.m3u8
+#EXTINF:-1,Новий Канал
+http://195.138.78.66:8000/udp/239.1.7.5:1234
+#EXTINF:-1,Новий канал
+http://ott.ipstream.one:80/Ufznr3eE2I/Cfu0SYnz89/39
+#EXTINF:-1,Ностальгия
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/102/index.m3u8
+#EXTINF:-1,Ностальгия
+http://ygk.info/stream/NHZMNCY8QGX5VG/102/index.m3u8
+#EXTINF:-1,Ностальгия (Резерв)
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/175.m3u8
+#EXTINF:-1,Ретро
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/335.m3u8
+#EXTINF:-1,Ретро
+http://178.49.77.88:3371/udp/239.1.21.23:1234
+#EXTINF:-1,Ретро
+http://77.241.20.27:4022/udp/230.0.21.5:1234
+#EXTINF:-1,Ретро ТВ
+http://st6.allplay.uz/iptv/49/tracks-v2a1/mono.m3u8
+#EXTINF:-1,СТБ
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/stb/stb.m3u8
+#EXTINF:-1,СТБ
+http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/928/index.m3u8
+#EXTINF:-1,СТБ
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/stb/stb.m3u8
