@@ -4,318 +4,212 @@
 ##https://4pda.ru/forum/index.php?s=&showtopic=394145&view=findpost&p=86603930
 ##https://drive.google.com/drive/u/0/folders/1aUkFy5zbLCZb6cNy8EAOI49jL9iqNJOQ
 
-#EXTINF:-1,  tvg-name="EUROSPORT 1",EUROSPORT 1
+#EXTINF:-1,  EUROSPORT 1
 http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/141/index.m3u8
-
-#EXTINF:-1,  tvg-name="EUROSPORT 1 HD",EUROSPORT 1 HD
+#EXTINF:-1, EUROSPORT 1 HD
 http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/228/index.m3u8
-
-#EXTINF:-1,  tvg-name="EUROSPORT 2 NORTH-EAST HD",EUROSPORT 2 NORTH-EAST HD
+#EXTINF:-1, EUROSPORT 2 NORTH-EAST HD
 http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/234/index.m3u8
-
-#EXTINF:-1,  tvg-name="Eurosport 1",Eurosport 1
+#EXTINF:-1, Eurosport 1
 http://188.35.9.17:16050/udp/238.0.16.3:69000
-
-#EXTINF:-1,  tvg-name="Eurosport 1",Eurosport 1
+#EXTINF:-1, Eurosport 1
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/178.m3u8
-
-#EXTINF:-1,  tvg-name="Eurosport 1",Eurosport 1
+#EXTINF:-1, Eurosport 1
 http://77.245.98.22:8000/play/307/index.m3u8
-
-#EXTINF:-1,  tvg-name="Eurosport 1",Eurosport 1
+#EXTINF:-1, Eurosport 1
 http://94.251.66.80:81/udp/239.54.5.45:1224
-
-#EXTINF:-1,  tvg-name="Eurosport 1 HD",Eurosport 1 HD
+#EXTINF:-1, Eurosport 1 HD
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-
-#EXTINF:-1,  tvg-name="Eurosport 1 HD",Eurosport 1 HD
+#EXTINF:-1, Eurosport 1 HD
 http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/228/index.m3u8
-
-#EXTINF:-1,  tvg-name="Eurosport 2",Eurosport 2
+#EXTINF:-1, Eurosport 2
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/143.m3u8
-
-#EXTINF:-1,  tvg-name="Fox Sports Racing",Fox Sports Racing
+#EXTINF:-1, Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
-#EXTINF:-1,  tvg-name="Fox Sports Racing",Fox Sports Racing
+#EXTINF:-1,  Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
-
-#EXTINF:-1,  tvg-name="MostVideo TV HD",MostVideo TV HD
+#EXTINF:-1,  MostVideo TV HD
 http://wow.stib.com.ua:1935/tv/ch1/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-
-#EXTINF:-1,  tvg-name="Motorvision TV",Motorvision TV
+#EXTINF:-1,  Motorvision TV
 http://85.244.70.140:7000/play/a00t
-
-#EXTINF:-1,  tvg-name="Motorvision TV",Motorvision TV
+#EXTINF:-1,  Motorvision TV
 http://86.91.229.242:9981/stream/channelid/2106433733?profile=pass
-
-#EXTINF:-1,  tvg-name="Sky Sport F1",Sky Sport F1
+#EXTINF:-1,  Sky Sport F1
 http://86.91.229.242:9981/stream/channelid/1522470708?profile=pass
-
-#EXTINF:-1,  tvg-name="Sky Sport F1",Sky Sport F1
+#EXTINF:-1,  Sky Sport F1
 http://vlc.news:9000/1234/7788/47175
-
-#EXTINF:-1,  tvg-name="Sky Sport F1",Sky Sport F1
+#EXTINF:-1,  Sky Sport F1
 http://62.210.70.119:80/live.ts?channelId=135&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-
-#EXTINF:-1,  tvg-name="Sky Sport F1",Sky Sport F1
+#EXTINF:-1,  Sky Sport F1
 http://gotdark.com:80/510/47906/1170
-
-#EXTINF:-1,  tvg-name="Sky Sport F1",Sky Sport F1
+#EXTINF:-1,  Sky Sport F1
 http://gotdark.com:80/1nLJ67lbti/SJgQWS4tfV/22642
-
-#EXTINF:-1,  tvg-name="Sky Sport F1 HD",Sky Sport F1 HD
+#EXTINF:-1,  Sky Sport F1 HD
 http://86.91.229.242:9981/stream/channelid/884302644?profile=pass
-
-#EXTINF:-1,  tvg-name="TVPlay Sports",TVPlay Sports
+#EXTINF:-1,  TVPlay Sports
 http://88.216.48.14:80/tvplaysp/live.m3u8
-
-#EXTINF:-1,  tvg-name="TVPlay Sports HD",TVPlay Sports HD
+#EXTINF:-1,  TVPlay Sports HD
 http://88.216.48.14:80/tvplaysphd/live.m3u8
-
-#EXTINF:-1,  tvg-name="TVPlay Sports+ HD",TVPlay Sports+ HD
+#EXTINF:-1,  TVPlay Sports+ HD
 http://88.216.48.14:80/tvplayspplus/live.m3u8
-
-#EXTINF:-1,  tvg-name="VIASAT SPORT",VIASAT SPORT
+#EXTINF:-1,  VIASAT SPORT
 http://176.196.160.34:4022/udp/239.255.42.57:1234
-
-#EXTINF:-1,  tvg-name="VIASAT SPORT",VIASAT SPORT
+#EXTINF:-1,  VIASAT SPORT
 http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/160/index.m3u8
-
-#EXTINF:-1,  tvg-name="Viasat Sport",Viasat Sport
+#EXTINF:-1, Viasat Sport
 http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/160/index.m3u8
-
-#EXTINF:-1,  tvg-name="Viasat Sport",Viasat Sport
+#EXTINF:-1,  Viasat Sport
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/viasatsport/viasatsport.m3u8
-
-#EXTINF:-1,  tvg-name="Viasat Sport",Viasat Sport
+#EXTINF:-1,  Viasat Sport
 http://82.200.127.58:8080/udp/239.54.5.94:1234
-
-#EXTINF:-1,  tvg-name="МАТЧ ТВ",МАТЧ ТВ
+#EXTINF:-1,  МАТЧ ТВ
 http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/535/index.m3u8
-
-#EXTINF:-1,  tvg-name="МАТЧ ТВ",МАТЧ ТВ
+#EXTINF:-1,  МАТЧ ТВ
 http://82.200.127.58:8080/udp/239.0.42.53:1224
-
-#EXTINF:-1,  tvg-name="МАТЧ! HD",МАТЧ! HD
+#EXTINF:-1,  МАТЧ! HD
 http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/212/index.m3u8
-
-#EXTINF:-1,  tvg-name="Матч ТВ",Матч ТВ
+#EXTINF:-1,  Матч ТВ
 http://176.196.160.34:4022/udp/239.255.0.3:1234
-
-#EXTINF:-1,  tvg-name="Матч ТВ",Матч ТВ
+#EXTINF:-1,  Матч ТВ
 http://176.101.224.21:8080/udp/239.195.32.3:1234
-
-#EXTINF:-1,  tvg-name="Матч ТВ",Матч ТВ
+#EXTINF:-1,  Матч ТВ
 http://gorod.tv/s/live/3/0.0.0.0/0/0.m3u8
-
-#EXTINF:-1,  tvg-name="Матч ТВ",Матч ТВ
+#EXTINF:-1,  Матч ТВ
 http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/535/index.m3u8
-
-#EXTINF:-1,  tvg-name="Матч ТВ",Матч ТВ
+#EXTINF:-1,  Матч ТВ
 http://158.46.72.186:81/udp/239.255.42.34:1234
-
-#EXTINF:-1,  tvg-name="Матч ТВ",Матч ТВ
+#EXTINF:-1,  Матч ТВ
 http://46.32.64.42/s/live/3/100.0.0.16/1/0.m3u8
-
-#EXTINF:-1,  tvg-name="Матч ТВ",Матч ТВ
+#EXTINF:-1,  Матч ТВ
 http://vs321.vcdn.biz/fb2879b1db7b9774b142918ea4521488_megogo/vod/fs/o/36426601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1815308259-b4000000.m3u8
-
-#EXTINF:-1,  tvg-name="Матч ТВ",Матч ТВ
+#EXTINF:-1,  Матч ТВ
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/85.m3u8
-
-#EXTINF:-1,  tvg-name="Матч ТВ",Матч ТВ
+#EXTINF:-1,  Матч ТВ
 http://gorod.tv/s/live/3/86.169.51.137/1527083286756/0.m3u8
-
-#EXTINF:-1,  tvg-name="Матч ТВ",Матч ТВ
+#EXTINF:-1,  Матч ТВ
 http://gorod.tv/s/live/3/94.231.176.242/1547656477095/0.m3u8
-
-#EXTINF:-1,  tvg-name="Матч ТВ HD",Матч ТВ HD
+#EXTINF:-1,  Матч ТВ HD
 http://93.170.3.5:4022/udp/239.255.8.42:1234
-
-#EXTINF:-1,  tvg-name="Матч!",Матч!
+#EXTINF:-1,  Матч!
 http://gorod.tv/s/live/3/86.169.51.136/2/0.m3u8
-
-#EXTINF:-1,  tvg-name="Матч!",Матч!
+#EXTINF:-1,  Матч!
 http://meta.vcdn.biz/fb2879b1db7b9774b142918ea4521488_megogo/vod/fs/o/36426601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1403767213-b700000.m3u8
-
-#EXTINF:-1,  tvg-name="Матч! HD",Матч! HD
+#EXTINF:-1,  Матч! HD
 http://188.35.9.5:10007/stolen/196k/parasite.install
-
-#EXTINF:-1,  tvg-name="Матч! HD",Матч! HD
+#EXTINF:-1,  Матч! HD
 http://vs350.vcdn.biz/fb2879b1db7b9774b142918ea4521488_megogo/vod/fs/o/36426601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1386192425-b4000000.m3u8
-
-#EXTINF:-1,  tvg-name="Матч! Арена",Матч! Арена
+#EXTINF:-1,  Матч! Арена
 http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/528/index.m3u8
-
-#EXTINF:-1,  tvg-name="Матч! Арена",Матч! Арена
+#EXTINF:-1,  Матч! Арена
 http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/207/index.m3u8
-
-#EXTINF:-1,  tvg-name="Матч! Арена",Матч! Арена
+#EXTINF:-1,  Матч! Арена
 http://109.171.69.248:81/udp/239.54.6.85:1224
-
-#EXTINF:-1,  tvg-name="Матч! Арена",Матч! Арена
+#EXTINF:-1,  Матч! Арена
 http://82.200.127.58:8080/udp/239.54.7.85:1224
-
-#EXTINF:-1,  tvg-name="Матч! Арена HD",Матч! Арена HD
+#EXTINF:-1,  Матч! Арена HD
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/139.m3u8
-
-#EXTINF:-1,  tvg-name="Матч! Арена HD",Матч! Арена HD
+#EXTINF:-1,  Матч! Арена HD
 http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/207/index.m3u8
-
-#EXTINF:-1,  tvg-name="Матч! Арена HD",Матч! Арена HD
+#EXTINF:-1,  Матч! Арена HD
 http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/207/index.m3u
-
-#EXTINF:-1,  tvg-name="Матч! Арена HD",Матч! Арена HD
+#EXTINF:-1,  Матч! Арена HD
 http://ygk.info/stream/NHZMNCY8QGX5VG/207/index.m3u8
 
 #interest
 
-#EXTINF:-1,  tvg-name="36.6 TV",36.6 TV
+#EXTINF:-1, 36.6 TV
 http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/1025/index.m3u
-
-#EXTINF:-1,  tvg-name="Animal Planet",Animal Planet
+#EXTINF:-1, Animal Planet
 http://82.200.127.58:8080/udp/239.54.7.94:1224?deooleg
-
-#EXTINF:-1,  tvg-name="Animal Planet",Animal Planet
+#EXTINF:-1,  Animal Planet
 http://hls.peers.tv/streaming/animal_planet_hd/16/copy/playlist.m3u8|User-Agent=DuneHD/1.0.3
-
-#EXTINF:-1,  tvg-name="Discovery Channel",Discovery Channel
+#EXTINF:-1,  Discovery Channel
 http://82.200.127.58:8080/udp/239.54.7.86:1224?deooleg
-
-#EXTINF:-1,  tvg-name="Discovery Channel HD",Discovery Channel HD
+#EXTINF:-1,  Discovery Channel HD
 http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/227/index.m3u8
-
-#EXTINF:-1,  tvg-name="ID",ID
+#EXTINF:-1,  ID
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/574.m3u8
-
-#EXTINF:-1,  tvg-name="ID Investigation Discovery",ID Investigation Discovery
+#EXTINF:-1,  ID Investigation Discovery
 http://hls.peers.tv/streaming/investigationdiscovery/16/tvrecw/playlist.m3u8|User-Agent=DuneHD/1.0.3
-
-#EXTINF:-1,  tvg-name="NASA TV",NASA TV
+#EXTINF:-1,  NASA TV
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/17.m3u8
-
-#EXTINF:-1,  tvg-name="NATIONAL GEOGRAPHIC",NATIONAL GEOGRAPHIC
+#EXTINF:-1,  NATIONAL GEOGRAPHIC
 http://176.196.160.34:4022/udp/239.255.42.37:1234
-
-#EXTINF:-1,  tvg-name="National Geographic",National Geographic
+#EXTINF:-1,  National Geographic
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/1047.m3u8
-
-#EXTINF:-1,  tvg-name="National Geographic HD",National Geographic HD
+#EXTINF:-1,  National Geographic HD
 http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/230/index.m3u8
-
-#EXTINF:-1,  tvg-name="Zоопарк",Zоопарк
+#EXTINF:-1,  Zоопарк
 http://hls.peers.tv/streaming/zoopark/126/tvrec/playlist.m3u8|User-Agent=DuneHD/1.0.3
-
-#EXTINF:-1,  tvg-name="Дача ТВ",Дача ТВ
+#EXTINF:-1,  Дача ТВ
 http://88.216.8.122:8080/dacha/index.m3u8
-
-#EXTINF:-1,  tvg-name="Доктор",Доктор
+#EXTINF:-1,  Доктор
 http://hls.peers.tv/streaming/24doc/16/tvrecw/playlist.m3u8|User-Agent=DuneHD/1.0.3
-
-#EXTINF:-1,  tvg-name="Доктор",Доктор
+#EXTINF:-1,  Доктор
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/260.m3u8
-
-#EXTINF:-1,  tvg-name="Доктор",Доктор
+#EXTINF:-1, Доктор
 http://ott-cdn.ucom.am/s76/index.m3u8
-
-#EXTINF:-1,  tvg-name="Доктор Градус",Доктор Градус
+#EXTINF:-1,  Доктор Градус
 http://77.222.34.38:1935/public/channel_22/playlist.m3u8
-
-#EXTINF:-1,  tvg-name="Доктор Градус",Доктор Градус
+#EXTINF:-1,  Доктор Градус
 http://live.planeta-online.tv:1935/public/channel_22/playlist.m3u8
-
-#EXTINF:-1,  tvg-name="Домашние животные",Домашние животные
+#EXTINF:-1,  Домашние животные
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/343.m3u8
-
-#EXTINF:-1,  tvg-name="Еда",Еда
+#EXTINF:-1,  Еда
 http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
-
-#EXTINF:-1,  tvg-name="Загородная Жизнь",Загородная Жизнь
+#EXTINF:-1,  Загородная Жизнь
 http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/852/index.m3u
-
-#EXTINF:-1,  tvg-name="Загородная жизнь",Загородная жизнь
+#EXTINF:-1,  Загородная жизнь
 http://hls.peers.tv/streaming/zagorod_zh/16/tvrec/playlist.m3u8|User-Agent=DuneHD/1.0.3
-
-#EXTINF:-1,  tvg-name="Загородная жизнь",Загородная жизнь
+#EXTINF:-1,  Загородная жизнь
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/266.m3u8
-
-#EXTINF:-1,  tvg-name="Загородный",Загородный
+#EXTINF:-1,  Загородный
 http://ott-cdn.ucom.am/s31/index.m3u8
-
-#EXTINF:-1,  tvg-name="Загородный",Загородный
+#EXTINF:-1,  Загородный
 http://92.43.140.200/s31/index.m3u8
-
-#EXTINF:-1,  tvg-name="Здоровое ТВ",Здоровое ТВ
+#EXTINF:-1,  Здоровое ТВ
 http://109.248.236.41:4433/udp/238.1.1.23:1234
-
-#EXTINF:-1,  tvg-name="Здоровое ТВ",Здоровое ТВ
+#EXTINF:-1,  Здоровое ТВ
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/342.m3u8
-
-#EXTINF:-1,  tvg-name="Здоровье",Здоровье
+#EXTINF:-1, Здоровье
 http://hls.peers.tv/streaming/tonus_tv/16/copy/playlist.m3u8|User-Agent=DuneHD/1.0.3
-
-#EXTINF:-1,  tvg-name="Здоровье",Здоровье
+#EXTINF:-1,  Здоровье
 http://ott-cdn.ucom.am/s90/index.m3u8
-
-#EXTINF:-1,  tvg-name="Здоровье",Здоровье
+#EXTINF:-1,  Здоровье
 http://ott-cdn.ucom.am/s90/04.m3u8
-
-#EXTINF:-1,  tvg-name="Здоровье",Здоровье
+#EXTINF:-1,  Здоровье
 http://92.43.140.200/s90/04.m3u8
-
-#EXTINF:-1,  tvg-name="Здоровье (Одесса)",Здоровье (Одесса)
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
-
-#EXTINF:-1,  tvg-name="Здоровье Одесса",Здоровье Одесса
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
-
-#EXTINF:-1,  tvg-name="Зоо ТВ",Зоо ТВ
+#EXTINF:-1,  Зоо ТВ
 http://hls.peers.tv/streaming/zoo_tv/16/tvrecw/playlist.m3u8|User-Agent=DuneHD/1.0.3
-
-#EXTINF:-1,  tvg-name="Зоо ТВ",Зоо ТВ
+#EXTINF:-1,  Зоо ТВ
 http://ott-cdn.ucom.am/s92/04.m3u8
-
-#EXTINF:-1,  tvg-name="Зоо ТВ",Зоо ТВ
+#EXTINF:-1,  Зоо ТВ
 http://ott-cdn.ucom.am/s92/index.m3u8
-
-#EXTINF:-1,  tvg-name="КУХНЯ ТВ",КУХНЯ ТВ
+#EXTINF:-1,  КУХНЯ ТВ
 http://82.200.127.58:8080/udp/239.54.7.156:1224
-
-#EXTINF:-1,  tvg-name="Магия Кухни ТВ",Магия Кухни ТВ
+#EXTINF:-1,  Магия Кухни ТВ
 http://sc.id-tv.kz/MagiyaKuhni_36_37.m3u8
-
-#EXTINF:-1,  tvg-name="ПСИХОЛОГИЯ 21",ПСИХОЛОГИЯ 21
+#EXTINF:-1,  ПСИХОЛОГИЯ 21
 http://109.248.236.41:4433/udp/238.1.1.103:1234
-
-#EXTINF:-1,  tvg-name="Психология 21",Психология 21
+#EXTINF:-1,  Психология 21
 http://hls.peers.tv/streaming/psych_21/16/tvrec/playlist.m3u8|User-Agent=DuneHD/1.0.3
-
-#EXTINF:-1,  tvg-name="Психология 21",Психология 21
+#EXTINF:-1,  Психология 21
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/344.m3u8
-
-#EXTINF:-1,  tvg-name="Психология 21",Психология 21
+#EXTINF:-1,  Психология 21
 http://178.49.77.88:3371/udp/239.1.2.9:1234
-
-#EXTINF:-1,  tvg-name="ТелеКафе",ТелеКафе
+#EXTINF:-1,  ТелеКафе
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/10.m3u8
-
-#EXTINF:-1,  tvg-name="Телекафе",Телекафе
+#EXTINF:-1,  Телекафе
 http://178.49.77.88:3371/udp/239.1.2.18:1234
-
-#EXTINF:-1,  tvg-name="УСАДЬБА",УСАДЬБА
+#EXTINF:-1,  tvg-name=УСАДЬБА
 http://176.196.160.34:4022/udp/239.255.42.19:1234
-
-#EXTINF:-1,  tvg-name="Усадьба",Усадьба
+#EXTINF:-1,  Усадьба
 http://82.200.127.58:8080/udp/239.54.5.113:1224?deooleg
-
-#EXTINF:-1,  tvg-name="Усадьба",Усадьба
+#EXTINF:-1,  Усадьба
 http://hls.peers.tv/streaming/usadba/16/tvrec/playlist.m3u8|User-Agent=DuneHD/1.0.3
-
-#EXTINF:-1,  tvg-name="Усадьба",Усадьба
+#EXTINF:-1, Усадьба
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/341.m3u8
-
-#EXTINF:-1,  tvg-name="Усадьба",Усадьба
+#EXTINF:-1, Усадьба
 http://178.49.77.88:3371/udp/239.1.2.17:1234
 
 ##tv
